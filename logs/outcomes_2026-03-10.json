@@ -1,0 +1,94 @@
+{
+  "date": "Tuesday, 10 March 2026",
+  "summary": {
+    "total_pnl_inr": 11.42,
+    "targets_hit": 2,
+    "stops_hit": 1,
+    "squared_off": 0,
+    "win_rate": 66.7,
+    "total_trades": 3
+  },
+  "outcomes": [
+    {
+      "ticker": "COALINDIA.NS",
+      "symbol": "COALINDIA",
+      "entry_price": 437.6499938964844,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9437.65 vs \u20b9437.65)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.66% headroom to \u20b9453.66"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 7,
+      "target_price": 439.84,
+      "stoploss_price": 433.27,
+      "actual_capital": 3063.55,
+      "max_profit": 15.32,
+      "max_loss": 30.64,
+      "day_high": 447.20001220703125,
+      "day_low": 434.79998779296875,
+      "day_close": 437.6499938964844,
+      "result": "TARGET_HIT",
+      "exit_price": 439.84,
+      "pnl_pct": 0.5,
+      "date": "2026-03-10"
+    },
+    {
+      "ticker": "HINDALCO.NS",
+      "symbol": "HINDALCO",
+      "entry_price": 945.3499755859375,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9945.35 vs \u20b9945.35)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.1x)",
+        "\u2705 MACD bullish",
+        "\u2705 5.24% headroom to \u20b9994.92"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 3,
+      "target_price": 950.08,
+      "stoploss_price": 935.9,
+      "actual_capital": 2836.05,
+      "max_profit": 14.18,
+      "max_loss": 28.36,
+      "day_high": 956.25,
+      "day_low": 925.25,
+      "day_close": 945.3499755859375,
+      "result": "TARGET_HIT",
+      "exit_price": 950.08,
+      "pnl_pct": 0.5,
+      "date": "2026-03-10"
+    },
+    {
+      "ticker": "SUNPHARMA.NS",
+      "symbol": "SUNPHARMA",
+      "entry_price": 1807.4000244140625,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91807.40 vs \u20b91807.40)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.81% headroom to \u20b91840.14"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 1,
+      "target_price": 1816.44,
+      "stoploss_price": 1789.33,
+      "actual_capital": 1807.4,
+      "max_profit": 9.04,
+      "max_loss": 18.07,
+      "day_high": 1815.0,
+      "day_low": 1770.0,
+      "day_close": 1807.4000244140625,
+      "result": "STOPLOSS_HIT",
+      "exit_price": 1789.33,
+      "pnl_pct": -1.0,
+      "date": "2026-03-10"
+    }
+  ]
+}
