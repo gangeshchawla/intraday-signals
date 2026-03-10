@@ -1,9 +1,9 @@
 {
   "date": "Tuesday, 10 March 2026",
   "vix": {
-    "value": 20.81,
-    "status": "HIGH",
-    "message": "VIX 20.8 \u2014 High volatility, reduce position size \u26a0\ufe0f"
+    "value": 18.91,
+    "status": "CAUTION",
+    "message": "VIX 18.9 \u2014 Elevated volatility, trade carefully \u26a0\ufe0f"
   },
   "trading_permitted": true,
   "stocks": [
@@ -22,8 +22,8 @@
       "gap_pct": -2.691,
       "rs_signal": "WEAK",
       "rs_ratio": 0.9565,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "ADANIPORTS.NS",
@@ -31,7 +31,7 @@
       "premarket_price": 1421.300048828125,
       "predicted_day_high": 1534.59,
       "signal": "SKIP",
-      "score": 0,
+      "score": 4.0,
       "sma20": 1521.440008544922,
       "sma50": 1476.7280029296876,
       "avg_volume": 2190934.45,
@@ -40,8 +40,8 @@
       "gap_pct": -4.907,
       "rs_signal": "WEAK",
       "rs_ratio": 0.9798,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "APOLLOHOSP.NS",
@@ -49,7 +49,7 @@
       "premarket_price": 7779.0,
       "predicted_day_high": 7895.98,
       "signal": "WATCHLIST",
-      "score": 50.0,
+      "score": 60.0,
       "sma20": 7628.670971679688,
       "sma50": 7299.648486328125,
       "avg_volume": 465562.3,
@@ -58,8 +58,8 @@
       "gap_pct": -1.767,
       "rs_signal": "STRONG",
       "rs_ratio": 1.1629,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "ASIANPAINT.NS",
@@ -67,7 +67,7 @@
       "premarket_price": 2220.800048828125,
       "predicted_day_high": 2347.7,
       "signal": "SKIP",
-      "score": 21.0,
+      "score": 31.0,
       "sma20": 2374.334997558594,
       "sma50": 2558.04400390625,
       "avg_volume": 1183426.2,
@@ -76,8 +76,8 @@
       "gap_pct": -3.488,
       "rs_signal": "NEUTRAL",
       "rs_ratio": 0.989,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "AXISBANK.NS",
@@ -85,7 +85,7 @@
       "premarket_price": 1288.300048828125,
       "predicted_day_high": 1349.53,
       "signal": "SKIP",
-      "score": 4.0,
+      "score": 14.0,
       "sma20": 1358.4300109863282,
       "sma50": 1320.6880078125,
       "avg_volume": 5685698.4,
@@ -94,8 +94,8 @@
       "gap_pct": -2.554,
       "rs_signal": "OUTPERFORMING",
       "rs_ratio": 1.0339,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "BAJAJ-AUTO.NS",
@@ -103,7 +103,7 @@
       "premarket_price": 9383.0,
       "predicted_day_high": 10121.82,
       "signal": "SKIP",
-      "score": 4.0,
+      "score": 14.0,
       "sma20": 9810.975,
       "sma50": 9610.48,
       "avg_volume": 266982.2,
@@ -112,8 +112,8 @@
       "gap_pct": -2.2,
       "rs_signal": "OUTPERFORMING",
       "rs_ratio": 1.0533,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "BAJFINANCE.NS",
@@ -121,7 +121,7 @@
       "premarket_price": 938.0499877929688,
       "predicted_day_high": 978.7,
       "signal": "SKIP",
-      "score": 19.0,
+      "score": 29.0,
       "sma20": 994.8974975585937,
       "sma50": 972.7479992675782,
       "avg_volume": 7338974.35,
@@ -130,8 +130,8 @@
       "gap_pct": -2.989,
       "rs_signal": "OUTPERFORMING",
       "rs_ratio": 1.0272,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "BAJAJFINSV.NS",
@@ -139,7 +139,7 @@
       "premarket_price": 1841.5,
       "predicted_day_high": 1921.74,
       "signal": "SKIP",
-      "score": 1.0,
+      "score": 11.0,
       "sma20": 2000.9850158691406,
       "sma50": 1998.9280029296874,
       "avg_volume": 946161.0,
@@ -148,8 +148,8 @@
       "gap_pct": -1.595,
       "rs_signal": "WEAK",
       "rs_ratio": 0.9792,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "BHARTIARTL.NS",
@@ -157,7 +157,7 @@
       "premarket_price": 1866.699951171875,
       "predicted_day_high": 1926.93,
       "signal": "SKIP",
-      "score": 13.0,
+      "score": 23.0,
       "sma20": 1960.1250061035157,
       "sma50": 2004.156005859375,
       "avg_volume": 8280560.7,
@@ -166,8 +166,8 @@
       "gap_pct": -2.127,
       "rs_signal": "NEUTRAL",
       "rs_ratio": 0.986,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "BPCL.NS",
@@ -175,7 +175,7 @@
       "premarket_price": 331.1499938964844,
       "predicted_day_high": 367.24,
       "signal": "SKIP",
-      "score": 9.0,
+      "score": 19.0,
       "sma20": 372.6324996948242,
       "sma50": 363.7514837646484,
       "avg_volume": 8202553.65,
@@ -184,8 +184,8 @@
       "gap_pct": -3.232,
       "rs_signal": "WEAK",
       "rs_ratio": 0.9181,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "BRITANNIA.NS",
@@ -193,7 +193,7 @@
       "premarket_price": 5890.0,
       "predicted_day_high": 6123.28,
       "signal": "SKIP",
-      "score": 16.0,
+      "score": 26.0,
       "sma20": 6035.975,
       "sma50": 5976.05,
       "avg_volume": 283850.25,
@@ -202,16 +202,16 @@
       "gap_pct": -0.886,
       "rs_signal": "STRONG",
       "rs_ratio": 1.0852,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "CIPLA.NS",
       "symbol": "CIPLA",
       "premarket_price": 1325.0,
       "predicted_day_high": 1353.18,
-      "signal": "SKIP",
-      "score": 36.0,
+      "signal": "WATCHLIST",
+      "score": 46.0,
       "sma20": 1337.9549926757813,
       "sma50": 1382.732001953125,
       "avg_volume": 1527010.9,
@@ -220,8 +220,8 @@
       "gap_pct": -0.923,
       "rs_signal": "STRONG",
       "rs_ratio": 1.0625,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "COALINDIA.NS",
@@ -229,7 +229,7 @@
       "premarket_price": 437.6499938964844,
       "predicted_day_high": 453.66,
       "signal": "WATCHLIST",
-      "score": 84.0,
+      "score": 94.0,
       "sma20": 426.2878021240234,
       "sma50": 421.8229364013672,
       "avg_volume": 9271900.75,
@@ -238,8 +238,8 @@
       "gap_pct": -0.329,
       "rs_signal": "STRONG",
       "rs_ratio": 1.1058,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "DIVISLAB.NS",
@@ -247,7 +247,7 @@
       "premarket_price": 6330.0,
       "predicted_day_high": 6486.35,
       "signal": "WATCHLIST",
-      "score": 76.0,
+      "score": 86.0,
       "sma20": 6290.4,
       "sma50": 6276.27,
       "avg_volume": 369942.8,
@@ -256,16 +256,16 @@
       "gap_pct": -0.822,
       "rs_signal": "STRONG",
       "rs_ratio": 1.1147,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "DRREDDY.NS",
       "symbol": "DRREDDY",
       "premarket_price": 1287.0,
       "predicted_day_high": 1342.59,
-      "signal": "SKIP",
-      "score": 35.0,
+      "signal": "WATCHLIST",
+      "score": 45.0,
       "sma20": 1287.5800170898438,
       "sma50": 1248.7040063476563,
       "avg_volume": 1433524.95,
@@ -274,8 +274,8 @@
       "gap_pct": -1.404,
       "rs_signal": "STRONG",
       "rs_ratio": 1.0863,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "EICHERMOT.NS",
@@ -283,7 +283,7 @@
       "premarket_price": 7266.0,
       "predicted_day_high": 7870.71,
       "signal": "SKIP",
-      "score": 19.0,
+      "score": 29.0,
       "sma20": 7821.45,
       "sma50": 7493.35,
       "avg_volume": 599426.3,
@@ -292,8 +292,8 @@
       "gap_pct": -1.358,
       "rs_signal": "OUTPERFORMING",
       "rs_ratio": 1.0871,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "GRASIM.NS",
@@ -301,7 +301,7 @@
       "premarket_price": 2681.199951171875,
       "predicted_day_high": 2803.89,
       "signal": "SKIP",
-      "score": 13.0,
+      "score": 23.0,
       "sma20": 2847.4449951171873,
       "sma50": 2826.8219921875,
       "avg_volume": 712395.15,
@@ -310,8 +310,8 @@
       "gap_pct": -2.185,
       "rs_signal": "NEUTRAL",
       "rs_ratio": 0.9864,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "HCLTECH.NS",
@@ -319,7 +319,7 @@
       "premarket_price": 1358.5999755859375,
       "predicted_day_high": 1408.53,
       "signal": "SKIP",
-      "score": 0,
+      "score": 6.0,
       "sma20": 1433.35498046875,
       "sma50": 1568.0656909179688,
       "avg_volume": 3681302.5,
@@ -328,8 +328,8 @@
       "gap_pct": -1.968,
       "rs_signal": "NEUTRAL",
       "rs_ratio": 0.913,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "HDFCBANK.NS",
@@ -337,7 +337,7 @@
       "premarket_price": 840.7000122070312,
       "predicted_day_high": 878.64,
       "signal": "SKIP",
-      "score": 1.0,
+      "score": 11.0,
       "sma20": 903.8249969482422,
       "sma50": 930.4939990234375,
       "avg_volume": 30013311.55,
@@ -346,8 +346,8 @@
       "gap_pct": -3.74,
       "rs_signal": "WEAK",
       "rs_ratio": 0.9656,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "HDFCLIFE.NS",
@@ -355,7 +355,7 @@
       "premarket_price": 653.75,
       "predicted_day_high": 689.27,
       "signal": "SKIP",
-      "score": 0,
+      "score": 8.0,
       "sma20": 708.6899993896484,
       "sma50": 726.5539965820312,
       "avg_volume": 3117736.35,
@@ -364,8 +364,8 @@
       "gap_pct": -2.027,
       "rs_signal": "NEUTRAL",
       "rs_ratio": 0.9942,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "HEROMOTOCO.NS",
@@ -373,7 +373,7 @@
       "premarket_price": 5480.0,
       "predicted_day_high": 5697.06,
       "signal": "SKIP",
-      "score": 13.0,
+      "score": 23.0,
       "sma20": 5586.8221435546875,
       "sma50": 5589.970390625,
       "avg_volume": 474542.35,
@@ -382,8 +382,8 @@
       "gap_pct": -1.188,
       "rs_signal": "STRONG",
       "rs_ratio": 1.0448,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "HINDALCO.NS",
@@ -391,7 +391,7 @@
       "premarket_price": 945.3499755859375,
       "predicted_day_high": 994.92,
       "signal": "WATCHLIST",
-      "score": 75.0,
+      "score": 85.0,
       "sma20": 933.7050048828125,
       "sma50": 934.0010046386719,
       "avg_volume": 6330967.4,
@@ -400,8 +400,8 @@
       "gap_pct": -1.971,
       "rs_signal": "STRONG",
       "rs_ratio": 1.0554,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "HINDUNILVR.NS",
@@ -418,8 +418,8 @@
       "gap_pct": -1.2,
       "rs_signal": "WEAK",
       "rs_ratio": 0.9703,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "ICICIBANK.NS",
@@ -427,7 +427,7 @@
       "premarket_price": 1278.4000244140625,
       "predicted_day_high": 1347.87,
       "signal": "SKIP",
-      "score": 13.0,
+      "score": 23.0,
       "sma20": 1386.0700073242188,
       "sma50": 1383.136005859375,
       "avg_volume": 14604903.55,
@@ -436,8 +436,8 @@
       "gap_pct": -3.099,
       "rs_signal": "NEUTRAL",
       "rs_ratio": 0.9856,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "INDUSINDBK.NS",
@@ -445,7 +445,7 @@
       "premarket_price": 881.2000122070312,
       "predicted_day_high": 947.42,
       "signal": "SKIP",
-      "score": 4.0,
+      "score": 14.0,
       "sma20": 930.9574981689453,
       "sma50": 913.2690002441407,
       "avg_volume": 3538081.35,
@@ -454,8 +454,8 @@
       "gap_pct": -2.054,
       "rs_signal": "OUTPERFORMING",
       "rs_ratio": 1.0224,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "INFY.NS",
@@ -463,7 +463,7 @@
       "premarket_price": 1315.0,
       "predicted_day_high": 1356.11,
       "signal": "SKIP",
-      "score": 16.0,
+      "score": 26.0,
       "sma20": 1354.1999938964843,
       "sma50": 1517.7660009765625,
       "avg_volume": 16509088.25,
@@ -472,8 +472,8 @@
       "gap_pct": -1.406,
       "rs_signal": "NEUTRAL",
       "rs_ratio": 0.9455,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "ITC.NS",
@@ -481,7 +481,7 @@
       "premarket_price": 306.0,
       "predicted_day_high": 317.2,
       "signal": "SKIP",
-      "score": 10.0,
+      "score": 20.0,
       "sma20": 318.85500183105466,
       "sma50": 327.77864807128907,
       "avg_volume": 18154301.0,
@@ -490,8 +490,8 @@
       "gap_pct": -1.518,
       "rs_signal": "STRONG",
       "rs_ratio": 1.0205,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "JSWSTEEL.NS",
@@ -499,7 +499,7 @@
       "premarket_price": 1192.5999755859375,
       "predicted_day_high": 1270.96,
       "signal": "SKIP",
-      "score": 12.0,
+      "score": 22.0,
       "sma20": 1244.8199890136718,
       "sma50": 1207.777998046875,
       "avg_volume": 1317252.35,
@@ -508,8 +508,8 @@
       "gap_pct": -2.488,
       "rs_signal": "OUTPERFORMING",
       "rs_ratio": 1.0312,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "KOTAKBANK.NS",
@@ -517,7 +517,7 @@
       "premarket_price": 386.3500061035156,
       "predicted_day_high": 410.55,
       "signal": "SKIP",
-      "score": 1.0,
+      "score": 11.0,
       "sma20": 419.0850006103516,
       "sma50": 421.82499938964844,
       "avg_volume": 14147926.95,
@@ -526,8 +526,8 @@
       "gap_pct": -2.451,
       "rs_signal": "WEAK",
       "rs_ratio": 0.97,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "LT.NS",
@@ -535,7 +535,7 @@
       "premarket_price": 3842.10009765625,
       "predicted_day_high": 4114.45,
       "signal": "SKIP",
-      "score": 4.0,
+      "score": 14.0,
       "sma20": 4180.079992675781,
       "sma50": 4054.657998046875,
       "avg_volume": 2883298.5,
@@ -544,8 +544,8 @@
       "gap_pct": -2.527,
       "rs_signal": "OUTPERFORMING",
       "rs_ratio": 1.0055,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "M&M.NS",
@@ -553,7 +553,7 @@
       "premarket_price": 3187.60009765625,
       "predicted_day_high": 3436.52,
       "signal": "SKIP",
-      "score": 9.0,
+      "score": 19.0,
       "sma20": 3459.0550170898437,
       "sma50": 3552.30400390625,
       "avg_volume": 2490166.4,
@@ -562,8 +562,8 @@
       "gap_pct": -2.476,
       "rs_signal": "WEAK",
       "rs_ratio": 0.9507,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "MARUTI.NS",
@@ -571,7 +571,7 @@
       "premarket_price": 13508.0,
       "predicted_day_high": 14605.65,
       "signal": "SKIP",
-      "score": 9.0,
+      "score": 19.0,
       "sma20": 14856.95,
       "sma50": 15509.12,
       "avg_volume": 358717.35,
@@ -580,8 +580,8 @@
       "gap_pct": -2.535,
       "rs_signal": "WEAK",
       "rs_ratio": 0.9709,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "NESTLEIND.NS",
@@ -589,7 +589,7 @@
       "premarket_price": 1235.800048828125,
       "predicted_day_high": 1285.68,
       "signal": "SKIP",
-      "score": 18.0,
+      "score": 28.0,
       "sma20": 1288.910009765625,
       "sma50": 1292.3607104492187,
       "avg_volume": 849809.8,
@@ -598,8 +598,8 @@
       "gap_pct": -2.028,
       "rs_signal": "STRONG",
       "rs_ratio": 1.0269,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "NTPC.NS",
@@ -607,7 +607,7 @@
       "premarket_price": 376.25,
       "predicted_day_high": 391.57,
       "signal": "WATCHLIST",
-      "score": 55.0,
+      "score": 65.0,
       "sma20": 372.78499908447264,
       "sma50": 354.77740966796875,
       "avg_volume": 10708078.5,
@@ -616,8 +616,8 @@
       "gap_pct": -1.997,
       "rs_signal": "STRONG",
       "rs_ratio": 1.1192,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "ONGC.NS",
@@ -625,7 +625,7 @@
       "premarket_price": 270.79998779296875,
       "predicted_day_high": 289.78,
       "signal": "WATCHLIST",
-      "score": 50.0,
+      "score": 60.0,
       "sma20": 272.46781768798826,
       "sma50": 254.04878692626954,
       "avg_volume": 25913203.75,
@@ -634,8 +634,8 @@
       "gap_pct": 3.603,
       "rs_signal": "STRONG",
       "rs_ratio": 1.1192,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "POWERGRID.NS",
@@ -643,7 +643,7 @@
       "premarket_price": 295.20001220703125,
       "predicted_day_high": 308.0,
       "signal": "SKIP",
-      "score": 30.0,
+      "score": 40.0,
       "sma20": 297.7450012207031,
       "sma50": 276.1123223876953,
       "avg_volume": 15352569.3,
@@ -652,8 +652,8 @@
       "gap_pct": -4.563,
       "rs_signal": "STRONG",
       "rs_ratio": 1.0968,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "RELIANCE.NS",
@@ -661,7 +661,7 @@
       "premarket_price": 1424.0,
       "predicted_day_high": 1446.93,
       "signal": "WATCHLIST",
-      "score": 63.0,
+      "score": 73.0,
       "sma20": 1418.240008544922,
       "sma50": 1446.7580053710938,
       "avg_volume": 13667072.3,
@@ -670,8 +670,8 @@
       "gap_pct": -2.121,
       "rs_signal": "STRONG",
       "rs_ratio": 1.0489,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "SBILIFE.NS",
@@ -679,7 +679,7 @@
       "premarket_price": 1912.5,
       "predicted_day_high": 2000.33,
       "signal": "SKIP",
-      "score": 12.0,
+      "score": 22.0,
       "sma20": 2024.3238464355468,
       "sma50": 2034.21734375,
       "avg_volume": 868292.35,
@@ -688,16 +688,16 @@
       "gap_pct": -2.143,
       "rs_signal": "OUTPERFORMING",
       "rs_ratio": 1.0187,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "SBIN.NS",
       "symbol": "SBIN",
       "premarket_price": 1098.5,
       "predicted_day_high": 1175.63,
-      "signal": "SKIP",
-      "score": 39.0,
+      "signal": "WATCHLIST",
+      "score": 49.0,
       "sma20": 1188.2,
       "sma50": 1090.9939990234375,
       "avg_volume": 18662918.9,
@@ -706,8 +706,8 @@
       "gap_pct": -2.45,
       "rs_signal": "OUTPERFORMING",
       "rs_ratio": 1.0319,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "SHREECEM.NS",
@@ -715,7 +715,7 @@
       "premarket_price": 23590.0,
       "predicted_day_high": 25766.37,
       "signal": "SKIP",
-      "score": 1.0,
+      "score": 11.0,
       "sma20": 26144.75,
       "sma50": 26741.6,
       "avg_volume": 28945.7,
@@ -724,8 +724,8 @@
       "gap_pct": -1.106,
       "rs_signal": "WEAK",
       "rs_ratio": 0.9356,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "SUNPHARMA.NS",
@@ -733,7 +733,7 @@
       "premarket_price": 1807.4000244140625,
       "predicted_day_high": 1840.14,
       "signal": "WATCHLIST",
-      "score": 63.0,
+      "score": 73.0,
       "sma20": 1738.0500061035157,
       "sma50": 1702.2678344726562,
       "avg_volume": 2248389.3,
@@ -742,8 +742,8 @@
       "gap_pct": -1.473,
       "rs_signal": "STRONG",
       "rs_ratio": 1.1415,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "TATACONSUM.NS",
@@ -751,7 +751,7 @@
       "premarket_price": 1102.5,
       "predicted_day_high": 1146.64,
       "signal": "SKIP",
-      "score": 4.0,
+      "score": 14.0,
       "sma20": 1146.2149841308594,
       "sma50": 1161.4519946289063,
       "avg_volume": 884801.7,
@@ -760,8 +760,8 @@
       "gap_pct": -2.686,
       "rs_signal": "OUTPERFORMING",
       "rs_ratio": 1.0169,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "TATASTEEL.NS",
@@ -769,7 +769,7 @@
       "premarket_price": 191.00999450683594,
       "predicted_day_high": 206.41,
       "signal": "SKIP",
-      "score": 4.0,
+      "score": 14.0,
       "sma20": 205.90599975585937,
       "sma50": 194.26280029296876,
       "avg_volume": 37172577.35,
@@ -778,8 +778,8 @@
       "gap_pct": -2.524,
       "rs_signal": "OUTPERFORMING",
       "rs_ratio": 1.018,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "TCS.NS",
@@ -787,7 +787,7 @@
       "premarket_price": 2527.39990234375,
       "predicted_day_high": 2637.06,
       "signal": "SKIP",
-      "score": 13.0,
+      "score": 23.0,
       "sma20": 2689.8699951171875,
       "sma50": 2966.53701171875,
       "avg_volume": 4439235.4,
@@ -796,8 +796,8 @@
       "gap_pct": -1.079,
       "rs_signal": "NEUTRAL",
       "rs_ratio": 0.9229,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "TECHM.NS",
@@ -805,7 +805,7 @@
       "premarket_price": 1336.300048828125,
       "predicted_day_high": 1387.87,
       "signal": "SKIP",
-      "score": 11.0,
+      "score": 21.0,
       "sma20": 1450.7400146484374,
       "sma50": 1570.6100073242187,
       "avg_volume": 2418654.6,
@@ -814,8 +814,8 @@
       "gap_pct": -2.005,
       "rs_signal": "NEUTRAL",
       "rs_ratio": 0.8871,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "TITAN.NS",
@@ -823,7 +823,7 @@
       "premarket_price": 4159.2001953125,
       "predicted_day_high": 4349.31,
       "signal": "SKIP",
-      "score": 33.0,
+      "score": 43.0,
       "sma20": 4252.385034179688,
       "sma50": 4156.182016601562,
       "avg_volume": 843267.5,
@@ -832,8 +832,8 @@
       "gap_pct": -1.993,
       "rs_signal": "STRONG",
       "rs_ratio": 1.0516,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "ULTRACEMCO.NS",
@@ -841,7 +841,7 @@
       "premarket_price": 11378.0,
       "predicted_day_high": 12364.28,
       "signal": "SKIP",
-      "score": 9.0,
+      "score": 19.0,
       "sma20": 12718.75,
       "sma50": 12445.52,
       "avg_volume": 225155.95,
@@ -850,8 +850,8 @@
       "gap_pct": -1.844,
       "rs_signal": "WEAK",
       "rs_ratio": 0.9388,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "UPL.NS",
@@ -859,7 +859,7 @@
       "premarket_price": 625.0,
       "predicted_day_high": 659.4,
       "signal": "SKIP",
-      "score": 13.0,
+      "score": 23.0,
       "sma20": 687.3774963378906,
       "sma50": 729.995,
       "avg_volume": 3797687.8,
@@ -868,8 +868,8 @@
       "gap_pct": -2.92,
       "rs_signal": "NEUTRAL",
       "rs_ratio": 0.9043,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     },
     {
       "ticker": "WIPRO.NS",
@@ -877,7 +877,7 @@
       "premarket_price": 198.75,
       "predicted_day_high": 201.9,
       "signal": "SKIP",
-      "score": 19.0,
+      "score": 29.0,
       "sma20": 209.02200012207032,
       "sma50": 232.2431219482422,
       "avg_volume": 18098681.15,
@@ -886,8 +886,8 @@
       "gap_pct": -0.716,
       "rs_signal": "NEUTRAL",
       "rs_ratio": 0.93,
-      "vix": 20.81,
-      "vix_status": "HIGH"
+      "vix": 18.91,
+      "vix_status": "CAUTION"
     }
   ]
 }
