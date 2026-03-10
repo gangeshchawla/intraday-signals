@@ -14,6 +14,18 @@
       "avg_volume": 465562.3
     },
     {
+      "ticker": "CIPLA.NS",
+      "symbol": "CIPLA",
+      "premarket_price": 1325.0,
+      "predicted_day_high": 1353.18,
+      "current_price": 1325.0,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 1.09679046822783,
+      "avg_volume": 1527010.9
+    },
+    {
       "ticker": "COALINDIA.NS",
       "symbol": "COALINDIA",
       "premarket_price": 437.6499938964844,
@@ -36,6 +48,18 @@
       "note": "Moving as expected. 2.47% left to predicted high.",
       "vol_ratio": 0.7049143813584154,
       "avg_volume": 369942.8
+    },
+    {
+      "ticker": "DRREDDY.NS",
+      "symbol": "DRREDDY",
+      "premarket_price": 1287.0,
+      "predicted_day_high": 1342.59,
+      "current_price": 1287.0,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 1.114546349542085,
+      "avg_volume": 1433524.95
     },
     {
       "ticker": "HINDALCO.NS",
@@ -84,6 +108,18 @@
       "note": "Moving as expected. 1.61% left to predicted high.",
       "vol_ratio": 1.8197622324716902,
       "avg_volume": 13667072.3
+    },
+    {
+      "ticker": "SBIN.NS",
+      "symbol": "SBIN",
+      "premarket_price": 1098.5,
+      "predicted_day_high": 1175.63,
+      "current_price": 1098.5,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 1.3197934434575507,
+      "avg_volume": 18662918.9
     },
     {
       "ticker": "SUNPHARMA.NS",
