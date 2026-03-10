@@ -1,0 +1,101 @@
+{
+  "date": "Tuesday, 10 March 2026",
+  "checks": [
+    {
+      "ticker": "APOLLOHOSP.NS",
+      "symbol": "APOLLOHOSP",
+      "premarket_price": 7779.0,
+      "predicted_day_high": 7895.98,
+      "current_price": 7779.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.50% left to predicted high.",
+      "vol_ratio": 0.7702771465816712,
+      "avg_volume": 465562.3
+    },
+    {
+      "ticker": "COALINDIA.NS",
+      "symbol": "COALINDIA",
+      "premarket_price": 437.6499938964844,
+      "predicted_day_high": 453.66,
+      "current_price": 437.6499938964844,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 3.66% left to predicted high.",
+      "vol_ratio": 1.7067240500821796,
+      "avg_volume": 9271900.75
+    },
+    {
+      "ticker": "DIVISLAB.NS",
+      "symbol": "DIVISLAB",
+      "premarket_price": 6330.0,
+      "predicted_day_high": 6486.35,
+      "current_price": 6330.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.47% left to predicted high.",
+      "vol_ratio": 0.7049143813584154,
+      "avg_volume": 369942.8
+    },
+    {
+      "ticker": "HINDALCO.NS",
+      "symbol": "HINDALCO",
+      "premarket_price": 945.3499755859375,
+      "predicted_day_high": 994.92,
+      "current_price": 945.3499755859375,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 5.24% left to predicted high.",
+      "vol_ratio": 1.1083438843801343,
+      "avg_volume": 6330967.4
+    },
+    {
+      "ticker": "NTPC.NS",
+      "symbol": "NTPC",
+      "premarket_price": 376.25,
+      "predicted_day_high": 391.57,
+      "current_price": 376.25,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 4.07% left to predicted high.",
+      "vol_ratio": 1.0540245852698968,
+      "avg_volume": 10708078.5
+    },
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "premarket_price": 270.79998779296875,
+      "predicted_day_high": 289.78,
+      "current_price": 270.79998779296875,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 2.1808363622348317,
+      "avg_volume": 25913203.75
+    },
+    {
+      "ticker": "RELIANCE.NS",
+      "symbol": "RELIANCE",
+      "premarket_price": 1424.0,
+      "predicted_day_high": 1446.93,
+      "current_price": 1424.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.61% left to predicted high.",
+      "vol_ratio": 1.8197622324716902,
+      "avg_volume": 13667072.3
+    },
+    {
+      "ticker": "SUNPHARMA.NS",
+      "symbol": "SUNPHARMA",
+      "premarket_price": 1807.4000244140625,
+      "predicted_day_high": 1840.14,
+      "current_price": 1807.4000244140625,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.81% left to predicted high.",
+      "vol_ratio": 1.8292094700859858,
+      "avg_volume": 2248389.3
+    }
+  ]
+}
