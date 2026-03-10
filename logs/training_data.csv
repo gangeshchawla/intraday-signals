@@ -1,0 +1,2 @@
+date,ticker,rsi,macd_diff,sma20_ratio,sma50_ratio,atr_ratio,vol_ratio,volatility,gap_pct,rs_ratio,promoter_holding,fii_holding,vix,premarket_score,result,pnl_pct,label
+2026-03-10,COALINDIA.NS,,,,,,,,,,,,20.81,,TARGET_HIT,0.5,1
