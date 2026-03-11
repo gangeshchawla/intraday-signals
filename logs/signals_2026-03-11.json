@@ -1,0 +1,106 @@
+{
+  "date": "Wednesday, 11 March 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "COALINDIA.NS",
+      "symbol": "COALINDIA",
+      "entry_price": 443.54998779296875,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9443.55 vs \u20b9443.55)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.1x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.74% headroom to \u20b9451.25"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 7,
+      "target_price": 445.77,
+      "stoploss_price": 439.11,
+      "actual_capital": 3104.85,
+      "max_profit": 15.52,
+      "max_loss": 31.05
+    },
+    {
+      "ticker": "HINDALCO.NS",
+      "symbol": "HINDALCO",
+      "entry_price": 956.5999755859375,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9956.60 vs \u20b9956.60)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.59% headroom to \u20b9981.33",
+        "\ud83d\udca1 Gap up +1.13% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 3,
+      "target_price": 961.38,
+      "stoploss_price": 947.03,
+      "actual_capital": 2869.8,
+      "max_profit": 14.35,
+      "max_loss": 28.7
+    },
+    {
+      "ticker": "SUNPHARMA.NS",
+      "symbol": "SUNPHARMA",
+      "entry_price": 1812.800048828125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91812.80 vs \u20b91812.80)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.4x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.94% headroom to \u20b91847.90"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 1,
+      "target_price": 1821.86,
+      "stoploss_price": 1794.67,
+      "actual_capital": 1812.8,
+      "max_profit": 9.06,
+      "max_loss": 18.13
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "APOLLOHOSP",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "DIVISLAB",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "DRREDDY",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "HEROMOTOCO",
+      "reasons": [
+        "\u274c MACD bearish",
+        "\u274c Only -0.67% headroom to \u20b95673.26"
+      ]
+    },
+    {
+      "symbol": "NTPC",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "POWERGRID",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    }
+  ]
+}
