@@ -1,0 +1,113 @@
+{
+  "date": "Thursday, 12 March 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "COALINDIA.NS",
+      "symbol": "COALINDIA",
+      "entry_price": 446.75,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9446.75 vs \u20b9446.75)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.0x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.41% headroom to \u20b9457.53"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 5,
+      "target_price": 448.98,
+      "stoploss_price": 442.28,
+      "actual_capital": 2233.75,
+      "max_profit": 11.17,
+      "max_loss": 22.34
+    },
+    {
+      "ticker": "DRREDDY.NS",
+      "symbol": "DRREDDY",
+      "entry_price": 1325.5,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91325.50 vs \u20b91325.50)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.25% headroom to \u20b91355.31"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 1,
+      "target_price": 1332.13,
+      "stoploss_price": 1312.24,
+      "actual_capital": 1325.5,
+      "max_profit": 6.63,
+      "max_loss": 13.26
+    },
+    {
+      "ticker": "HINDALCO.NS",
+      "symbol": "HINDALCO",
+      "entry_price": 959.0999755859375,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9959.10 vs \u20b9959.10)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.57% headroom to \u20b9993.36"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 2,
+      "target_price": 963.9,
+      "stoploss_price": 949.51,
+      "actual_capital": 1918.2,
+      "max_profit": 9.59,
+      "max_loss": 19.18
+    },
+    {
+      "ticker": "SUNPHARMA.NS",
+      "symbol": "SUNPHARMA",
+      "entry_price": 1825.9000244140625,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91825.90 vs \u20b91825.90)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.1x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.57% headroom to \u20b91854.63",
+        "\ud83d\udca1 Gap up +0.56% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 1,
+      "target_price": 1835.03,
+      "stoploss_price": 1807.64,
+      "actual_capital": 1825.9,
+      "max_profit": 9.13,
+      "max_loss": 18.26
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "APOLLOHOSP",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "DIVISLAB",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "NTPC",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "POWERGRID",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    }
+  ]
+}
