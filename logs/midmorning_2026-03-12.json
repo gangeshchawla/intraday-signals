@@ -1,0 +1,101 @@
+{
+  "date": "Thursday, 12 March 2026",
+  "checks": [
+    {
+      "ticker": "APOLLOHOSP.NS",
+      "symbol": "APOLLOHOSP",
+      "premarket_price": 7684.0,
+      "predicted_day_high": 7982.61,
+      "current_price": 7684.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 3.89% left to predicted high.",
+      "vol_ratio": 0.7106300781480983,
+      "avg_volume": 466754.8
+    },
+    {
+      "ticker": "COALINDIA.NS",
+      "symbol": "COALINDIA",
+      "premarket_price": 446.75,
+      "predicted_day_high": 457.53,
+      "current_price": 446.75,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.41% left to predicted high.",
+      "vol_ratio": 1.014538107054092,
+      "avg_volume": 9832917.0
+    },
+    {
+      "ticker": "DIVISLAB.NS",
+      "symbol": "DIVISLAB",
+      "premarket_price": 6352.5,
+      "predicted_day_high": 6530.07,
+      "current_price": 6352.5,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.80% left to predicted high.",
+      "vol_ratio": 0.678193132532918,
+      "avg_volume": 374697.1
+    },
+    {
+      "ticker": "DRREDDY.NS",
+      "symbol": "DRREDDY",
+      "premarket_price": 1325.5,
+      "predicted_day_high": 1355.31,
+      "current_price": 1325.5,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.25% left to predicted high.",
+      "vol_ratio": 1.6400797898651716,
+      "avg_volume": 1496505.85
+    },
+    {
+      "ticker": "HINDALCO.NS",
+      "symbol": "HINDALCO",
+      "premarket_price": 959.0999755859375,
+      "predicted_day_high": 993.36,
+      "current_price": 959.0999755859375,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 3.57% left to predicted high.",
+      "vol_ratio": 0.7044821865206343,
+      "avg_volume": 6325937.1
+    },
+    {
+      "ticker": "NTPC.NS",
+      "symbol": "NTPC",
+      "premarket_price": 379.8999938964844,
+      "predicted_day_high": 389.15,
+      "current_price": 379.8999938964844,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.43% left to predicted high.",
+      "vol_ratio": 0.9111811000809936,
+      "avg_volume": 10934929.4
+    },
+    {
+      "ticker": "POWERGRID.NS",
+      "symbol": "POWERGRID",
+      "premarket_price": 298.79998779296875,
+      "predicted_day_high": 307.71,
+      "current_price": 298.79998779296875,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.98% left to predicted high.",
+      "vol_ratio": 0.8430199544793681,
+      "avg_volume": 14967960.05
+    },
+    {
+      "ticker": "SUNPHARMA.NS",
+      "symbol": "SUNPHARMA",
+      "premarket_price": 1825.9000244140625,
+      "predicted_day_high": 1854.63,
+      "current_price": 1825.9000244140625,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.57% left to predicted high.",
+      "vol_ratio": 1.085386142507485,
+      "avg_volume": 2312997.1
+    }
+  ]
+}
