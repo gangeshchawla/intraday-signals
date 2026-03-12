@@ -1,0 +1,122 @@
+{
+  "date": "Thursday, 12 March 2026",
+  "summary": {
+    "total_pnl_inr": 36.49,
+    "targets_hit": 4,
+    "stops_hit": 0,
+    "squared_off": 0,
+    "win_rate": 100.0,
+    "total_trades": 4
+  },
+  "outcomes": [
+    {
+      "ticker": "COALINDIA.NS",
+      "symbol": "COALINDIA",
+      "entry_price": 446.75,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9446.75 vs \u20b9446.75)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.0x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.41% headroom to \u20b9457.53"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 5,
+      "target_price": 448.98,
+      "stoploss_price": 442.28,
+      "actual_capital": 2233.75,
+      "max_profit": 11.17,
+      "max_loss": 22.34,
+      "day_high": 453.8999938964844,
+      "day_low": 445.1499938964844,
+      "day_close": 446.75,
+      "result": "TARGET_HIT",
+      "exit_price": 448.98,
+      "pnl_pct": 0.499,
+      "date": "2026-03-12"
+    },
+    {
+      "ticker": "DRREDDY.NS",
+      "symbol": "DRREDDY",
+      "entry_price": 1325.5,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91325.50 vs \u20b91325.50)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.25% headroom to \u20b91355.31"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 1,
+      "target_price": 1332.13,
+      "stoploss_price": 1312.24,
+      "actual_capital": 1325.5,
+      "max_profit": 6.63,
+      "max_loss": 13.26,
+      "day_high": 1336.0,
+      "day_low": 1311.0999755859375,
+      "day_close": 1325.5,
+      "result": "TARGET_HIT",
+      "exit_price": 1332.13,
+      "pnl_pct": 0.5,
+      "date": "2026-03-12"
+    },
+    {
+      "ticker": "HINDALCO.NS",
+      "symbol": "HINDALCO",
+      "entry_price": 959.0999755859375,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9959.10 vs \u20b9959.10)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.57% headroom to \u20b9993.36"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 2,
+      "target_price": 963.9,
+      "stoploss_price": 949.51,
+      "actual_capital": 1918.2,
+      "max_profit": 9.59,
+      "max_loss": 19.18,
+      "day_high": 978.9000244140625,
+      "day_low": 952.5,
+      "day_close": 959.0999755859375,
+      "result": "TARGET_HIT",
+      "exit_price": 963.9,
+      "pnl_pct": 0.5,
+      "date": "2026-03-12"
+    },
+    {
+      "ticker": "SUNPHARMA.NS",
+      "symbol": "SUNPHARMA",
+      "entry_price": 1825.9000244140625,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91825.90 vs \u20b91825.90)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.1x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.57% headroom to \u20b91854.63",
+        "\ud83d\udca1 Gap up +0.56% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 1,
+      "target_price": 1835.03,
+      "stoploss_price": 1807.64,
+      "actual_capital": 1825.9,
+      "max_profit": 9.13,
+      "max_loss": 18.26,
+      "day_high": 1843.0,
+      "day_low": 1818.0999755859375,
+      "day_close": 1825.9000244140625,
+      "result": "TARGET_HIT",
+      "exit_price": 1835.03,
+      "pnl_pct": 0.5,
+      "date": "2026-03-12"
+    }
+  ]
+}
