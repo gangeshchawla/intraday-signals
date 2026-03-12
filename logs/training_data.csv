@@ -8,3 +8,4 @@ date,ticker,rsi,macd_diff,sma20_ratio,sma50_ratio,atr_ratio,vol_ratio,volatility
 2026-03-11,COALINDIA.NS,,,,,,,,,,,,18.91,,STOPLOSS_HIT,-1.001,0
 2026-03-11,SUNPHARMA.NS,,,,,,,,,,,,18.91,,TARGET_HIT,0.5,1
 2026-03-12,COALINDIA.NS,,,,,,,,,,,,21.06,,TARGET_HIT,0.499,1
+2026-03-12,DRREDDY.NS,,,,,,,,,,,,21.06,,TARGET_HIT,0.5,1
