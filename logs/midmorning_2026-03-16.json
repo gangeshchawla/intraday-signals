@@ -1,0 +1,77 @@
+{
+  "date": "Monday, 16 March 2026",
+  "checks": [
+    {
+      "ticker": "APOLLOHOSP.NS",
+      "symbol": "APOLLOHOSP",
+      "premarket_price": 7545.0,
+      "predicted_day_high": 7759.67,
+      "current_price": 7550.0,
+      "vs_8am_pct": 0.06626905235255136,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 0.9440713396938683,
+      "avg_volume": 417428.2
+    },
+    {
+      "ticker": "COALINDIA.NS",
+      "symbol": "COALINDIA",
+      "premarket_price": 466.5,
+      "predicted_day_high": 486.29,
+      "current_price": 467.0,
+      "vs_8am_pct": 0.10718113612004287,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 4.13% left to predicted high.",
+      "vol_ratio": 1.7390938606588084,
+      "avg_volume": 11624992.45
+    },
+    {
+      "ticker": "NESTLEIND.NS",
+      "symbol": "NESTLEIND",
+      "premarket_price": 1202.0999755859375,
+      "predicted_day_high": 1254.57,
+      "current_price": 1202.199951171875,
+      "vs_8am_pct": 0.008316744694114904,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 1.7086003660231834,
+      "avg_volume": 984063.35
+    },
+    {
+      "ticker": "NTPC.NS",
+      "symbol": "NTPC",
+      "premarket_price": 384.04998779296875,
+      "predicted_day_high": 403.1,
+      "current_price": 384.45001220703125,
+      "vs_8am_pct": 0.10415946537619541,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 4.85% left to predicted high.",
+      "vol_ratio": 2.108642484218515,
+      "avg_volume": 12855365.1
+    },
+    {
+      "ticker": "POWERGRID.NS",
+      "symbol": "POWERGRID",
+      "premarket_price": 301.0,
+      "predicted_day_high": 313.02,
+      "current_price": 300.95001220703125,
+      "vs_8am_pct": -0.016607240188953487,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 1.488656567823334,
+      "avg_volume": 15863357.95
+    },
+    {
+      "ticker": "SUNPHARMA.NS",
+      "symbol": "SUNPHARMA",
+      "premarket_price": 1802.0,
+      "predicted_day_high": 1869.18,
+      "current_price": 1801.5999755859375,
+      "vs_8am_pct": -0.022198913100027747,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 1.0451432598433068,
+      "avg_volume": 2444284.05
+    }
+  ]
+}
