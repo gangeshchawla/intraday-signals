@@ -1,0 +1,47 @@
+{
+  "date": "Monday, 16 March 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "COALINDIA.NS",
+      "symbol": "COALINDIA",
+      "entry_price": 467.0,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9467.00 vs \u20b9466.50)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 4.13% headroom to \u20b9486.29"
+      ],
+      "capital_allocated": 5000.0,
+      "qty": 10,
+      "target_price": 469.33,
+      "stoploss_price": 462.33,
+      "actual_capital": 4670.0,
+      "max_profit": 23.35,
+      "max_loss": 46.7
+    },
+    {
+      "ticker": "NTPC.NS",
+      "symbol": "NTPC",
+      "entry_price": 384.45001220703125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9384.45 vs \u20b9384.05)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (2.1x)",
+        "\u2705 MACD bullish",
+        "\u2705 4.85% headroom to \u20b9403.10"
+      ],
+      "capital_allocated": 5000.0,
+      "qty": 13,
+      "target_price": 386.37,
+      "stoploss_price": 380.61,
+      "actual_capital": 4997.85,
+      "max_profit": 24.99,
+      "max_loss": 49.98
+    }
+  ],
+  "skipped": []
+}
