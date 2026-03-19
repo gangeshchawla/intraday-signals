@@ -21,3 +21,4 @@ date,ticker,rsi,macd_diff,sma20_ratio,sma50_ratio,atr_ratio,vol_ratio,volatility
 2026-03-18,SUNPHARMA.NS,,,,,,,,,,,,19.79,,TARGET_HIT,0.5,1
 2026-03-19,COALINDIA.NS,,,,,,,,,,,,18.72,,TARGET_HIT,0.501,1
 2026-03-19,NTPC.NS,,,,,,,,,,,,18.72,,TARGET_HIT,0.499,1
+2026-03-19,RELIANCE.NS,,,,,,,,,,,,18.72,,SQUARED_OFF,0.0,0
