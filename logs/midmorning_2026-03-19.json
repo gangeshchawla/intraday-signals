@@ -1,0 +1,173 @@
+{
+  "date": "Thursday, 19 March 2026",
+  "checks": [
+    {
+      "ticker": "APOLLOHOSP.NS",
+      "symbol": "APOLLOHOSP",
+      "premarket_price": 7471.0,
+      "predicted_day_high": 7711.82,
+      "current_price": 7471.0,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 1.2110838878627113,
+      "avg_volume": 410963.9
+    },
+    {
+      "ticker": "ASIANPAINT.NS",
+      "symbol": "ASIANPAINT",
+      "premarket_price": 2262.10009765625,
+      "predicted_day_high": 2313.42,
+      "current_price": 2262.10009765625,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 0.755002625582859,
+      "avg_volume": 1119083.4
+    },
+    {
+      "ticker": "COALINDIA.NS",
+      "symbol": "COALINDIA",
+      "premarket_price": 455.20001220703125,
+      "predicted_day_high": 478.91,
+      "current_price": 455.20001220703125,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 5.21% left to predicted high.",
+      "vol_ratio": 0.7913945689152974,
+      "avg_volume": 12053378.25
+    },
+    {
+      "ticker": "DRREDDY.NS",
+      "symbol": "DRREDDY",
+      "premarket_price": 1294.800048828125,
+      "predicted_day_high": 1324.93,
+      "current_price": 1294.800048828125,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 0.5184141639617197,
+      "avg_volume": 1639491.4
+    },
+    {
+      "ticker": "HCLTECH.NS",
+      "symbol": "HCLTECH",
+      "premarket_price": 1357.199951171875,
+      "predicted_day_high": 1362.93,
+      "current_price": 1357.199951171875,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 0.7947487504456329,
+      "avg_volume": 3226296.7
+    },
+    {
+      "ticker": "INFY.NS",
+      "symbol": "INFY",
+      "premarket_price": 1267.0999755859375,
+      "predicted_day_high": 1272.25,
+      "current_price": 1267.0999755859375,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 0.944535924154628,
+      "avg_volume": 13091409.1
+    },
+    {
+      "ticker": "NTPC.NS",
+      "symbol": "NTPC",
+      "premarket_price": 378.5,
+      "predicted_day_high": 396.47,
+      "current_price": 378.5,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 4.75% left to predicted high.",
+      "vol_ratio": 0.7727471325950408,
+      "avg_volume": 13822694.15
+    },
+    {
+      "ticker": "POWERGRID.NS",
+      "symbol": "POWERGRID",
+      "premarket_price": 299.3999938964844,
+      "predicted_day_high": 308.72,
+      "current_price": 299.3999938964844,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 0.5434543165929405,
+      "avg_volume": 15993276.5
+    },
+    {
+      "ticker": "RELIANCE.NS",
+      "symbol": "RELIANCE",
+      "premarket_price": 1408.0999755859375,
+      "predicted_day_high": 1440.74,
+      "current_price": 1408.0999755859375,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.32% left to predicted high.",
+      "vol_ratio": 0.560320741966597,
+      "avg_volume": 17060288.55
+    },
+    {
+      "ticker": "SUNPHARMA.NS",
+      "symbol": "SUNPHARMA",
+      "premarket_price": 1778.300048828125,
+      "predicted_day_high": 1840.51,
+      "current_price": 1778.300048828125,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 3.50% left to predicted high.",
+      "vol_ratio": 0.9316422521496912,
+      "avg_volume": 2615219.0
+    },
+    {
+      "ticker": "TCS.NS",
+      "symbol": "TCS",
+      "premarket_price": 2440.800048828125,
+      "predicted_day_high": 2462.64,
+      "current_price": 2440.800048828125,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 0.8476135628267538,
+      "avg_volume": 3636471.55
+    },
+    {
+      "ticker": "TECHM.NS",
+      "symbol": "TECHM",
+      "premarket_price": 1385.199951171875,
+      "predicted_day_high": 1388.01,
+      "current_price": 1385.199951171875,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 0.20% left to predicted high.",
+      "vol_ratio": 1.4211223780421145,
+      "avg_volume": 2089194.6
+    },
+    {
+      "ticker": "UPL.NS",
+      "symbol": "UPL",
+      "premarket_price": 631.5,
+      "predicted_day_high": 636.58,
+      "current_price": 631.5,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 0.37595851290629095,
+      "avg_volume": 3967388.55
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "symbol": "WIPRO",
+      "premarket_price": 194.3000030517578,
+      "predicted_day_high": 197.59,
+      "current_price": 194.3000030517578,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 1.3896482289271552,
+      "avg_volume": 17651094.2
+    }
+  ]
+}
