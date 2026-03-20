@@ -1,0 +1,17 @@
+{
+  "date": "Friday, 20 March 2026",
+  "checks": [
+    {
+      "ticker": "COALINDIA.NS",
+      "symbol": "COALINDIA",
+      "premarket_price": 454.20001220703125,
+      "predicted_day_high": 471.79,
+      "current_price": 454.20001220703125,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 3.87% left to predicted high.",
+      "vol_ratio": 0.8273667920702606,
+      "avg_volume": 12319223.7
+    }
+  ]
+}
