@@ -1,0 +1,27 @@
+{
+  "date": "Friday, 20 March 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "COALINDIA.NS",
+      "symbol": "COALINDIA",
+      "entry_price": 454.20001220703125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9454.20 vs \u20b9454.20)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.87% headroom to \u20b9471.79"
+      ],
+      "capital_allocated": 10000.0,
+      "qty": 22,
+      "target_price": 456.47,
+      "stoploss_price": 449.66,
+      "actual_capital": 9992.4,
+      "max_profit": 49.96,
+      "max_loss": 99.92
+    }
+  ],
+  "skipped": []
+}
