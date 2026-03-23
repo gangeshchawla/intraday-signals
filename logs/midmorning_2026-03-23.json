@@ -1,0 +1,125 @@
+{
+  "date": "Monday, 23 March 2026",
+  "checks": [
+    {
+      "ticker": "BHARTIARTL.NS",
+      "symbol": "BHARTIARTL",
+      "premarket_price": 1844.800048828125,
+      "predicted_day_high": 1882.08,
+      "current_price": 1846.0999755859375,
+      "vs_8am_pct": 0.07046437139018152,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 0.7677723843541944,
+      "avg_volume": 10018116.25
+    },
+    {
+      "ticker": "COALINDIA.NS",
+      "symbol": "COALINDIA",
+      "premarket_price": 467.79998779296875,
+      "predicted_day_high": 471.51,
+      "current_price": 468.1499938964844,
+      "vs_8am_pct": 0.07481960509809268,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 0.72% left to predicted high.",
+      "vol_ratio": 1.792396816044784,
+      "avg_volume": 13322191.15
+    },
+    {
+      "ticker": "DRREDDY.NS",
+      "symbol": "DRREDDY",
+      "premarket_price": 1296.0,
+      "predicted_day_high": 1315.45,
+      "current_price": 1298.9000244140625,
+      "vs_8am_pct": 0.22376731589988427,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.27% left to predicted high.",
+      "vol_ratio": 1.911025774826653,
+      "avg_volume": 1758064.2
+    },
+    {
+      "ticker": "HCLTECH.NS",
+      "symbol": "HCLTECH",
+      "premarket_price": 1339.9000244140625,
+      "predicted_day_high": 1355.21,
+      "current_price": 1333.699951171875,
+      "vs_8am_pct": -0.46272655640101124,
+      "status": "REVERSED",
+      "note": "Moved against prediction. Will be excluded from 10:05 AM signals.",
+      "vol_ratio": 1.51195769657904,
+      "avg_volume": 3340325.6
+    },
+    {
+      "ticker": "INFY.NS",
+      "symbol": "INFY",
+      "premarket_price": 1256.0,
+      "predicted_day_high": 1261.88,
+      "current_price": 1255.9000244140625,
+      "vs_8am_pct": -0.007959839644705414,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 2.072335577205443,
+      "avg_volume": 13173530.05
+    },
+    {
+      "ticker": "NTPC.NS",
+      "symbol": "NTPC",
+      "premarket_price": 381.0,
+      "predicted_day_high": 387.48,
+      "current_price": 380.95001220703125,
+      "vs_8am_pct": -0.01312015563484252,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 1.4060991664697702,
+      "avg_volume": 14885356.95
+    },
+    {
+      "ticker": "RELIANCE.NS",
+      "symbol": "RELIANCE",
+      "premarket_price": 1413.5999755859375,
+      "predicted_day_high": 1431.16,
+      "current_price": 1414.4000244140625,
+      "vs_8am_pct": 0.05659655078823693,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.18% left to predicted high.",
+      "vol_ratio": 1.2659031543253645,
+      "avg_volume": 18164831.9
+    },
+    {
+      "ticker": "SUNPHARMA.NS",
+      "symbol": "SUNPHARMA",
+      "premarket_price": 1770.5999755859375,
+      "predicted_day_high": 1789.89,
+      "current_price": 1777.0999755859375,
+      "vs_8am_pct": 0.3671072003629155,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 0.72% left to predicted high.",
+      "vol_ratio": 1.2874560480756903,
+      "avg_volume": 2789567.85
+    },
+    {
+      "ticker": "TCS.NS",
+      "symbol": "TCS",
+      "premarket_price": 2397.60009765625,
+      "predicted_day_high": 2429.83,
+      "current_price": 2390.60009765625,
+      "vs_8am_pct": -0.29195861340024054,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 1.1445039183556802,
+      "avg_volume": 3675234.25
+    },
+    {
+      "ticker": "TECHM.NS",
+      "symbol": "TECHM",
+      "premarket_price": 1386.300048828125,
+      "predicted_day_high": 1387.74,
+      "current_price": 1384.800048828125,
+      "vs_8am_pct": -0.10820168413526268,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 1.568938652639981,
+      "avg_volume": 2165168.15
+    }
+  ]
+}
