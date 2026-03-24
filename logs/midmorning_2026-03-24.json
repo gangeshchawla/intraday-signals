@@ -1,0 +1,53 @@
+{
+  "date": "Tuesday, 24 March 2026",
+  "checks": [
+    {
+      "ticker": "COALINDIA.NS",
+      "symbol": "COALINDIA",
+      "premarket_price": 455.25,
+      "predicted_day_high": 485.73,
+      "current_price": 455.25,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 6.70% left to predicted high.",
+      "vol_ratio": 0.759158707962421,
+      "avg_volume": 13388128.7
+    },
+    {
+      "ticker": "HCLTECH.NS",
+      "symbol": "HCLTECH",
+      "premarket_price": 1358.5999755859375,
+      "predicted_day_high": 1378.42,
+      "current_price": 1358.5999755859375,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.46% left to predicted high.",
+      "vol_ratio": 1.4850178419420519,
+      "avg_volume": 3478913.0
+    },
+    {
+      "ticker": "POWERGRID.NS",
+      "symbol": "POWERGRID",
+      "premarket_price": 302.1000061035156,
+      "predicted_day_high": 307.89,
+      "current_price": 302.1000061035156,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.92% left to predicted high.",
+      "vol_ratio": 1.3500299726047102,
+      "avg_volume": 17608035.4
+    },
+    {
+      "ticker": "TECHM.NS",
+      "symbol": "TECHM",
+      "premarket_price": 1384.0,
+      "predicted_day_high": 1433.36,
+      "current_price": 1384.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 3.57% left to predicted high.",
+      "vol_ratio": 1.6085163049335962,
+      "avg_volume": 2267530.2
+    }
+  ]
+}
