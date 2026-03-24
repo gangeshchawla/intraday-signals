@@ -26,3 +26,4 @@ date,ticker,rsi,macd_diff,sma20_ratio,sma50_ratio,atr_ratio,vol_ratio,volatility
 2026-03-23,COALINDIA.NS,,,,,,,,,,,,22.81,,TARGET_HIT,0.5,1
 2026-03-23,RELIANCE.NS,,,,,,,,,,,,22.81,,TARGET_HIT,0.5,1
 2026-03-24,HCLTECH.NS,,,,,,,,,,,,26.73,,STOPLOSS_HIT,-1.0,0
+2026-03-24,POWERGRID.NS,,,,,,,,,,,,26.73,,TARGET_HIT,0.5,1
