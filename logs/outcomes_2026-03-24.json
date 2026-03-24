@@ -1,0 +1,121 @@
+{
+  "date": "Tuesday, 24 March 2026",
+  "summary": {
+    "total_pnl_inr": 16.82,
+    "targets_hit": 3,
+    "stops_hit": 1,
+    "squared_off": 0,
+    "win_rate": 75.0,
+    "total_trades": 4
+  },
+  "outcomes": [
+    {
+      "ticker": "COALINDIA.NS",
+      "symbol": "COALINDIA",
+      "entry_price": 455.25,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9455.25 vs \u20b9455.25)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 6.70% headroom to \u20b9485.73"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 5,
+      "target_price": 457.53,
+      "stoploss_price": 450.7,
+      "actual_capital": 2276.25,
+      "max_profit": 11.38,
+      "max_loss": 22.76,
+      "day_high": 466.0,
+      "day_low": 450.6499938964844,
+      "day_close": 455.25,
+      "result": "TARGET_HIT",
+      "exit_price": 457.53,
+      "pnl_pct": 0.501,
+      "date": "2026-03-24"
+    },
+    {
+      "ticker": "HCLTECH.NS",
+      "symbol": "HCLTECH",
+      "entry_price": 1358.5999755859375,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91358.60 vs \u20b91358.60)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.5x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.46% headroom to \u20b91378.42"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 1,
+      "target_price": 1365.39,
+      "stoploss_price": 1345.01,
+      "actual_capital": 1358.6,
+      "max_profit": 6.79,
+      "max_loss": 13.59,
+      "day_high": 1365.0,
+      "day_low": 1310.0,
+      "day_close": 1358.5999755859375,
+      "result": "STOPLOSS_HIT",
+      "exit_price": 1345.01,
+      "pnl_pct": -1.0,
+      "date": "2026-03-24"
+    },
+    {
+      "ticker": "POWERGRID.NS",
+      "symbol": "POWERGRID",
+      "entry_price": 302.1000061035156,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9302.10 vs \u20b9302.10)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.4x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.92% headroom to \u20b9307.89"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 8,
+      "target_price": 303.61,
+      "stoploss_price": 299.08,
+      "actual_capital": 2416.8,
+      "max_profit": 12.08,
+      "max_loss": 24.17,
+      "day_high": 304.3500061035156,
+      "day_low": 293.1000061035156,
+      "day_close": 302.1000061035156,
+      "result": "TARGET_HIT",
+      "exit_price": 303.61,
+      "pnl_pct": 0.5,
+      "date": "2026-03-24"
+    },
+    {
+      "ticker": "TECHM.NS",
+      "symbol": "TECHM",
+      "entry_price": 1384.0,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91384.00 vs \u20b91384.00)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.57% headroom to \u20b91433.36"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 1,
+      "target_price": 1390.92,
+      "stoploss_price": 1370.16,
+      "actual_capital": 1384.0,
+      "max_profit": 6.92,
+      "max_loss": 13.84,
+      "day_high": 1414.5999755859375,
+      "day_low": 1357.5999755859375,
+      "day_close": 1384.0,
+      "result": "TARGET_HIT",
+      "exit_price": 1390.92,
+      "pnl_pct": 0.5,
+      "date": "2026-03-24"
+    }
+  ]
+}
