@@ -1,0 +1,95 @@
+{
+  "date": "Wednesday, 25 March 2026",
+  "summary": {
+    "total_pnl_inr": 40.63,
+    "targets_hit": 3,
+    "stops_hit": 0,
+    "squared_off": 0,
+    "win_rate": 100.0,
+    "total_trades": 3
+  },
+  "outcomes": [
+    {
+      "ticker": "HCLTECH.NS",
+      "symbol": "HCLTECH",
+      "entry_price": 1373.300048828125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91373.30 vs \u20b91373.30)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.0x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.25% headroom to \u20b91404.14"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 2,
+      "target_price": 1380.17,
+      "stoploss_price": 1359.57,
+      "actual_capital": 2746.6,
+      "max_profit": 13.73,
+      "max_loss": 27.47,
+      "day_high": 1394.0,
+      "day_low": 1360.0,
+      "day_close": 1373.300048828125,
+      "result": "TARGET_HIT",
+      "exit_price": 1380.17,
+      "pnl_pct": 0.5,
+      "date": "2026-03-25"
+    },
+    {
+      "ticker": "INFY.NS",
+      "symbol": "INFY",
+      "entry_price": 1278.300048828125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91278.30 vs \u20b91278.30)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.0x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.69% headroom to \u20b91299.91",
+        "\ud83d\udca1 Gap up +0.97% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 2,
+      "target_price": 1284.69,
+      "stoploss_price": 1265.52,
+      "actual_capital": 2556.6,
+      "max_profit": 12.78,
+      "max_loss": 25.57,
+      "day_high": 1297.0,
+      "day_low": 1251.0,
+      "day_close": 1278.300048828125,
+      "result": "TARGET_HIT",
+      "exit_price": 1284.69,
+      "pnl_pct": 0.5,
+      "date": "2026-03-25"
+    },
+    {
+      "ticker": "RELIANCE.NS",
+      "symbol": "RELIANCE",
+      "entry_price": 1411.800048828125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91411.80 vs \u20b91411.80)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.0x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.65% headroom to \u20b91449.28"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 2,
+      "target_price": 1418.86,
+      "stoploss_price": 1397.68,
+      "actual_capital": 2823.6,
+      "max_profit": 14.12,
+      "max_loss": 28.24,
+      "day_high": 1422.4000244140625,
+      "day_low": 1406.5999755859375,
+      "day_close": 1411.800048828125,
+      "result": "TARGET_HIT",
+      "exit_price": 1418.86,
+      "pnl_pct": 0.5,
+      "date": "2026-03-25"
+    }
+  ]
+}
