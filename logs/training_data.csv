@@ -38,3 +38,4 @@ date,ticker,rsi,macd_diff,sma20_ratio,sma50_ratio,atr_ratio,vol_ratio,volatility
 2026-03-27,INFY.NS,,,,,,,,,,,,24.64,,TARGET_HIT,0.5,1
 2026-03-27,RELIANCE.NS,,,,,,,,,,,,24.64,,TARGET_HIT,0.5,1
 2026-03-27,TECHM.NS,,,,,,,,,,,,24.64,,TARGET_HIT,0.5,1
+2026-03-27,UPL.NS,,,,,,,,,,,,24.64,,TARGET_HIT,0.501,1
