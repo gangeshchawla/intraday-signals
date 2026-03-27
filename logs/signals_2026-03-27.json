@@ -1,0 +1,123 @@
+{
+  "date": "Friday, 27 March 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "HCLTECH.NS",
+      "symbol": "HCLTECH",
+      "entry_price": 1381.300048828125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91381.30 vs \u20b91381.30)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.3x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.82% headroom to \u20b91420.27"
+      ],
+      "capital_allocated": 2000.0,
+      "qty": 1,
+      "target_price": 1388.21,
+      "stoploss_price": 1367.49,
+      "actual_capital": 1381.3,
+      "max_profit": 6.91,
+      "max_loss": 13.81
+    },
+    {
+      "ticker": "INFY.NS",
+      "symbol": "INFY",
+      "entry_price": 1279.0999755859375,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91279.10 vs \u20b91279.10)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.9x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.34% headroom to \u20b91321.76"
+      ],
+      "capital_allocated": 2000.0,
+      "qty": 1,
+      "target_price": 1285.5,
+      "stoploss_price": 1266.31,
+      "actual_capital": 1279.1,
+      "max_profit": 6.4,
+      "max_loss": 12.79
+    },
+    {
+      "ticker": "RELIANCE.NS",
+      "symbol": "RELIANCE",
+      "entry_price": 1413.0999755859375,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91413.10 vs \u20b91413.10)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.0x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.67% headroom to \u20b91450.79"
+      ],
+      "capital_allocated": 2000.0,
+      "qty": 1,
+      "target_price": 1420.17,
+      "stoploss_price": 1398.97,
+      "actual_capital": 1413.1,
+      "max_profit": 7.07,
+      "max_loss": 14.13
+    },
+    {
+      "ticker": "TECHM.NS",
+      "symbol": "TECHM",
+      "entry_price": 1408.5,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91408.50 vs \u20b91408.50)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (2.2x)",
+        "\u2705 MACD bullish",
+        "\u2705 5.21% headroom to \u20b91481.90"
+      ],
+      "capital_allocated": 2000.0,
+      "qty": 1,
+      "target_price": 1415.54,
+      "stoploss_price": 1394.41,
+      "actual_capital": 1408.5,
+      "max_profit": 7.04,
+      "max_loss": 14.09
+    },
+    {
+      "ticker": "UPL.NS",
+      "symbol": "UPL",
+      "entry_price": 625.25,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9625.25 vs \u20b9625.25)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.5x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.78% headroom to \u20b9642.64",
+        "\ud83d\udca1 Gap up +0.73% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 2000.0,
+      "qty": 3,
+      "target_price": 628.38,
+      "stoploss_price": 619.0,
+      "actual_capital": 1875.75,
+      "max_profit": 9.38,
+      "max_loss": 18.76
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "DRREDDY",
+      "reasons": [
+        "\u274c MACD bearish",
+        "\u274c Only -0.02% headroom to \u20b91300.40"
+      ]
+    },
+    {
+      "symbol": "SUNPHARMA",
+      "reasons": [
+        "\u274c MACD bearish",
+        "\u274c Only 0.17% headroom to \u20b91798.50"
+      ]
+    }
+  ]
+}
