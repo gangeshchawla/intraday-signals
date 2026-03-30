@@ -1,0 +1,65 @@
+{
+  "date": "Monday, 30 March 2026",
+  "checks": [
+    {
+      "ticker": "BHARTIARTL.NS",
+      "symbol": "BHARTIARTL",
+      "premarket_price": 1843.9000244140625,
+      "predicted_day_high": 1886.93,
+      "current_price": 1843.9000244140625,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 2.181432944805698,
+      "avg_volume": 11226760.4
+    },
+    {
+      "ticker": "HCLTECH.NS",
+      "symbol": "HCLTECH",
+      "premarket_price": 1364.4000244140625,
+      "predicted_day_high": 1429.94,
+      "current_price": 1364.4000244140625,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 4.80% left to predicted high.",
+      "vol_ratio": 2.6372007731978346,
+      "avg_volume": 3396077.8
+    },
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "premarket_price": 281.95001220703125,
+      "predicted_day_high": 279.98,
+      "current_price": 281.95001220703125,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. -0.70% left to predicted high.",
+      "vol_ratio": 2.134740681810599,
+      "avg_volume": 28129351.5
+    },
+    {
+      "ticker": "SUNPHARMA.NS",
+      "symbol": "SUNPHARMA",
+      "premarket_price": 1793.5999755859375,
+      "predicted_day_high": 1840.74,
+      "current_price": 1793.5999755859375,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.63% left to predicted high.",
+      "vol_ratio": 1.012623992431346,
+      "avg_volume": 2938329.55
+    },
+    {
+      "ticker": "TECHM.NS",
+      "symbol": "TECHM",
+      "premarket_price": 1391.5999755859375,
+      "predicted_day_high": 1457.83,
+      "current_price": 1391.5999755859375,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 4.76% left to predicted high.",
+      "vol_ratio": 1.172496009386444,
+      "avg_volume": 2203859.1
+    }
+  ]
+}
