@@ -1,0 +1,41 @@
+{
+  "date": "Wednesday, 01 April 2026",
+  "checks": [
+    {
+      "ticker": "COALINDIA.NS",
+      "symbol": "COALINDIA",
+      "premarket_price": 450.45001220703125,
+      "predicted_day_high": 462.18,
+      "current_price": 450.45001220703125,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.60% left to predicted high.",
+      "vol_ratio": 1.2744718380648519,
+      "avg_volume": 14998125.05
+    },
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "premarket_price": 284.6499938964844,
+      "predicted_day_high": 290.58,
+      "current_price": 284.6499938964844,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.08% left to predicted high.",
+      "vol_ratio": 1.5102833209354152,
+      "avg_volume": 29707608.75
+    },
+    {
+      "ticker": "TECHM.NS",
+      "symbol": "TECHM",
+      "premarket_price": 1384.0,
+      "predicted_day_high": 1442.34,
+      "current_price": 1384.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 4.22% left to predicted high.",
+      "vol_ratio": 1.3389347916841747,
+      "avg_volume": 2276918.95
+    }
+  ]
+}
