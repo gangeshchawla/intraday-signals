@@ -1,0 +1,77 @@
+{
+  "date": "Thursday, 02 April 2026",
+  "checks": [
+    {
+      "ticker": "ASIANPAINT.NS",
+      "symbol": "ASIANPAINT",
+      "premarket_price": 2225.800048828125,
+      "predicted_day_high": 2240.74,
+      "current_price": 2225.800048828125,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 0.9806763635476459,
+      "avg_volume": 1233740.35
+    },
+    {
+      "ticker": "HCLTECH.NS",
+      "symbol": "HCLTECH",
+      "premarket_price": 1354.4000244140625,
+      "predicted_day_high": 1391.86,
+      "current_price": 1354.4000244140625,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.77% left to predicted high.",
+      "vol_ratio": 0.7603401883220986,
+      "avg_volume": 3247542.4
+    },
+    {
+      "ticker": "INFY.NS",
+      "symbol": "INFY",
+      "premarket_price": 1275.699951171875,
+      "predicted_day_high": 1295.08,
+      "current_price": 1275.699951171875,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.52% left to predicted high.",
+      "vol_ratio": 0.7045129047913219,
+      "avg_volume": 11550045.35
+    },
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "premarket_price": 288.04998779296875,
+      "predicted_day_high": 293.66,
+      "current_price": 288.04998779296875,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.95% left to predicted high.",
+      "vol_ratio": 1.0416682318496673,
+      "avg_volume": 30361199.5
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "symbol": "TATASTEEL",
+      "premarket_price": 194.60000610351562,
+      "predicted_day_high": 199.89,
+      "current_price": 194.60000610351562,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.72% left to predicted high.",
+      "vol_ratio": 0.939613261761896,
+      "avg_volume": 38115279.4
+    },
+    {
+      "ticker": "TECHM.NS",
+      "symbol": "TECHM",
+      "premarket_price": 1404.5,
+      "predicted_day_high": 1435.32,
+      "current_price": 1404.5,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.19% left to predicted high.",
+      "vol_ratio": 0.7291081727909621,
+      "avg_volume": 2228064.45
+    }
+  ]
+}
