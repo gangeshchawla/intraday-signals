@@ -1,0 +1,107 @@
+{
+  "date": "Thursday, 02 April 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "HCLTECH.NS",
+      "symbol": "HCLTECH",
+      "entry_price": 1354.4000244140625,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91354.40 vs \u20b91354.40)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.77% headroom to \u20b91391.86"
+      ],
+      "capital_allocated": 2000.0,
+      "qty": 1,
+      "target_price": 1361.17,
+      "stoploss_price": 1340.86,
+      "actual_capital": 1354.4,
+      "max_profit": 6.77,
+      "max_loss": 13.54
+    },
+    {
+      "ticker": "INFY.NS",
+      "symbol": "INFY",
+      "entry_price": 1275.699951171875,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91275.70 vs \u20b91275.70)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.52% headroom to \u20b91295.08"
+      ],
+      "capital_allocated": 2000.0,
+      "qty": 1,
+      "target_price": 1282.08,
+      "stoploss_price": 1262.94,
+      "actual_capital": 1275.7,
+      "max_profit": 6.38,
+      "max_loss": 12.76
+    },
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "entry_price": 288.04998779296875,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9288.05 vs \u20b9288.05)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.0x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.95% headroom to \u20b9293.66"
+      ],
+      "capital_allocated": 2000.0,
+      "qty": 6,
+      "target_price": 289.49,
+      "stoploss_price": 285.17,
+      "actual_capital": 1728.3,
+      "max_profit": 8.64,
+      "max_loss": 17.28
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "symbol": "TATASTEEL",
+      "entry_price": 194.60000610351562,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9194.60 vs \u20b9194.60)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.9x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.72% headroom to \u20b9199.89"
+      ],
+      "capital_allocated": 2000.0,
+      "qty": 10,
+      "target_price": 195.57,
+      "stoploss_price": 192.65,
+      "actual_capital": 1946.0,
+      "max_profit": 9.73,
+      "max_loss": 19.46
+    },
+    {
+      "ticker": "TECHM.NS",
+      "symbol": "TECHM",
+      "entry_price": 1404.5,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91404.50 vs \u20b91404.50)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.19% headroom to \u20b91435.32"
+      ],
+      "capital_allocated": 2000.0,
+      "qty": 1,
+      "target_price": 1411.52,
+      "stoploss_price": 1390.45,
+      "actual_capital": 1404.5,
+      "max_profit": 7.02,
+      "max_loss": 14.04
+    }
+  ],
+  "skipped": []
+}
