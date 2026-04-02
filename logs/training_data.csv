@@ -46,3 +46,4 @@ date,ticker,rsi,macd_diff,sma20_ratio,sma50_ratio,atr_ratio,vol_ratio,volatility
 2026-04-01,ONGC.NS,,,,,,,,,,,,27.89,,TARGET_HIT,0.499,1
 2026-04-01,TECHM.NS,,,,,,,,,,,,27.89,,TARGET_HIT,0.5,1
 2026-04-02,HCLTECH.NS,,,,,,,,,,,,25.01,,TARGET_HIT,0.5,1
+2026-04-02,INFY.NS,,,,,,,,,,,,25.01,,TARGET_HIT,0.5,1
