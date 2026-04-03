@@ -1,0 +1,77 @@
+{
+  "date": "Friday, 03 April 2026",
+  "checks": [
+    {
+      "ticker": "HCLTECH.NS",
+      "symbol": "HCLTECH",
+      "premarket_price": 1402.199951171875,
+      "predicted_day_high": 1408.04,
+      "current_price": 1402.199951171875,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 0.42% left to predicted high.",
+      "vol_ratio": 1.8766807293027623,
+      "avg_volume": 3468564.95
+    },
+    {
+      "ticker": "INFY.NS",
+      "symbol": "INFY",
+      "premarket_price": 1300.800048828125,
+      "predicted_day_high": 1321.63,
+      "current_price": 1300.800048828125,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.60% left to predicted high.",
+      "vol_ratio": 1.0994807204033437,
+      "avg_volume": 11708701.9
+    },
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "premarket_price": 287.20001220703125,
+      "predicted_day_high": 297.14,
+      "current_price": 287.20001220703125,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 3.46% left to predicted high.",
+      "vol_ratio": 0.7446274021261693,
+      "avg_volume": 28115818.65
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "symbol": "TATASTEEL",
+      "premarket_price": 194.13999938964844,
+      "predicted_day_high": 202.8,
+      "current_price": 194.13999938964844,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 4.46% left to predicted high.",
+      "vol_ratio": 0.7277684530203165,
+      "avg_volume": 37970811.85
+    },
+    {
+      "ticker": "TCS.NS",
+      "symbol": "TCS",
+      "premarket_price": 2450.699951171875,
+      "predicted_day_high": 2486.85,
+      "current_price": 2450.699951171875,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.48% left to predicted high.",
+      "vol_ratio": 1.3863758968048783,
+      "avg_volume": 3879439.2
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "symbol": "WIPRO",
+      "premarket_price": 194.91000366210938,
+      "predicted_day_high": 197.56,
+      "current_price": 194.91000366210938,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.36% left to predicted high.",
+      "vol_ratio": 0.926590429526818,
+      "avg_volume": 17940013.7
+    }
+  ]
+}
