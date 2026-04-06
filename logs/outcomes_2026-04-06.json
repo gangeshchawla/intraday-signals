@@ -1,0 +1,121 @@
+{
+  "date": "Monday, 06 April 2026",
+  "summary": {
+    "total_pnl_inr": -48.16,
+    "targets_hit": 1,
+    "stops_hit": 3,
+    "squared_off": 0,
+    "win_rate": 25.0,
+    "total_trades": 4
+  },
+  "outcomes": [
+    {
+      "ticker": "INFY.NS",
+      "symbol": "INFY",
+      "entry_price": 1300.800048828125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91300.80 vs \u20b91300.80)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.1x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.60% headroom to \u20b91321.63"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 1,
+      "target_price": 1307.3,
+      "stoploss_price": 1287.79,
+      "actual_capital": 1300.8,
+      "max_profit": 6.5,
+      "max_loss": 13.01,
+      "day_high": 1305.4000244140625,
+      "day_low": 1259.800048828125,
+      "day_close": 1300.800048828125,
+      "result": "STOPLOSS_HIT",
+      "exit_price": 1287.79,
+      "pnl_pct": -1.0,
+      "date": "2026-04-06"
+    },
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "entry_price": 287.20001220703125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9287.20 vs \u20b9287.20)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.46% headroom to \u20b9297.14"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 8,
+      "target_price": 288.64,
+      "stoploss_price": 284.33,
+      "actual_capital": 2297.6,
+      "max_profit": 11.49,
+      "max_loss": 22.98,
+      "day_high": 288.79998779296875,
+      "day_low": 283.5,
+      "day_close": 287.20001220703125,
+      "result": "TARGET_HIT",
+      "exit_price": 288.64,
+      "pnl_pct": 0.501,
+      "date": "2026-04-06"
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "symbol": "TATASTEEL",
+      "entry_price": 194.13999938964844,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9194.14 vs \u20b9194.14)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 4.46% headroom to \u20b9202.80"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 12,
+      "target_price": 195.11,
+      "stoploss_price": 192.2,
+      "actual_capital": 2329.68,
+      "max_profit": 11.65,
+      "max_loss": 23.3,
+      "day_high": 194.85000610351562,
+      "day_low": 187.9499969482422,
+      "day_close": 194.13999938964844,
+      "result": "STOPLOSS_HIT",
+      "exit_price": 192.2,
+      "pnl_pct": -0.999,
+      "date": "2026-04-06"
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "symbol": "WIPRO",
+      "entry_price": 194.91000366210938,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9194.91 vs \u20b9194.91)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.9x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.36% headroom to \u20b9197.56"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 12,
+      "target_price": 195.88,
+      "stoploss_price": 192.96,
+      "actual_capital": 2338.92,
+      "max_profit": 11.69,
+      "max_loss": 23.39,
+      "day_high": 195.33999633789062,
+      "day_low": 188.5800018310547,
+      "day_close": 194.91000366210938,
+      "result": "STOPLOSS_HIT",
+      "exit_price": 192.96,
+      "pnl_pct": -1.0,
+      "date": "2026-04-06"
+    }
+  ]
+}
