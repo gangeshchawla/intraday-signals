@@ -54,3 +54,4 @@ date,ticker,rsi,macd_diff,sma20_ratio,sma50_ratio,atr_ratio,vol_ratio,volatility
 2026-04-03,ONGC.NS,,,,,,,,,,,,25.52,,TARGET_HIT,0.501,1
 2026-04-03,TATASTEEL.NS,,,,,,,,,,,,25.52,,STOPLOSS_HIT,-0.999,0
 2026-04-03,WIPRO.NS,,,,,,,,,,,,25.52,,STOPLOSS_HIT,-1.0,0
+2026-04-06,INFY.NS,,,,,,,,,,,,25.52,,STOPLOSS_HIT,-1.0,0
