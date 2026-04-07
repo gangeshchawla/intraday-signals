@@ -1,0 +1,173 @@
+{
+  "date": "Tuesday, 07 April 2026",
+  "checks": [
+    {
+      "ticker": "ADANIPORTS.NS",
+      "symbol": "ADANIPORTS",
+      "premarket_price": 1387.0999755859375,
+      "predicted_day_high": 1435.12,
+      "current_price": 1387.0999755859375,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 3.46% left to predicted high.",
+      "vol_ratio": 0.8608293025826129,
+      "avg_volume": 2926977.5
+    },
+    {
+      "ticker": "AXISBANK.NS",
+      "symbol": "AXISBANK",
+      "premarket_price": 1245.300048828125,
+      "predicted_day_high": 1245.75,
+      "current_price": 1245.300048828125,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 0.04% left to predicted high.",
+      "vol_ratio": 0.9212666252345817,
+      "avg_volume": 8517714.4
+    },
+    {
+      "ticker": "COALINDIA.NS",
+      "symbol": "COALINDIA",
+      "premarket_price": 459.54998779296875,
+      "predicted_day_high": 466.05,
+      "current_price": 459.54998779296875,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.41% left to predicted high.",
+      "vol_ratio": 0.8284054335203579,
+      "avg_volume": 14973036.75
+    },
+    {
+      "ticker": "HCLTECH.NS",
+      "symbol": "HCLTECH",
+      "premarket_price": 1403.300048828125,
+      "predicted_day_high": 1456.44,
+      "current_price": 1403.300048828125,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 3.79% left to predicted high.",
+      "vol_ratio": 0.6246553296148462,
+      "avg_volume": 3417214.1
+    },
+    {
+      "ticker": "HINDALCO.NS",
+      "symbol": "HINDALCO",
+      "premarket_price": 927.4500122070312,
+      "predicted_day_high": 955.74,
+      "current_price": 927.4500122070312,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 3.05% left to predicted high.",
+      "vol_ratio": 0.7521245426869017,
+      "avg_volume": 7386460.2
+    },
+    {
+      "ticker": "INFY.NS",
+      "symbol": "INFY",
+      "premarket_price": 1306.199951171875,
+      "predicted_day_high": 1346.83,
+      "current_price": 1306.199951171875,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 3.11% left to predicted high.",
+      "vol_ratio": 0.8907020296886368,
+      "avg_volume": 11461388.5
+    },
+    {
+      "ticker": "LT.NS",
+      "symbol": "LT",
+      "premarket_price": 3727.699951171875,
+      "predicted_day_high": 3785.55,
+      "current_price": 3727.699951171875,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.55% left to predicted high.",
+      "vol_ratio": 0.7041736246747688,
+      "avg_volume": 4761959.1
+    },
+    {
+      "ticker": "NESTLEIND.NS",
+      "symbol": "NESTLEIND",
+      "premarket_price": 1216.0,
+      "predicted_day_high": 1227.03,
+      "current_price": 1216.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 0.91% left to predicted high.",
+      "vol_ratio": 1.0979602376506208,
+      "avg_volume": 1330625.6
+    },
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "premarket_price": 281.8500061035156,
+      "predicted_day_high": 296.5,
+      "current_price": 281.8500061035156,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 5.20% left to predicted high.",
+      "vol_ratio": 0.9173654514147901,
+      "avg_volume": 26652168.95
+    },
+    {
+      "ticker": "SHREECEM.NS",
+      "symbol": "SHREECEM",
+      "premarket_price": 23695.0,
+      "predicted_day_high": 23955.73,
+      "current_price": 23695.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.10% left to predicted high.",
+      "vol_ratio": 0.8657953705032398,
+      "avg_volume": 36237.2
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "symbol": "TATASTEEL",
+      "premarket_price": 196.10000610351562,
+      "predicted_day_high": 202.48,
+      "current_price": 196.10000610351562,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 3.25% left to predicted high.",
+      "vol_ratio": 0.7859759038359423,
+      "avg_volume": 35771768.4
+    },
+    {
+      "ticker": "TCS.NS",
+      "symbol": "TCS",
+      "premarket_price": 2473.89990234375,
+      "predicted_day_high": 2529.23,
+      "current_price": 2473.89990234375,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.24% left to predicted high.",
+      "vol_ratio": 0.6706445448762166,
+      "avg_volume": 3835738.35
+    },
+    {
+      "ticker": "TITAN.NS",
+      "symbol": "TITAN",
+      "premarket_price": 4246.10009765625,
+      "predicted_day_high": 4257.95,
+      "current_price": 4246.10009765625,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 0.28% left to predicted high.",
+      "vol_ratio": 1.657129422935042,
+      "avg_volume": 1012766.4
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "symbol": "WIPRO",
+      "premarket_price": 197.2899932861328,
+      "predicted_day_high": 201.47,
+      "current_price": 197.2899932861328,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.12% left to predicted high.",
+      "vol_ratio": 1.2844673831756916,
+      "avg_volume": 18126024.3
+    }
+  ]
+}
