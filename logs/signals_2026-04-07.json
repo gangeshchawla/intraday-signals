@@ -1,0 +1,87 @@
+{
+  "date": "Tuesday, 07 April 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "entry_price": 281.8500061035156,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9281.85 vs \u20b9281.85)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.9x)",
+        "\u2705 MACD bullish",
+        "\u2705 5.20% headroom to \u20b9296.50"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 11,
+      "target_price": 283.26,
+      "stoploss_price": 279.03,
+      "actual_capital": 3100.35,
+      "max_profit": 15.5,
+      "max_loss": 31.0
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "symbol": "TATASTEEL",
+      "entry_price": 196.10000610351562,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9196.10 vs \u20b9196.10)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.25% headroom to \u20b9202.48"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 16,
+      "target_price": 197.08,
+      "stoploss_price": 194.14,
+      "actual_capital": 3137.6,
+      "max_profit": 15.69,
+      "max_loss": 31.38
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "symbol": "WIPRO",
+      "entry_price": 197.2899932861328,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9197.29 vs \u20b9197.29)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.3x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.12% headroom to \u20b9201.47",
+        "\ud83d\udca1 Gap up +1.07% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 16,
+      "target_price": 198.28,
+      "stoploss_price": 195.32,
+      "actual_capital": 3156.64,
+      "max_profit": 15.78,
+      "max_loss": 31.57
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "AXISBANK",
+      "reasons": [
+        "\u274c Only 0.04% headroom to \u20b91245.75"
+      ]
+    },
+    {
+      "symbol": "COALINDIA",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "TITAN",
+      "reasons": [
+        "\u274c Only 0.28% headroom to \u20b94257.95"
+      ]
+    }
+  ]
+}
