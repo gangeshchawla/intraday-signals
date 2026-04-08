@@ -1,0 +1,53 @@
+{
+  "date": "Wednesday, 08 April 2026",
+  "checks": [
+    {
+      "ticker": "HINDALCO.NS",
+      "symbol": "HINDALCO",
+      "premarket_price": 954.5,
+      "predicted_day_high": 964.78,
+      "current_price": 954.5,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.08% left to predicted high.",
+      "vol_ratio": 1.6603705573840941,
+      "avg_volume": 7153663.95
+    },
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "premarket_price": 286.6499938964844,
+      "predicted_day_high": 291.11,
+      "current_price": 286.6499938964844,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.56% left to predicted high.",
+      "vol_ratio": 0.8883459692768982,
+      "avg_volume": 25768251.1
+    },
+    {
+      "ticker": "TITAN.NS",
+      "symbol": "TITAN",
+      "premarket_price": 4230.60009765625,
+      "predicted_day_high": 4405.42,
+      "current_price": 4230.60009765625,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 4.13% left to predicted high.",
+      "vol_ratio": 1.222899949597149,
+      "avg_volume": 1041905.35
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "symbol": "WIPRO",
+      "premarket_price": 204.72000122070312,
+      "predicted_day_high": 204.0,
+      "current_price": 204.72000122070312,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. -0.35% left to predicted high.",
+      "vol_ratio": 1.3241721899184282,
+      "avg_volume": 18707133.55
+    }
+  ]
+}
