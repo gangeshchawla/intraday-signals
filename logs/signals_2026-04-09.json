@@ -1,0 +1,233 @@
+{
+  "date": "Thursday, 09 April 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "ITC.NS",
+      "symbol": "ITC",
+      "entry_price": 302.45001220703125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9302.45 vs \u20b9302.45)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.9x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.46% headroom to \u20b9306.88"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 8,
+      "target_price": 303.96,
+      "stoploss_price": 299.43,
+      "actual_capital": 2419.6,
+      "max_profit": 12.1,
+      "max_loss": 24.2
+    },
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "entry_price": 285.5,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9285.50 vs \u20b9285.50)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.80% headroom to \u20b9296.36"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 8,
+      "target_price": 286.93,
+      "stoploss_price": 282.64,
+      "actual_capital": 2284.0,
+      "max_profit": 11.42,
+      "max_loss": 22.84
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "symbol": "TATASTEEL",
+      "entry_price": 204.17999267578125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9204.18 vs \u20b9204.18)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.0x)",
+        "\u2705 MACD bullish",
+        "\u2705 0.96% headroom to \u20b9206.15",
+        "\ud83d\udca1 Gap up +1.96% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 12,
+      "target_price": 205.2,
+      "stoploss_price": 202.14,
+      "actual_capital": 2450.16,
+      "max_profit": 12.25,
+      "max_loss": 24.5
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "symbol": "WIPRO",
+      "entry_price": 203.4199981689453,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9203.42 vs \u20b9203.42)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.1x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.97% headroom to \u20b9211.50"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 12,
+      "target_price": 204.44,
+      "stoploss_price": 201.39,
+      "actual_capital": 2441.04,
+      "max_profit": 12.21,
+      "max_loss": 24.41
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "ADANIENT",
+      "reasons": [
+        "\u274c Only -2.99% headroom to \u20b91982.79"
+      ]
+    },
+    {
+      "symbol": "ADANIPORTS",
+      "reasons": [
+        "\u274c Only -0.62% headroom to \u20b91444.24"
+      ]
+    },
+    {
+      "symbol": "ASIANPAINT",
+      "reasons": [
+        "\u274c Only -0.47% headroom to \u20b92271.73"
+      ]
+    },
+    {
+      "symbol": "AXISBANK",
+      "reasons": [
+        "\u274c Only -2.38% headroom to \u20b91301.25"
+      ]
+    },
+    {
+      "symbol": "BAJAJ-AUTO",
+      "reasons": [
+        "\u274c Only 0.19% headroom to \u20b99384.10"
+      ]
+    },
+    {
+      "symbol": "BAJFINANCE",
+      "reasons": [
+        "\u274c Only -1.55% headroom to \u20b9900.85"
+      ]
+    },
+    {
+      "symbol": "BAJAJFINSV",
+      "reasons": [
+        "\u274c Only -1.75% headroom to \u20b91753.29"
+      ]
+    },
+    {
+      "symbol": "BPCL",
+      "reasons": [
+        "\u274c Only -1.94% headroom to \u20b9292.33"
+      ]
+    },
+    {
+      "symbol": "EICHERMOT",
+      "reasons": [
+        "\u274c Only -3.27% headroom to \u20b96897.76"
+      ]
+    },
+    {
+      "symbol": "GRASIM",
+      "reasons": [
+        "\u274c Only -1.25% headroom to \u20b92721.74"
+      ]
+    },
+    {
+      "symbol": "HDFCBANK",
+      "reasons": [
+        "\u274c Only -1.11% headroom to \u20b9807.04"
+      ]
+    },
+    {
+      "symbol": "HEROMOTOCO",
+      "reasons": [
+        "\u274c Only -0.30% headroom to \u20b95271.85"
+      ]
+    },
+    {
+      "symbol": "ICICIBANK",
+      "reasons": [
+        "\u274c Only -1.65% headroom to \u20b91287.61"
+      ]
+    },
+    {
+      "symbol": "INDUSINDBK",
+      "reasons": [
+        "\u274c Only -1.42% headroom to \u20b9824.09"
+      ]
+    },
+    {
+      "symbol": "JSWSTEEL",
+      "reasons": [
+        "\u274c Only 0.33% headroom to \u20b91198.26"
+      ]
+    },
+    {
+      "symbol": "KOTAKBANK",
+      "reasons": [
+        "\u274c Only -0.99% headroom to \u20b9376.39"
+      ]
+    },
+    {
+      "symbol": "LT",
+      "reasons": [
+        "\u274c Only -2.75% headroom to \u20b93895.58"
+      ]
+    },
+    {
+      "symbol": "M&M",
+      "reasons": [
+        "\u274c Only -2.10% headroom to \u20b93142.53"
+      ]
+    },
+    {
+      "symbol": "MARUTI",
+      "reasons": [
+        "\u274c Only -2.44% headroom to \u20b913270.42"
+      ]
+    },
+    {
+      "symbol": "SBILIFE",
+      "reasons": [
+        "\u274c Only 0.09% headroom to \u20b91909.38"
+      ]
+    },
+    {
+      "symbol": "SHREECEM",
+      "reasons": [
+        "\u274c Only -0.50% headroom to \u20b924238.76"
+      ]
+    },
+    {
+      "symbol": "TITAN",
+      "reasons": [
+        "\u274c Only -2.02% headroom to \u20b94401.79"
+      ]
+    },
+    {
+      "symbol": "ULTRACEMCO",
+      "reasons": [
+        "\u274c Only -1.79% headroom to \u20b911395.84"
+      ]
+    },
+    {
+      "symbol": "UPL",
+      "reasons": [
+        "\u274c Only -0.69% headroom to \u20b9635.82"
+      ]
+    }
+  ]
+}
