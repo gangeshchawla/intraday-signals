@@ -64,3 +64,4 @@ date,ticker,rsi,macd_diff,sma20_ratio,sma50_ratio,atr_ratio,vol_ratio,volatility
 2026-04-08,HINDALCO.NS,,,,,,,,,,,,25.47,,TARGET_HIT,0.5,1
 2026-04-08,ONGC.NS,,,,,,,,,,,,25.47,,STOPLOSS_HIT,-1.001,0
 2026-04-09,ITC.NS,,,,,,,,,,,,24.7,,TARGET_HIT,0.499,1
+2026-04-09,ONGC.NS,,,,,,,,,,,,24.7,,TARGET_HIT,0.501,1
