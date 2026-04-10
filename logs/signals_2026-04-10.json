@@ -1,0 +1,134 @@
+{
+  "date": "Friday, 10 April 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "BPCL.NS",
+      "symbol": "BPCL",
+      "entry_price": 297.3500061035156,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9297.35 vs \u20b9297.35)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.1x)",
+        "\u2705 MACD bullish",
+        "\u2705 5.25% headroom to \u20b9312.96"
+      ],
+      "capital_allocated": 1666.6666666666667,
+      "qty": 5,
+      "target_price": 298.84,
+      "stoploss_price": 294.38,
+      "actual_capital": 1486.75,
+      "max_profit": 7.43,
+      "max_loss": 14.87
+    },
+    {
+      "ticker": "ITC.NS",
+      "symbol": "ITC",
+      "entry_price": 303.0,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9303.00 vs \u20b9303.00)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.53% headroom to \u20b9310.68"
+      ],
+      "capital_allocated": 1666.6666666666667,
+      "qty": 5,
+      "target_price": 304.51,
+      "stoploss_price": 299.97,
+      "actual_capital": 1515.0,
+      "max_profit": 7.58,
+      "max_loss": 15.15
+    },
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "entry_price": 288.6000061035156,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9288.60 vs \u20b9288.60)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.25% headroom to \u20b9295.10"
+      ],
+      "capital_allocated": 1666.6666666666667,
+      "qty": 5,
+      "target_price": 290.04,
+      "stoploss_price": 285.71,
+      "actual_capital": 1443.0,
+      "max_profit": 7.22,
+      "max_loss": 14.43
+    },
+    {
+      "ticker": "POWERGRID.NS",
+      "symbol": "POWERGRID",
+      "entry_price": 298.1000061035156,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9298.10 vs \u20b9298.10)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.0x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.42% headroom to \u20b9305.32"
+      ],
+      "capital_allocated": 1666.6666666666667,
+      "qty": 5,
+      "target_price": 299.59,
+      "stoploss_price": 295.12,
+      "actual_capital": 1490.5,
+      "max_profit": 7.45,
+      "max_loss": 14.91
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "symbol": "TATASTEEL",
+      "entry_price": 205.1999969482422,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9205.20 vs \u20b9205.20)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.0x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.22% headroom to \u20b9211.80"
+      ],
+      "capital_allocated": 1666.6666666666667,
+      "qty": 8,
+      "target_price": 206.23,
+      "stoploss_price": 203.15,
+      "actual_capital": 1641.6,
+      "max_profit": 8.21,
+      "max_loss": 16.42
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "symbol": "WIPRO",
+      "entry_price": 202.8699951171875,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9202.87 vs \u20b9202.87)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.45% headroom to \u20b9209.86"
+      ],
+      "capital_allocated": 1666.6666666666667,
+      "qty": 8,
+      "target_price": 203.88,
+      "stoploss_price": 200.84,
+      "actual_capital": 1622.96,
+      "max_profit": 8.11,
+      "max_loss": 16.23
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "HINDALCO",
+      "reasons": [
+        "\u274c Only 0.36% headroom to \u20b9989.22"
+      ]
+    }
+  ]
+}
