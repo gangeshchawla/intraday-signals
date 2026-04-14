@@ -1,0 +1,67 @@
+{
+  "date": "Tuesday, 14 April 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "entry_price": 287.54998779296875,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9287.55 vs \u20b9287.55)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.0x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.08% headroom to \u20b9296.41"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 11,
+      "target_price": 288.99,
+      "stoploss_price": 284.67,
+      "actual_capital": 3163.05,
+      "max_profit": 15.82,
+      "max_loss": 31.63
+    },
+    {
+      "ticker": "POWERGRID.NS",
+      "symbol": "POWERGRID",
+      "entry_price": 300.3500061035156,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9300.35 vs \u20b9300.35)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.9x)",
+        "\u2705 MACD bullish",
+        "\u2705 4.28% headroom to \u20b9313.19"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 11,
+      "target_price": 301.85,
+      "stoploss_price": 297.35,
+      "actual_capital": 3303.85,
+      "max_profit": 16.52,
+      "max_loss": 33.04
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "symbol": "TATASTEEL",
+      "entry_price": 206.38999938964844,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9206.39 vs \u20b9206.39)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.82% headroom to \u20b9214.27"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 16,
+      "target_price": 207.42,
+      "stoploss_price": 204.33,
+      "actual_capital": 3302.24,
+      "max_profit": 16.51,
+      "max_loss": 33.02
+    }
+  ],
+  "skipped": []
+}
