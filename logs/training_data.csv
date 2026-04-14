@@ -75,3 +75,4 @@ date,ticker,rsi,macd_diff,sma20_ratio,sma50_ratio,atr_ratio,vol_ratio,volatility
 2026-04-10,WIPRO.NS,,,,,,,,,,,,20.43,,TARGET_HIT,0.498,1
 2026-04-13,TATASTEEL.NS,,,,,,,,,,,,18.85,,TARGET_HIT,0.499,1
 2026-04-13,WIPRO.NS,,,,,,,,,,,,18.85,,TARGET_HIT,0.498,1
+2026-04-14,ONGC.NS,,,,,,,,,,,,20.5,,TARGET_HIT,0.501,1
