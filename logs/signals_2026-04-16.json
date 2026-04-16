@@ -1,0 +1,64 @@
+{
+  "date": "Thursday, 16 April 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "TATASTEEL.NS",
+      "symbol": "TATASTEEL",
+      "entry_price": 208.72000122070312,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9208.72 vs \u20b9208.72)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.9x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.40% headroom to \u20b9213.72"
+      ],
+      "capital_allocated": 10000.0,
+      "qty": 47,
+      "target_price": 209.76,
+      "stoploss_price": 206.63,
+      "actual_capital": 9809.84,
+      "max_profit": 49.05,
+      "max_loss": 98.1
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "BPCL",
+      "reasons": [
+        "\u274c Only -0.77% headroom to \u20b9308.07"
+      ]
+    },
+    {
+      "symbol": "HINDALCO",
+      "reasons": [
+        "\u274c Only 0.50% headroom to \u20b91016.48"
+      ]
+    },
+    {
+      "symbol": "POWERGRID",
+      "reasons": [
+        "\u274c Only -0.42% headroom to \u20b9311.14"
+      ]
+    },
+    {
+      "symbol": "TCS",
+      "reasons": [
+        "\u274c Only -0.03% headroom to \u20b92554.14"
+      ]
+    },
+    {
+      "symbol": "TECHM",
+      "reasons": [
+        "\u274c Only 0.30% headroom to \u20b91488.21"
+      ]
+    },
+    {
+      "symbol": "WIPRO",
+      "reasons": [
+        "\u274c Only -0.05% headroom to \u20b9209.64"
+      ]
+    }
+  ]
+}
