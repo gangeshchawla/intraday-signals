@@ -83,3 +83,4 @@ date,ticker,rsi,macd_diff,sma20_ratio,sma50_ratio,atr_ratio,vol_ratio,volatility
 2026-04-15,TATASTEEL.NS,,,,,,,,,,,,20.5,,STOPLOSS_HIT,-0.998,0
 2026-04-16,TATASTEEL.NS,,,,,,,,,,,,18.67,,TARGET_HIT,0.498,1
 2026-04-17,TATASTEEL.NS,,,,,,,,,,,,18.09,,TARGET_HIT,0.498,1
+2026-04-17,WIPRO.NS,,,,,,,,,,,,18.09,,TARGET_HIT,0.499,1
