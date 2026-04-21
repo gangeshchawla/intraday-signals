@@ -1,0 +1,54 @@
+{
+  "date": "Tuesday, 21 April 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "TATASTEEL.NS",
+      "symbol": "TATASTEEL",
+      "entry_price": 211.72000122070312,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9211.72 vs \u20b9211.72)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.29% headroom to \u20b9218.69"
+      ],
+      "capital_allocated": 5000.0,
+      "qty": 23,
+      "target_price": 212.78,
+      "stoploss_price": 209.6,
+      "actual_capital": 4869.56,
+      "max_profit": 24.35,
+      "max_loss": 48.7
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "symbol": "WIPRO",
+      "entry_price": 202.47999572753906,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9202.48 vs \u20b9202.48)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.1x)",
+        "\u2705 MACD bullish",
+        "\u2705 4.41% headroom to \u20b9211.40"
+      ],
+      "capital_allocated": 5000.0,
+      "qty": 24,
+      "target_price": 203.49,
+      "stoploss_price": 200.46,
+      "actual_capital": 4859.52,
+      "max_profit": 24.3,
+      "max_loss": 48.6
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "ONGC",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    }
+  ]
+}
