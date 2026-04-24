@@ -1,0 +1,67 @@
+{
+  "date": "Friday, 24 April 2026",
+  "summary": {
+    "total_pnl_inr": 48.39,
+    "targets_hit": 2,
+    "stops_hit": 0,
+    "squared_off": 0,
+    "win_rate": 100.0,
+    "total_trades": 2
+  },
+  "outcomes": [
+    {
+      "ticker": "TATASTEEL.NS",
+      "symbol": "TATASTEEL",
+      "entry_price": 210.91000366210938,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9210.91 vs \u20b9210.91)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.79% headroom to \u20b9218.91"
+      ],
+      "capital_allocated": 5000.0,
+      "qty": 23,
+      "target_price": 211.96,
+      "stoploss_price": 208.8,
+      "actual_capital": 4850.93,
+      "max_profit": 24.25,
+      "max_loss": 48.51,
+      "day_high": 213.10000610351562,
+      "day_low": 210.16000366210938,
+      "day_close": 210.91000366210938,
+      "result": "TARGET_HIT",
+      "exit_price": 211.96,
+      "pnl_pct": 0.498,
+      "date": "2026-04-24"
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "symbol": "WIPRO",
+      "entry_price": 202.75999450683594,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9202.76 vs \u20b9202.76)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.82% headroom to \u20b9210.50"
+      ],
+      "capital_allocated": 5000.0,
+      "qty": 24,
+      "target_price": 203.77,
+      "stoploss_price": 200.73,
+      "actual_capital": 4866.24,
+      "max_profit": 24.33,
+      "max_loss": 48.66,
+      "day_high": 204.89999389648438,
+      "day_low": 202.3000030517578,
+      "day_close": 202.75999450683594,
+      "result": "TARGET_HIT",
+      "exit_price": 203.77,
+      "pnl_pct": 0.498,
+      "date": "2026-04-24"
+    }
+  ]
+}
