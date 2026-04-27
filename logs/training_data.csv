@@ -97,3 +97,4 @@ date,ticker,rsi,macd_diff,sma20_ratio,sma50_ratio,atr_ratio,vol_ratio,volatility
 2026-04-27,BPCL.NS,,,,,,,,,,,,19.71,,TARGET_HIT,0.5,1
 2026-04-27,ITC.NS,,,,,,,,,,,,19.71,,TARGET_HIT,0.501,1
 2026-04-27,POWERGRID.NS,,,,,,,,,,,,19.71,,SQUARED_OFF,0.0,0
+2026-04-27,TATASTEEL.NS,,,,,,,,,,,,19.71,,TARGET_HIT,0.5,1
