@@ -1,0 +1,121 @@
+{
+  "date": "Monday, 27 April 2026",
+  "summary": {
+    "total_pnl_inr": 35.97,
+    "targets_hit": 3,
+    "stops_hit": 0,
+    "squared_off": 1,
+    "win_rate": 75.0,
+    "total_trades": 4
+  },
+  "outcomes": [
+    {
+      "ticker": "BPCL.NS",
+      "symbol": "BPCL",
+      "entry_price": 308.1000061035156,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9308.10 vs \u20b9308.10)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 4.44% headroom to \u20b9321.78"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 8,
+      "target_price": 309.64,
+      "stoploss_price": 305.02,
+      "actual_capital": 2464.8,
+      "max_profit": 12.32,
+      "max_loss": 24.65,
+      "day_high": 310.75,
+      "day_low": 300.1499938964844,
+      "day_close": 308.1000061035156,
+      "result": "TARGET_HIT",
+      "exit_price": 309.64,
+      "pnl_pct": 0.5,
+      "date": "2026-04-27"
+    },
+    {
+      "ticker": "ITC.NS",
+      "symbol": "ITC",
+      "entry_price": 301.6000061035156,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9301.60 vs \u20b9301.60)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.33% headroom to \u20b9311.65"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 8,
+      "target_price": 303.11,
+      "stoploss_price": 298.58,
+      "actual_capital": 2412.8,
+      "max_profit": 12.06,
+      "max_loss": 24.13,
+      "day_high": 306.6499938964844,
+      "day_low": 301.1000061035156,
+      "day_close": 301.6000061035156,
+      "result": "TARGET_HIT",
+      "exit_price": 303.11,
+      "pnl_pct": 0.501,
+      "date": "2026-04-27"
+    },
+    {
+      "ticker": "POWERGRID.NS",
+      "symbol": "POWERGRID",
+      "entry_price": 316.3999938964844,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9316.40 vs \u20b9316.40)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.46% headroom to \u20b9327.34"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 7,
+      "target_price": 317.98,
+      "stoploss_price": 313.24,
+      "actual_capital": 2214.8,
+      "max_profit": 11.07,
+      "max_loss": 22.15,
+      "day_high": 317.8999938964844,
+      "day_low": 314.5,
+      "day_close": 316.3999938964844,
+      "result": "SQUARED_OFF",
+      "exit_price": 316.4,
+      "pnl_pct": 0.0,
+      "date": "2026-04-27"
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "symbol": "TATASTEEL",
+      "entry_price": 210.07000732421875,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9210.07 vs \u20b9210.07)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.07% headroom to \u20b9216.51"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 11,
+      "target_price": 211.12,
+      "stoploss_price": 207.97,
+      "actual_capital": 2310.77,
+      "max_profit": 11.55,
+      "max_loss": 23.11,
+      "day_high": 212.0,
+      "day_low": 208.60000610351562,
+      "day_close": 210.07000732421875,
+      "result": "TARGET_HIT",
+      "exit_price": 211.12,
+      "pnl_pct": 0.5,
+      "date": "2026-04-27"
+    }
+  ]
+}
