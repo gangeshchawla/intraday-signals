@@ -1,0 +1,165 @@
+{
+  "date": "Tuesday, 28 April 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "ITC.NS",
+      "symbol": "ITC",
+      "entry_price": 303.8500061035156,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9303.85 vs \u20b9303.85)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.32% headroom to \u20b9307.86",
+        "\ud83d\udca1 Gap up +0.68% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 10,
+      "target_price": 305.37,
+      "stoploss_price": 300.81,
+      "actual_capital": 3038.5,
+      "max_profit": 15.19,
+      "max_loss": 30.39
+    },
+    {
+      "ticker": "POWERGRID.NS",
+      "symbol": "POWERGRID",
+      "entry_price": 320.8999938964844,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9320.90 vs \u20b9320.90)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.16% headroom to \u20b9324.61",
+        "\ud83d\udca1 Gap up +0.51% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 10,
+      "target_price": 322.5,
+      "stoploss_price": 317.69,
+      "actual_capital": 3209.0,
+      "max_profit": 16.04,
+      "max_loss": 32.09
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "symbol": "TATASTEEL",
+      "entry_price": 213.27000427246094,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9213.27 vs \u20b9213.27)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.1x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.07% headroom to \u20b9215.55",
+        "\ud83d\udca1 Gap up +0.44% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 15,
+      "target_price": 214.34,
+      "stoploss_price": 211.14,
+      "actual_capital": 3199.05,
+      "max_profit": 16.0,
+      "max_loss": 31.99
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "ASIANPAINT",
+      "reasons": [
+        "\u274c Weak volume (0.3x avg)"
+      ]
+    },
+    {
+      "symbol": "BAJAJ-AUTO",
+      "reasons": [
+        "\u274c Weak volume (0.4x avg)",
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "BAJAJFINSV",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "BPCL",
+      "reasons": [
+        "\u274c Weak volume (0.4x avg)"
+      ]
+    },
+    {
+      "symbol": "HDFCBANK",
+      "reasons": [
+        "\u274c Weak volume (0.4x avg)",
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "ICICIBANK",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "INDUSINDBK",
+      "reasons": [
+        "\u274c Only -2.30% headroom to \u20b9879.46"
+      ]
+    },
+    {
+      "symbol": "KOTAKBANK",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "MARUTI",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "ONGC",
+      "reasons": [
+        "\u274c Weak volume (0.3x avg)",
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "RELIANCE",
+      "reasons": [
+        "\u274c Only -0.23% headroom to \u20b91362.69"
+      ]
+    },
+    {
+      "symbol": "SUNPHARMA",
+      "reasons": [
+        "\u274c Only -3.09% headroom to \u20b91679.85"
+      ]
+    },
+    {
+      "symbol": "TITAN",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "UPL",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "WIPRO",
+      "reasons": [
+        "\u274c MACD bearish",
+        "\u274c Only 0.30% headroom to \u20b9205.67"
+      ]
+    }
+  ]
+}
