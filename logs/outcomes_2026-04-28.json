@@ -1,0 +1,97 @@
+{
+  "date": "Tuesday, 28 April 2026",
+  "summary": {
+    "total_pnl_inr": 47.26,
+    "targets_hit": 3,
+    "stops_hit": 0,
+    "squared_off": 0,
+    "win_rate": 100.0,
+    "total_trades": 3
+  },
+  "outcomes": [
+    {
+      "ticker": "ITC.NS",
+      "symbol": "ITC",
+      "entry_price": 303.8500061035156,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9303.85 vs \u20b9303.85)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.32% headroom to \u20b9307.86",
+        "\ud83d\udca1 Gap up +0.68% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 10,
+      "target_price": 305.37,
+      "stoploss_price": 300.81,
+      "actual_capital": 3038.5,
+      "max_profit": 15.19,
+      "max_loss": 30.39,
+      "day_high": 305.6499938964844,
+      "day_low": 302.8500061035156,
+      "day_close": 303.8500061035156,
+      "result": "TARGET_HIT",
+      "exit_price": 305.37,
+      "pnl_pct": 0.5,
+      "date": "2026-04-28"
+    },
+    {
+      "ticker": "POWERGRID.NS",
+      "symbol": "POWERGRID",
+      "entry_price": 320.8999938964844,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9320.90 vs \u20b9320.90)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.16% headroom to \u20b9324.61",
+        "\ud83d\udca1 Gap up +0.51% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 10,
+      "target_price": 322.5,
+      "stoploss_price": 317.69,
+      "actual_capital": 3209.0,
+      "max_profit": 16.04,
+      "max_loss": 32.09,
+      "day_high": 324.95001220703125,
+      "day_low": 316.95001220703125,
+      "day_close": 320.8999938964844,
+      "result": "TARGET_HIT",
+      "exit_price": 322.5,
+      "pnl_pct": 0.499,
+      "date": "2026-04-28"
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "symbol": "TATASTEEL",
+      "entry_price": 213.27000427246094,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9213.27 vs \u20b9213.27)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.1x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.07% headroom to \u20b9215.55",
+        "\ud83d\udca1 Gap up +0.44% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 15,
+      "target_price": 214.34,
+      "stoploss_price": 211.14,
+      "actual_capital": 3199.05,
+      "max_profit": 16.0,
+      "max_loss": 31.99,
+      "day_high": 215.0,
+      "day_low": 210.92999267578125,
+      "day_close": 213.27000427246094,
+      "result": "TARGET_HIT",
+      "exit_price": 214.34,
+      "pnl_pct": 0.502,
+      "date": "2026-04-28"
+    }
+  ]
+}
