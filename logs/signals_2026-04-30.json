@@ -1,0 +1,208 @@
+{
+  "date": "Thursday, 30 April 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "entry_price": 382.0,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9382.00 vs \u20b9382.00)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.4x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.66% headroom to \u20b9388.34"
+      ],
+      "capital_allocated": 2000.0,
+      "qty": 5,
+      "target_price": 383.91,
+      "stoploss_price": 378.18,
+      "actual_capital": 1910.0,
+      "max_profit": 9.55,
+      "max_loss": 19.1
+    },
+    {
+      "ticker": "NTPC.NS",
+      "symbol": "NTPC",
+      "entry_price": 401.29998779296875,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9401.30 vs \u20b9401.30)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.9x)",
+        "\u2705 MACD bullish",
+        "\u2705 4.33% headroom to \u20b9418.68"
+      ],
+      "capital_allocated": 2000.0,
+      "qty": 4,
+      "target_price": 403.31,
+      "stoploss_price": 397.29,
+      "actual_capital": 1605.2,
+      "max_profit": 8.03,
+      "max_loss": 16.05
+    },
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "entry_price": 301.3999938964844,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9301.40 vs \u20b9301.40)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.3x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.43% headroom to \u20b9308.71"
+      ],
+      "capital_allocated": 2000.0,
+      "qty": 6,
+      "target_price": 302.91,
+      "stoploss_price": 298.39,
+      "actual_capital": 1808.4,
+      "max_profit": 9.04,
+      "max_loss": 18.08
+    },
+    {
+      "ticker": "POWERGRID.NS",
+      "symbol": "POWERGRID",
+      "entry_price": 320.3500061035156,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9320.35 vs \u20b9320.35)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.08% headroom to \u20b9327.00",
+        "\ud83d\udca1 Gap up +0.34% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 2000.0,
+      "qty": 6,
+      "target_price": 321.95,
+      "stoploss_price": 317.15,
+      "actual_capital": 1922.1,
+      "max_profit": 9.61,
+      "max_loss": 19.22
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "symbol": "TATASTEEL",
+      "entry_price": 215.8800048828125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9215.88 vs \u20b9215.88)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.1x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.10% headroom to \u20b9220.41"
+      ],
+      "capital_allocated": 2000.0,
+      "qty": 9,
+      "target_price": 216.96,
+      "stoploss_price": 213.72,
+      "actual_capital": 1942.92,
+      "max_profit": 9.71,
+      "max_loss": 19.43
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "BAJAJ-AUTO",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "BHARTIARTL",
+      "reasons": [
+        "\u274c Only -0.05% headroom to \u20b91887.08"
+      ]
+    },
+    {
+      "symbol": "BPCL",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "COALINDIA",
+      "reasons": [
+        "\u274c Only 0.30% headroom to \u20b9481.33"
+      ]
+    },
+    {
+      "symbol": "EICHERMOT",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "INDUSINDBK",
+      "reasons": [
+        "\u274c Only 0.23% headroom to \u20b9915.88"
+      ]
+    },
+    {
+      "symbol": "ITC",
+      "reasons": [
+        "\u274c Only -1.65% headroom to \u20b9311.02"
+      ]
+    },
+    {
+      "symbol": "LT",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "M&M",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "MARUTI",
+      "reasons": [
+        "\u274c MACD bearish",
+        "\u274c Only 0.39% headroom to \u20b913308.29"
+      ]
+    },
+    {
+      "symbol": "RELIANCE",
+      "reasons": [
+        "\u274c Only 0.01% headroom to \u20b91425.52"
+      ]
+    },
+    {
+      "symbol": "SHREECEM",
+      "reasons": [
+        "\u274c Weak volume (0.3x avg)",
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "TECHM",
+      "reasons": [
+        "\u274c MACD bearish",
+        "\u274c Only 0.24% headroom to \u20b91463.27"
+      ]
+    },
+    {
+      "symbol": "TITAN",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "ULTRACEMCO",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "UPL",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    }
+  ]
+}
