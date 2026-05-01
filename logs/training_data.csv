@@ -116,3 +116,4 @@ date,ticker,rsi,macd_diff,sma20_ratio,sma50_ratio,atr_ratio,vol_ratio,volatility
 2026-05-01,NTPC.NS,,,,,,,,,,,,18.46,,STOPLOSS_HIT,-1.0,0
 2026-05-01,ONGC.NS,,,,,,,,,,,,18.46,,TARGET_HIT,0.501,1
 2026-05-01,POWERGRID.NS,,,,,,,,,,,,18.46,,TARGET_HIT,0.499,1
+2026-05-01,TATASTEEL.NS,,,,,,,,,,,,18.46,,TARGET_HIT,0.502,1
