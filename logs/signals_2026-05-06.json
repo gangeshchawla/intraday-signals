@@ -1,0 +1,160 @@
+{
+  "date": "Wednesday, 06 May 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "COALINDIA.NS",
+      "symbol": "COALINDIA",
+      "entry_price": 472.6000061035156,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9472.60 vs \u20b9472.60)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 4.21% headroom to \u20b9492.52"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 7,
+      "target_price": 474.96,
+      "stoploss_price": 467.87,
+      "actual_capital": 3308.2,
+      "max_profit": 16.54,
+      "max_loss": 33.08
+    },
+    {
+      "ticker": "ITC.NS",
+      "symbol": "ITC",
+      "entry_price": 311.45001220703125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9311.45 vs \u20b9311.45)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.4x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.96% headroom to \u20b9317.55"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 10,
+      "target_price": 313.01,
+      "stoploss_price": 308.34,
+      "actual_capital": 3114.5,
+      "max_profit": 15.57,
+      "max_loss": 31.15
+    },
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "entry_price": 289.95001220703125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9289.95 vs \u20b9289.95)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.54% headroom to \u20b9300.21"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 11,
+      "target_price": 291.4,
+      "stoploss_price": 287.05,
+      "actual_capital": 3189.45,
+      "max_profit": 15.95,
+      "max_loss": 31.89
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "APOLLOHOSP",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "ASIANPAINT",
+      "reasons": [
+        "\u274c Weak volume (0.2x avg)",
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "BAJAJFINSV",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "DRREDDY",
+      "reasons": [
+        "\u274c Weak volume (0.3x avg)"
+      ]
+    },
+    {
+      "symbol": "HINDALCO",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "HINDUNILVR",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "JSWSTEEL",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "LT",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "M&M",
+      "reasons": [
+        "\u274c MACD bearish",
+        "\u274c Only -0.16% headroom to \u20b93205.56"
+      ]
+    },
+    {
+      "symbol": "NTPC",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "POWERGRID",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "SHREECEM",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "TATACONSUM",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "TATASTEEL",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "ULTRACEMCO",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    }
+  ]
+}
