@@ -1,0 +1,64 @@
+{
+  "date": "Tuesday, 12 May 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "entry_price": 381.04998779296875,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9381.05 vs \u20b9381.05)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.0x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.92% headroom to \u20b9392.19"
+      ],
+      "capital_allocated": 10000.0,
+      "qty": 26,
+      "target_price": 382.96,
+      "stoploss_price": 377.24,
+      "actual_capital": 9907.3,
+      "max_profit": 49.54,
+      "max_loss": 99.07
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "COALINDIA",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "HINDUNILVR",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "JSWSTEEL",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "SBILIFE",
+      "reasons": [
+        "\u274c Weak volume (0.4x avg)"
+      ]
+    },
+    {
+      "symbol": "TATACONSUM",
+      "reasons": [
+        "\u274c Only -4.30% headroom to \u20b91216.35"
+      ]
+    },
+    {
+      "symbol": "UPL",
+      "reasons": [
+        "\u274c Only -0.58% headroom to \u20b9665.14"
+      ]
+    }
+  ]
+}
