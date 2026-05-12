@@ -1,0 +1,40 @@
+{
+  "date": "Tuesday, 12 May 2026",
+  "summary": {
+    "total_pnl_inr": 49.64,
+    "targets_hit": 1,
+    "stops_hit": 0,
+    "squared_off": 0,
+    "win_rate": 100.0,
+    "total_trades": 1
+  },
+  "outcomes": [
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "entry_price": 381.04998779296875,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9381.05 vs \u20b9381.05)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.0x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.92% headroom to \u20b9392.19"
+      ],
+      "capital_allocated": 10000.0,
+      "qty": 26,
+      "target_price": 382.96,
+      "stoploss_price": 377.24,
+      "actual_capital": 9907.3,
+      "max_profit": 49.54,
+      "max_loss": 99.07,
+      "day_high": 386.0,
+      "day_low": 374.3999938964844,
+      "day_close": 381.04998779296875,
+      "result": "TARGET_HIT",
+      "exit_price": 382.96,
+      "pnl_pct": 0.501,
+      "date": "2026-05-12"
+    }
+  ]
+}
