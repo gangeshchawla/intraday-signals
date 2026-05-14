@@ -127,3 +127,4 @@ date,ticker,rsi,macd_diff,sma20_ratio,sma50_ratio,atr_ratio,vol_ratio,volatility
 2026-05-07,ITC.NS,,,,,,,,,,,,16.68,,TARGET_HIT,0.499,1
 2026-05-08,COALINDIA.NS,,,,,,,,,,,,16.62,,TARGET_HIT,0.499,1
 2026-05-12,KOTAKBANK.NS,,,,,,,,,,,,18.55,,TARGET_HIT,0.501,1
+2026-05-14,ONGC.NS,,,,,,,,,,,,19.43,,TARGET_HIT,0.501,1
