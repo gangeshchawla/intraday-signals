@@ -1,0 +1,145 @@
+{
+  "date": "Friday, 15 May 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "HDFCLIFE.NS",
+      "symbol": "HDFCLIFE",
+      "entry_price": 612.5499877929688,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9612.55 vs \u20b9612.55)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.5x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.19% headroom to \u20b9619.84"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 4,
+      "target_price": 615.61,
+      "stoploss_price": 606.42,
+      "actual_capital": 2450.2,
+      "max_profit": 12.25,
+      "max_loss": 24.5
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "entry_price": 383.20001220703125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9383.20 vs \u20b9383.20)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.5x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.58% headroom to \u20b9389.27"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 6,
+      "target_price": 385.12,
+      "stoploss_price": 379.37,
+      "actual_capital": 2299.2,
+      "max_profit": 11.5,
+      "max_loss": 22.99
+    },
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "entry_price": 300.8999938964844,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9300.90 vs \u20b9300.90)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.3x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.94% headroom to \u20b9306.73",
+        "\ud83d\udca1 Gap up +0.96% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 8,
+      "target_price": 302.4,
+      "stoploss_price": 297.89,
+      "actual_capital": 2407.2,
+      "max_profit": 12.04,
+      "max_loss": 24.07
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "symbol": "TATASTEEL",
+      "entry_price": 221.1300048828125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9221.13 vs \u20b9221.13)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.4x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.81% headroom to \u20b9225.14"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 11,
+      "target_price": 222.24,
+      "stoploss_price": 218.92,
+      "actual_capital": 2432.43,
+      "max_profit": 12.16,
+      "max_loss": 24.32
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "ADANIENT",
+      "reasons": [
+        "\u274c Only -4.18% headroom to \u20b92599.44"
+      ]
+    },
+    {
+      "symbol": "BHARTIARTL",
+      "reasons": [
+        "\u274c MACD bearish",
+        "\u274c Only -2.14% headroom to \u20b91843.26"
+      ]
+    },
+    {
+      "symbol": "CIPLA",
+      "reasons": [
+        "\u274c Only -4.60% headroom to \u20b91370.59"
+      ]
+    },
+    {
+      "symbol": "DRREDDY",
+      "reasons": [
+        "\u274c MACD bearish",
+        "\u274c Only 0.38% headroom to \u20b91308.58"
+      ]
+    },
+    {
+      "symbol": "HINDALCO",
+      "reasons": [
+        "\u274c Only 0.08% headroom to \u20b91104.13"
+      ]
+    },
+    {
+      "symbol": "INDUSINDBK",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "JSWSTEEL",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "M&M",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "NESTLEIND",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    }
+  ]
+}
