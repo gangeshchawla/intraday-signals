@@ -1,0 +1,94 @@
+{
+  "date": "Wednesday, 20 May 2026",
+  "summary": {
+    "total_pnl_inr": 47.07,
+    "targets_hit": 3,
+    "stops_hit": 0,
+    "squared_off": 0,
+    "win_rate": 100.0,
+    "total_trades": 3
+  },
+  "outcomes": [
+    {
+      "ticker": "ITC.NS",
+      "symbol": "ITC",
+      "entry_price": 310.29998779296875,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9310.30 vs \u20b9310.30)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.1x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.88% headroom to \u20b9316.12"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 10,
+      "target_price": 311.85,
+      "stoploss_price": 307.2,
+      "actual_capital": 3103.0,
+      "max_profit": 15.51,
+      "max_loss": 31.03,
+      "day_high": 314.25,
+      "day_low": 308.3500061035156,
+      "day_close": 310.29998779296875,
+      "result": "TARGET_HIT",
+      "exit_price": 311.85,
+      "pnl_pct": 0.5,
+      "date": "2026-05-20"
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "entry_price": 381.95001220703125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9381.95 vs \u20b9381.95)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.1x)",
+        "\u2705 MACD bullish",
+        "\u2705 5.79% headroom to \u20b9404.07"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 8,
+      "target_price": 383.86,
+      "stoploss_price": 378.13,
+      "actual_capital": 3055.6,
+      "max_profit": 15.28,
+      "max_loss": 30.56,
+      "day_high": 391.79998779296875,
+      "day_low": 380.25,
+      "day_close": 381.95001220703125,
+      "result": "TARGET_HIT",
+      "exit_price": 383.86,
+      "pnl_pct": 0.5,
+      "date": "2026-05-20"
+    },
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "entry_price": 296.5,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9296.50 vs \u20b9296.50)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.5x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.20% headroom to \u20b9306.00"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 11,
+      "target_price": 297.98,
+      "stoploss_price": 293.54,
+      "actual_capital": 3261.5,
+      "max_profit": 16.31,
+      "max_loss": 32.62,
+      "day_high": 298.5,
+      "day_low": 293.6499938964844,
+      "day_close": 296.5,
+      "result": "TARGET_HIT",
+      "exit_price": 297.98,
+      "pnl_pct": 0.499,
+      "date": "2026-05-20"
+    }
+  ]
+}
