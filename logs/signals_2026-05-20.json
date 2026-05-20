@@ -1,0 +1,93 @@
+{
+  "date": "Wednesday, 20 May 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "ITC.NS",
+      "symbol": "ITC",
+      "entry_price": 310.29998779296875,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9310.30 vs \u20b9310.30)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.1x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.88% headroom to \u20b9316.12"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 10,
+      "target_price": 311.85,
+      "stoploss_price": 307.2,
+      "actual_capital": 3103.0,
+      "max_profit": 15.51,
+      "max_loss": 31.03
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "entry_price": 381.95001220703125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9381.95 vs \u20b9381.95)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.1x)",
+        "\u2705 MACD bullish",
+        "\u2705 5.79% headroom to \u20b9404.07"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 8,
+      "target_price": 383.86,
+      "stoploss_price": 378.13,
+      "actual_capital": 3055.6,
+      "max_profit": 15.28,
+      "max_loss": 30.56
+    },
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "entry_price": 296.5,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9296.50 vs \u20b9296.50)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.5x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.20% headroom to \u20b9306.00"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 11,
+      "target_price": 297.98,
+      "stoploss_price": 293.54,
+      "actual_capital": 3261.5,
+      "max_profit": 16.31,
+      "max_loss": 32.62
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "BAJAJ-AUTO",
+      "reasons": [
+        "\u274c Weak volume (0.4x avg)",
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "HDFCLIFE",
+      "reasons": [
+        "\u274c Weak volume (0.3x avg)"
+      ]
+    },
+    {
+      "symbol": "INFY",
+      "reasons": [
+        "\u274c Only -1.63% headroom to \u20b91177.37"
+      ]
+    },
+    {
+      "symbol": "TECHM",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    }
+  ]
+}
