@@ -142,3 +142,4 @@ date,ticker,rsi,macd_diff,sma20_ratio,sma50_ratio,atr_ratio,vol_ratio,volatility
 2026-05-20,ONGC.NS,,,,,,,,,,,,18.68,,TARGET_HIT,0.499,1
 2026-05-21,HDFCLIFE.NS,,,,,,,,,,,,18.44,,TARGET_HIT,0.501,1
 2026-05-21,KOTAKBANK.NS,,,,,,,,,,,,18.44,,STOPLOSS_HIT,-0.999,0
+2026-05-21,ONGC.NS,,,,,,,,,,,,18.44,,TARGET_HIT,0.5,1
