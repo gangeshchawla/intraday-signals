@@ -1,0 +1,120 @@
+{
+  "date": "Friday, 22 May 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "HDFCLIFE.NS",
+      "symbol": "HDFCLIFE",
+      "entry_price": 614.3499755859375,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9614.35 vs \u20b9614.35)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.37% headroom to \u20b9622.76",
+        "\ud83d\udca1 Gap up +1.14% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 4,
+      "target_price": 617.42,
+      "stoploss_price": 608.21,
+      "actual_capital": 2457.4,
+      "max_profit": 12.29,
+      "max_loss": 24.57
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "entry_price": 380.8500061035156,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9380.85 vs \u20b9380.85)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.5x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.93% headroom to \u20b9395.81"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 6,
+      "target_price": 382.75,
+      "stoploss_price": 377.04,
+      "actual_capital": 2285.1,
+      "max_profit": 11.43,
+      "max_loss": 22.85
+    },
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "entry_price": 295.8500061035156,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9295.85 vs \u20b9295.85)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.88% headroom to \u20b9307.33"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 8,
+      "target_price": 297.33,
+      "stoploss_price": 292.89,
+      "actual_capital": 2366.8,
+      "max_profit": 11.83,
+      "max_loss": 23.67
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "symbol": "WIPRO",
+      "entry_price": 199.74000549316406,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9199.74 vs \u20b9199.74)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.0x)",
+        "\u2705 MACD bullish",
+        "\u2705 0.99% headroom to \u20b9201.71",
+        "\ud83d\udca1 Gap up +0.70% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 12,
+      "target_price": 200.74,
+      "stoploss_price": 197.74,
+      "actual_capital": 2396.88,
+      "max_profit": 11.98,
+      "max_loss": 23.97
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "APOLLOHOSP",
+      "reasons": [
+        "\u274c Only -0.34% headroom to \u20b98280.62"
+      ]
+    },
+    {
+      "symbol": "GRASIM",
+      "reasons": [
+        "\u274c Only -2.87% headroom to \u20b93064.07"
+      ]
+    },
+    {
+      "symbol": "SBILIFE",
+      "reasons": [
+        "\u274c Weak volume (0.3x avg)"
+      ]
+    },
+    {
+      "symbol": "SUNPHARMA",
+      "reasons": [
+        "\u274c Weak volume (0.3x avg)"
+      ]
+    },
+    {
+      "symbol": "TATACONSUM",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    }
+  ]
+}
