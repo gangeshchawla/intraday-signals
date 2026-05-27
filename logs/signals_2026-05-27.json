@@ -1,0 +1,92 @@
+{
+  "date": "Wednesday, 27 May 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "BPCL.NS",
+      "symbol": "BPCL",
+      "entry_price": 304.6000061035156,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9304.60 vs \u20b9304.60)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 4.86% headroom to \u20b9319.40"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 10,
+      "target_price": 306.12,
+      "stoploss_price": 301.55,
+      "actual_capital": 3046.0,
+      "max_profit": 15.23,
+      "max_loss": 30.46
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "entry_price": 388.6499938964844,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9388.65 vs \u20b9388.65)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.99% headroom to \u20b9404.16"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 8,
+      "target_price": 390.59,
+      "stoploss_price": 384.76,
+      "actual_capital": 3109.2,
+      "max_profit": 15.55,
+      "max_loss": 31.09
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "symbol": "WIPRO",
+      "entry_price": 203.72999572753906,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9203.73 vs \u20b9203.73)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (2.2x)",
+        "\u2705 MACD bullish",
+        "\u2705 4.17% headroom to \u20b9212.23"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 16,
+      "target_price": 204.75,
+      "stoploss_price": 201.69,
+      "actual_capital": 3259.68,
+      "max_profit": 16.3,
+      "max_loss": 32.6
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "ADANIENT",
+      "reasons": [
+        "\u274c Only -0.11% headroom to \u20b92965.95"
+      ]
+    },
+    {
+      "symbol": "DIVISLAB",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "HDFCLIFE",
+      "reasons": [
+        "\u274c Weak volume (0.4x avg)"
+      ]
+    },
+    {
+      "symbol": "TATACONSUM",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    }
+  ]
+}
