@@ -1,0 +1,123 @@
+{
+  "date": "Thursday, 28 May 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "BPCL.NS",
+      "symbol": "BPCL",
+      "entry_price": 307.1499938964844,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9307.15 vs \u20b9307.15)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.65% headroom to \u20b9315.30",
+        "\ud83d\udca1 Gap up +0.29% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 10,
+      "target_price": 308.69,
+      "stoploss_price": 304.08,
+      "actual_capital": 3071.5,
+      "max_profit": 15.36,
+      "max_loss": 30.71
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "entry_price": 388.70001220703125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9388.70 vs \u20b9388.70)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.5x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.80% headroom to \u20b9399.60"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 8,
+      "target_price": 390.64,
+      "stoploss_price": 384.81,
+      "actual_capital": 3109.6,
+      "max_profit": 15.55,
+      "max_loss": 31.1
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "symbol": "WIPRO",
+      "entry_price": 201.5800018310547,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9201.58 vs \u20b9201.58)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.84% headroom to \u20b9209.33"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 16,
+      "target_price": 202.59,
+      "stoploss_price": 199.56,
+      "actual_capital": 3225.28,
+      "max_profit": 16.13,
+      "max_loss": 32.25
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "BAJAJFINSV",
+      "reasons": [
+        "\u274c Weak volume (0.3x avg)"
+      ]
+    },
+    {
+      "symbol": "DIVISLAB",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "GRASIM",
+      "reasons": [
+        "\u274c Weak volume (0.3x avg)"
+      ]
+    },
+    {
+      "symbol": "HDFCLIFE",
+      "reasons": [
+        "\u274c Weak volume (0.2x avg)"
+      ]
+    },
+    {
+      "symbol": "HINDALCO",
+      "reasons": [
+        "\u274c Only -0.66% headroom to \u20b91142.15"
+      ]
+    },
+    {
+      "symbol": "NTPC",
+      "reasons": [
+        "\u274c Only 0.41% headroom to \u20b9399.79"
+      ]
+    },
+    {
+      "symbol": "SHREECEM",
+      "reasons": [
+        "\u274c Weak volume (0.4x avg)"
+      ]
+    },
+    {
+      "symbol": "TATACONSUM",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "TATASTEEL",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    }
+  ]
+}
