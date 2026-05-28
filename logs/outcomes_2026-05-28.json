@@ -1,0 +1,95 @@
+{
+  "date": "Thursday, 28 May 2026",
+  "summary": {
+    "total_pnl_inr": -14.56,
+    "targets_hit": 1,
+    "stops_hit": 1,
+    "squared_off": 1,
+    "win_rate": 33.3,
+    "total_trades": 3
+  },
+  "outcomes": [
+    {
+      "ticker": "BPCL.NS",
+      "symbol": "BPCL",
+      "entry_price": 307.1499938964844,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9307.15 vs \u20b9307.15)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.65% headroom to \u20b9315.30",
+        "\ud83d\udca1 Gap up +0.29% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 10,
+      "target_price": 308.69,
+      "stoploss_price": 304.08,
+      "actual_capital": 3071.5,
+      "max_profit": 15.36,
+      "max_loss": 30.71,
+      "day_high": 308.45001220703125,
+      "day_low": 302.1499938964844,
+      "day_close": 307.1499938964844,
+      "result": "STOPLOSS_HIT",
+      "exit_price": 304.08,
+      "pnl_pct": -1.0,
+      "date": "2026-05-28"
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "entry_price": 388.70001220703125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9388.70 vs \u20b9388.70)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.5x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.80% headroom to \u20b9399.60"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 8,
+      "target_price": 390.64,
+      "stoploss_price": 384.81,
+      "actual_capital": 3109.6,
+      "max_profit": 15.55,
+      "max_loss": 31.1,
+      "day_high": 390.5,
+      "day_low": 386.70001220703125,
+      "day_close": 388.70001220703125,
+      "result": "SQUARED_OFF",
+      "exit_price": 388.7,
+      "pnl_pct": 0.0,
+      "date": "2026-05-28"
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "symbol": "WIPRO",
+      "entry_price": 201.5800018310547,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9201.58 vs \u20b9201.58)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.84% headroom to \u20b9209.33"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 16,
+      "target_price": 202.59,
+      "stoploss_price": 199.56,
+      "actual_capital": 3225.28,
+      "max_profit": 16.13,
+      "max_loss": 32.25,
+      "day_high": 205.99000549316406,
+      "day_low": 200.1999969482422,
+      "day_close": 201.5800018310547,
+      "result": "TARGET_HIT",
+      "exit_price": 202.59,
+      "pnl_pct": 0.501,
+      "date": "2026-05-28"
+    }
+  ]
+}
