@@ -159,3 +159,4 @@ date,ticker,rsi,macd_diff,sma20_ratio,sma50_ratio,atr_ratio,vol_ratio,volatility
 2026-05-28,KOTAKBANK.NS,,,,,,,,,,,,14.98,,SQUARED_OFF,0.0,0
 2026-05-28,WIPRO.NS,,,,,,,,,,,,14.98,,TARGET_HIT,0.501,1
 2026-06-01,BPCL.NS,,,,,,,,,,,,16.19,,TARGET_HIT,0.5,1
+2026-06-01,KOTAKBANK.NS,,,,,,,,,,,,16.19,,TARGET_HIT,0.5,1
