@@ -1,0 +1,74 @@
+{
+  "date": "Monday, 01 June 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "BPCL.NS",
+      "symbol": "BPCL",
+      "entry_price": 298.1000061035156,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9298.10 vs \u20b9298.10)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (2.3x)",
+        "\u2705 MACD bullish",
+        "\u2705 6.81% headroom to \u20b9318.39"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 11,
+      "target_price": 299.59,
+      "stoploss_price": 295.12,
+      "actual_capital": 3279.1,
+      "max_profit": 16.4,
+      "max_loss": 32.79
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "entry_price": 384.20001220703125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9384.20 vs \u20b9384.20)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (2.0x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.86% headroom to \u20b9399.04"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 8,
+      "target_price": 386.12,
+      "stoploss_price": 380.36,
+      "actual_capital": 3073.6,
+      "max_profit": 15.37,
+      "max_loss": 30.74
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "symbol": "WIPRO",
+      "entry_price": 204.25,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9204.25 vs \u20b9204.25)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (3.3x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.63% headroom to \u20b9207.57"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 16,
+      "target_price": 205.27,
+      "stoploss_price": 202.21,
+      "actual_capital": 3268.0,
+      "max_profit": 16.34,
+      "max_loss": 32.68
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "CIPLA",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    }
+  ]
+}
