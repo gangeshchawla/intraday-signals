@@ -1,0 +1,68 @@
+{
+  "date": "Wednesday, 03 June 2026",
+  "summary": {
+    "total_pnl_inr": -24.7,
+    "targets_hit": 1,
+    "stops_hit": 1,
+    "squared_off": 0,
+    "win_rate": 50.0,
+    "total_trades": 2
+  },
+  "outcomes": [
+    {
+      "ticker": "COALINDIA.NS",
+      "symbol": "COALINDIA",
+      "entry_price": 472.1499938964844,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9472.15 vs \u20b9472.15)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.1x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.61% headroom to \u20b9489.18"
+      ],
+      "capital_allocated": 5000.0,
+      "qty": 10,
+      "target_price": 474.51,
+      "stoploss_price": 467.43,
+      "actual_capital": 4721.5,
+      "max_profit": 23.61,
+      "max_loss": 47.21,
+      "day_high": 474.95001220703125,
+      "day_low": 463.29998779296875,
+      "day_close": 472.1499938964844,
+      "result": "TARGET_HIT",
+      "exit_price": 474.51,
+      "pnl_pct": 0.5,
+      "date": "2026-06-03"
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "symbol": "WIPRO",
+      "entry_price": 209.83999633789062,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9209.84 vs \u20b9209.84)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.5x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.07% headroom to \u20b9212.08",
+        "\ud83d\udca1 Gap up +0.77% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 5000.0,
+      "qty": 23,
+      "target_price": 210.89,
+      "stoploss_price": 207.74,
+      "actual_capital": 4826.32,
+      "max_profit": 24.13,
+      "max_loss": 48.26,
+      "day_high": 210.17999267578125,
+      "day_low": 206.50999450683594,
+      "day_close": 209.83999633789062,
+      "result": "STOPLOSS_HIT",
+      "exit_price": 207.74,
+      "pnl_pct": -1.001,
+      "date": "2026-06-03"
+    }
+  ]
+}
