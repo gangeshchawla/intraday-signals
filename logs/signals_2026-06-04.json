@@ -1,0 +1,87 @@
+{
+  "date": "Thursday, 04 June 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "COALINDIA.NS",
+      "symbol": "COALINDIA",
+      "entry_price": 472.29998779296875,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9472.30 vs \u20b9472.30)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.38% headroom to \u20b9488.26"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 7,
+      "target_price": 474.66,
+      "stoploss_price": 467.58,
+      "actual_capital": 3306.1,
+      "max_profit": 16.53,
+      "max_loss": 33.06
+    },
+    {
+      "ticker": "UPL.NS",
+      "symbol": "UPL",
+      "entry_price": 646.0499877929688,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9646.05 vs \u20b9646.05)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.9x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.75% headroom to \u20b9657.37"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 5,
+      "target_price": 649.28,
+      "stoploss_price": 639.59,
+      "actual_capital": 3230.25,
+      "max_profit": 16.15,
+      "max_loss": 32.3
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "symbol": "WIPRO",
+      "entry_price": 204.10000610351562,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9204.10 vs \u20b9204.10)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (2.0x)",
+        "\u2705 MACD bullish",
+        "\u2705 5.77% headroom to \u20b9215.88"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 16,
+      "target_price": 205.12,
+      "stoploss_price": 202.06,
+      "actual_capital": 3265.6,
+      "max_profit": 16.33,
+      "max_loss": 32.66
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "ADANIPORTS",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "APOLLOHOSP",
+      "reasons": [
+        "\u274c MACD bearish",
+        "\u274c Only 0.23% headroom to \u20b98309.69"
+      ]
+    },
+    {
+      "symbol": "GRASIM",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    }
+  ]
+}
