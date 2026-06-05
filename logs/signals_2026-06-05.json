@@ -1,0 +1,170 @@
+{
+  "date": "Friday, 05 June 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "COALINDIA.NS",
+      "symbol": "COALINDIA",
+      "entry_price": 481.6499938964844,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9481.65 vs \u20b9481.65)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.37% headroom to \u20b9488.23"
+      ],
+      "capital_allocated": 1666.6666666666667,
+      "qty": 3,
+      "target_price": 484.06,
+      "stoploss_price": 476.83,
+      "actual_capital": 1444.95,
+      "max_profit": 7.22,
+      "max_loss": 14.45
+    },
+    {
+      "ticker": "HINDALCO.NS",
+      "symbol": "HINDALCO",
+      "entry_price": 1125.5999755859375,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91125.60 vs \u20b91125.60)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 4.30% headroom to \u20b91174.05"
+      ],
+      "capital_allocated": 1666.6666666666667,
+      "qty": 1,
+      "target_price": 1131.23,
+      "stoploss_price": 1114.34,
+      "actual_capital": 1125.6,
+      "max_profit": 5.63,
+      "max_loss": 11.26
+    },
+    {
+      "ticker": "INFY.NS",
+      "symbol": "INFY",
+      "entry_price": 1201.300048828125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91201.30 vs \u20b91201.30)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 5.15% headroom to \u20b91263.16"
+      ],
+      "capital_allocated": 1666.6666666666667,
+      "qty": 1,
+      "target_price": 1207.31,
+      "stoploss_price": 1189.29,
+      "actual_capital": 1201.3,
+      "max_profit": 6.01,
+      "max_loss": 12.01
+    },
+    {
+      "ticker": "JSWSTEEL.NS",
+      "symbol": "JSWSTEEL",
+      "entry_price": 1301.0999755859375,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91301.10 vs \u20b91301.10)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.5x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.16% headroom to \u20b91342.19"
+      ],
+      "capital_allocated": 1666.6666666666667,
+      "qty": 1,
+      "target_price": 1307.61,
+      "stoploss_price": 1288.09,
+      "actual_capital": 1301.1,
+      "max_profit": 6.51,
+      "max_loss": 13.01
+    },
+    {
+      "ticker": "SBIN.NS",
+      "symbol": "SBIN",
+      "entry_price": 979.25,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9979.25 vs \u20b9979.25)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.0x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.47% headroom to \u20b9993.60"
+      ],
+      "capital_allocated": 1666.6666666666667,
+      "qty": 1,
+      "target_price": 984.15,
+      "stoploss_price": 969.46,
+      "actual_capital": 979.25,
+      "max_profit": 4.9,
+      "max_loss": 9.79
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "symbol": "WIPRO",
+      "entry_price": 204.32000732421875,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9204.32 vs \u20b9204.32)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.3x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.82% headroom to \u20b9210.08"
+      ],
+      "capital_allocated": 1666.6666666666667,
+      "qty": 8,
+      "target_price": 205.34,
+      "stoploss_price": 202.28,
+      "actual_capital": 1634.56,
+      "max_profit": 8.17,
+      "max_loss": 16.35
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "ADANIPORTS",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "APOLLOHOSP",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "ASIANPAINT",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "BAJAJ-AUTO",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "CIPLA",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "GRASIM",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "TITAN",
+      "reasons": [
+        "\u274c Only -0.76% headroom to \u20b94198.68"
+      ]
+    }
+  ]
+}
