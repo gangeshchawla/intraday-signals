@@ -1,0 +1,110 @@
+{
+  "date": "Monday, 08 June 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "COALINDIA.NS",
+      "symbol": "COALINDIA",
+      "entry_price": 472.29998779296875,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9472.30 vs \u20b9472.30)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.4x)",
+        "\u2705 MACD bullish",
+        "\u2705 5.41% headroom to \u20b9497.85"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 7,
+      "target_price": 474.66,
+      "stoploss_price": 467.58,
+      "actual_capital": 3306.1,
+      "max_profit": 16.53,
+      "max_loss": 33.06
+    },
+    {
+      "ticker": "INFY.NS",
+      "symbol": "INFY",
+      "entry_price": 1197.5,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91197.50 vs \u20b91197.50)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.5x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.71% headroom to \u20b91241.91"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 2,
+      "target_price": 1203.49,
+      "stoploss_price": 1185.53,
+      "actual_capital": 2395.0,
+      "max_profit": 11.97,
+      "max_loss": 23.95
+    },
+    {
+      "ticker": "SBIN.NS",
+      "symbol": "SBIN",
+      "entry_price": 977.7000122070312,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9977.70 vs \u20b9977.70)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.2x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.47% headroom to \u20b91001.85"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 3,
+      "target_price": 982.59,
+      "stoploss_price": 967.92,
+      "actual_capital": 2933.1,
+      "max_profit": 14.67,
+      "max_loss": 29.33
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "ADANIPORTS",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "APOLLOHOSP",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "AXISBANK",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "CIPLA",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "GRASIM",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "ICICIBANK",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "LT",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    }
+  ]
+}
