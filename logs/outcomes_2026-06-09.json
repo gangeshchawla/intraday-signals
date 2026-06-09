@@ -1,0 +1,94 @@
+{
+  "date": "Tuesday, 09 June 2026",
+  "summary": {
+    "total_pnl_inr": 42.84,
+    "targets_hit": 3,
+    "stops_hit": 0,
+    "squared_off": 0,
+    "win_rate": 100.0,
+    "total_trades": 3
+  },
+  "outcomes": [
+    {
+      "ticker": "COALINDIA.NS",
+      "symbol": "COALINDIA",
+      "entry_price": 464.8999938964844,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9464.90 vs \u20b9464.90)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.5x)",
+        "\u2705 MACD bullish",
+        "\u2705 5.05% headroom to \u20b9488.40"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 7,
+      "target_price": 467.22,
+      "stoploss_price": 460.25,
+      "actual_capital": 3254.3,
+      "max_profit": 16.27,
+      "max_loss": 32.54,
+      "day_high": 470.6000061035156,
+      "day_low": 463.95001220703125,
+      "day_close": 464.8999938964844,
+      "result": "TARGET_HIT",
+      "exit_price": 467.22,
+      "pnl_pct": 0.499,
+      "date": "2026-06-09"
+    },
+    {
+      "ticker": "INFY.NS",
+      "symbol": "INFY",
+      "entry_price": 1187.5999755859375,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91187.60 vs \u20b91187.60)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.5x)",
+        "\u2705 MACD bullish",
+        "\u2705 4.04% headroom to \u20b91235.61"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 2,
+      "target_price": 1193.54,
+      "stoploss_price": 1175.72,
+      "actual_capital": 2375.2,
+      "max_profit": 11.88,
+      "max_loss": 23.75,
+      "day_high": 1200.699951171875,
+      "day_low": 1176.5,
+      "day_close": 1187.5999755859375,
+      "result": "TARGET_HIT",
+      "exit_price": 1193.54,
+      "pnl_pct": 0.5,
+      "date": "2026-06-09"
+    },
+    {
+      "ticker": "SBIN.NS",
+      "symbol": "SBIN",
+      "entry_price": 981.9500122070312,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9981.95 vs \u20b9981.95)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.92% headroom to \u20b91000.79"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 3,
+      "target_price": 986.86,
+      "stoploss_price": 972.13,
+      "actual_capital": 2945.85,
+      "max_profit": 14.73,
+      "max_loss": 29.46,
+      "day_high": 988.6500244140625,
+      "day_low": 965.1500244140625,
+      "day_close": 981.9500122070312,
+      "result": "TARGET_HIT",
+      "exit_price": 986.86,
+      "pnl_pct": 0.5,
+      "date": "2026-06-09"
+    }
+  ]
+}
