@@ -1,0 +1,93 @@
+{
+  "date": "Tuesday, 09 June 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "COALINDIA.NS",
+      "symbol": "COALINDIA",
+      "entry_price": 464.8999938964844,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9464.90 vs \u20b9464.90)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.5x)",
+        "\u2705 MACD bullish",
+        "\u2705 5.05% headroom to \u20b9488.40"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 7,
+      "target_price": 467.22,
+      "stoploss_price": 460.25,
+      "actual_capital": 3254.3,
+      "max_profit": 16.27,
+      "max_loss": 32.54
+    },
+    {
+      "ticker": "INFY.NS",
+      "symbol": "INFY",
+      "entry_price": 1187.5999755859375,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91187.60 vs \u20b91187.60)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.5x)",
+        "\u2705 MACD bullish",
+        "\u2705 4.04% headroom to \u20b91235.61"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 2,
+      "target_price": 1193.54,
+      "stoploss_price": 1175.72,
+      "actual_capital": 2375.2,
+      "max_profit": 11.88,
+      "max_loss": 23.75
+    },
+    {
+      "ticker": "SBIN.NS",
+      "symbol": "SBIN",
+      "entry_price": 981.9500122070312,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9981.95 vs \u20b9981.95)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.92% headroom to \u20b91000.79"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 3,
+      "target_price": 986.86,
+      "stoploss_price": 972.13,
+      "actual_capital": 2945.85,
+      "max_profit": 14.73,
+      "max_loss": 29.46
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "ADANIPORTS",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "ASIANPAINT",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "AXISBANK",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "CIPLA",
+      "reasons": [
+        "\u274c Weak volume (0.3x avg)",
+        "\u274c MACD bearish"
+      ]
+    }
+  ]
+}
