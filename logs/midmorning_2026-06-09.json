@@ -1,0 +1,173 @@
+{
+  "date": "Tuesday, 09 June 2026",
+  "checks": [
+    {
+      "ticker": "ADANIENT.NS",
+      "symbol": "ADANIENT",
+      "premarket_price": 2970.0,
+      "predicted_day_high": 3149.38,
+      "current_price": 2970.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 6.04% left to predicted high.",
+      "vol_ratio": 0.5513041685638771,
+      "avg_volume": 2999249.95
+    },
+    {
+      "ticker": "ADANIPORTS.NS",
+      "symbol": "ADANIPORTS",
+      "premarket_price": 1805.0,
+      "predicted_day_high": 1868.53,
+      "current_price": 1805.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 3.52% left to predicted high.",
+      "vol_ratio": 1.1271250033137035,
+      "avg_volume": 2284075.85
+    },
+    {
+      "ticker": "APOLLOHOSP.NS",
+      "symbol": "APOLLOHOSP",
+      "premarket_price": 8358.5,
+      "predicted_day_high": 8534.09,
+      "current_price": 8358.5,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.10% left to predicted high.",
+      "vol_ratio": 1.1673960604397848,
+      "avg_volume": 461719.05
+    },
+    {
+      "ticker": "ASIANPAINT.NS",
+      "symbol": "ASIANPAINT",
+      "premarket_price": 2659.199951171875,
+      "predicted_day_high": 2759.86,
+      "current_price": 2659.199951171875,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 3.79% left to predicted high.",
+      "vol_ratio": 0.939194995160324,
+      "avg_volume": 1344666.45
+    },
+    {
+      "ticker": "AXISBANK.NS",
+      "symbol": "AXISBANK",
+      "premarket_price": 1268.0999755859375,
+      "predicted_day_high": 1302.89,
+      "current_price": 1268.0999755859375,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.74% left to predicted high.",
+      "vol_ratio": 0.7781622339040779,
+      "avg_volume": 6469586.65
+    },
+    {
+      "ticker": "CIPLA.NS",
+      "symbol": "CIPLA",
+      "premarket_price": 1387.9000244140625,
+      "predicted_day_high": 1431.92,
+      "current_price": 1387.9000244140625,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 3.17% left to predicted high.",
+      "vol_ratio": 0.30044430219370505,
+      "avg_volume": 2228303.2
+    },
+    {
+      "ticker": "COALINDIA.NS",
+      "symbol": "COALINDIA",
+      "premarket_price": 464.8999938964844,
+      "predicted_day_high": 488.4,
+      "current_price": 464.8999938964844,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 5.05% left to predicted high.",
+      "vol_ratio": 0.4606753749896724,
+      "avg_volume": 21869158.95
+    },
+    {
+      "ticker": "DIVISLAB.NS",
+      "symbol": "DIVISLAB",
+      "premarket_price": 6521.0,
+      "predicted_day_high": 6806.34,
+      "current_price": 6521.0,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 1.2092321701868576,
+      "avg_volume": 377434.55
+    },
+    {
+      "ticker": "INDUSINDBK.NS",
+      "symbol": "INDUSINDBK",
+      "premarket_price": 895.0499877929688,
+      "predicted_day_high": 929.73,
+      "current_price": 895.0499877929688,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 1.0948920944767904,
+      "avg_volume": 1703209.85
+    },
+    {
+      "ticker": "INFY.NS",
+      "symbol": "INFY",
+      "premarket_price": 1187.5999755859375,
+      "predicted_day_high": 1235.61,
+      "current_price": 1187.5999755859375,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 4.04% left to predicted high.",
+      "vol_ratio": 0.5238071111854046,
+      "avg_volume": 16478796.9
+    },
+    {
+      "ticker": "SBIN.NS",
+      "symbol": "SBIN",
+      "premarket_price": 981.9500122070312,
+      "predicted_day_high": 1000.79,
+      "current_price": 981.9500122070312,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.92% left to predicted high.",
+      "vol_ratio": 0.8123809438852689,
+      "avg_volume": 15873607.2
+    },
+    {
+      "ticker": "SUNPHARMA.NS",
+      "symbol": "SUNPHARMA",
+      "premarket_price": 1788.800048828125,
+      "predicted_day_high": 1825.38,
+      "current_price": 1788.800048828125,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 1.0951410749491879,
+      "avg_volume": 2829354.2
+    },
+    {
+      "ticker": "TECHM.NS",
+      "symbol": "TECHM",
+      "premarket_price": 1503.4000244140625,
+      "predicted_day_high": 1535.9,
+      "current_price": 1503.4000244140625,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.16% left to predicted high.",
+      "vol_ratio": 0.8803921504276393,
+      "avg_volume": 2803250.8
+    },
+    {
+      "ticker": "TITAN.NS",
+      "symbol": "TITAN",
+      "premarket_price": 4192.39990234375,
+      "predicted_day_high": 4366.94,
+      "current_price": 4192.39990234375,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 4.16% left to predicted high.",
+      "vol_ratio": 0.6487125225606523,
+      "avg_volume": 1027785.0
+    }
+  ]
+}
