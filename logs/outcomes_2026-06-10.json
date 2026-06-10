@@ -1,0 +1,122 @@
+{
+  "date": "Wednesday, 10 June 2026",
+  "summary": {
+    "total_pnl_inr": -17.3,
+    "targets_hit": 2,
+    "stops_hit": 2,
+    "squared_off": 0,
+    "win_rate": 50.0,
+    "total_trades": 4
+  },
+  "outcomes": [
+    {
+      "ticker": "AXISBANK.NS",
+      "symbol": "AXISBANK",
+      "entry_price": 1292.4000244140625,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91292.40 vs \u20b91292.40)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.1x)",
+        "\u2705 MACD bullish",
+        "\u2705 0.50% headroom to \u20b91298.89",
+        "\ud83d\udca1 Gap up +0.61% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 1,
+      "target_price": 1298.86,
+      "stoploss_price": 1279.48,
+      "actual_capital": 1292.4,
+      "max_profit": 6.46,
+      "max_loss": 12.92,
+      "day_high": 1298.4000244140625,
+      "day_low": 1271.5,
+      "day_close": 1292.4000244140625,
+      "result": "STOPLOSS_HIT",
+      "exit_price": 1279.48,
+      "pnl_pct": -1.0,
+      "date": "2026-06-10"
+    },
+    {
+      "ticker": "COALINDIA.NS",
+      "symbol": "COALINDIA",
+      "entry_price": 466.8999938964844,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9466.90 vs \u20b9466.90)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.5x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.05% headroom to \u20b9481.12"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 5,
+      "target_price": 469.23,
+      "stoploss_price": 462.23,
+      "actual_capital": 2334.5,
+      "max_profit": 11.67,
+      "max_loss": 23.34,
+      "day_high": 467.54998779296875,
+      "day_low": 458.3999938964844,
+      "day_close": 466.8999938964844,
+      "result": "STOPLOSS_HIT",
+      "exit_price": 462.23,
+      "pnl_pct": -1.0,
+      "date": "2026-06-10"
+    },
+    {
+      "ticker": "INFY.NS",
+      "symbol": "INFY",
+      "entry_price": 1155.300048828125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91155.30 vs \u20b91155.30)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.87% headroom to \u20b91200.05"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 2,
+      "target_price": 1161.08,
+      "stoploss_price": 1143.75,
+      "actual_capital": 2310.6,
+      "max_profit": 11.55,
+      "max_loss": 23.11,
+      "day_high": 1168.3182691086097,
+      "day_low": 1142.5754025403635,
+      "day_close": 1155.300048828125,
+      "result": "TARGET_HIT",
+      "exit_price": 1161.08,
+      "pnl_pct": 0.5,
+      "date": "2026-06-10"
+    },
+    {
+      "ticker": "TECHM.NS",
+      "symbol": "TECHM",
+      "entry_price": 1483.800048828125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91483.80 vs \u20b91483.80)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.5x)",
+        "\u2705 MACD bullish",
+        "\u2705 4.87% headroom to \u20b91556.13"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 1,
+      "target_price": 1491.22,
+      "stoploss_price": 1468.96,
+      "actual_capital": 1483.8,
+      "max_profit": 7.42,
+      "max_loss": 14.84,
+      "day_high": 1518.4000244140625,
+      "day_low": 1473.199951171875,
+      "day_close": 1483.800048828125,
+      "result": "TARGET_HIT",
+      "exit_price": 1491.22,
+      "pnl_pct": 0.5,
+      "date": "2026-06-10"
+    }
+  ]
+}
