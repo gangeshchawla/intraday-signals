@@ -179,3 +179,4 @@ date,ticker,rsi,macd_diff,sma20_ratio,sma50_ratio,atr_ratio,vol_ratio,volatility
 2026-06-09,COALINDIA.NS,,,,,,,,,,,,17.03,,TARGET_HIT,0.499,1
 2026-06-09,INFY.NS,,,,,,,,,,,,17.03,,TARGET_HIT,0.5,1
 2026-06-09,SBIN.NS,,,,,,,,,,,,17.03,,TARGET_HIT,0.5,1
+2026-06-10,AXISBANK.NS,,,,,,,,,,,,17.03,,STOPLOSS_HIT,-1.0,0
