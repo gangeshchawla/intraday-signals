@@ -1,0 +1,173 @@
+{
+  "date": "Thursday, 11 June 2026",
+  "checks": [
+    {
+      "ticker": "ADANIENT.NS",
+      "symbol": "ADANIENT",
+      "premarket_price": 2931.10009765625,
+      "predicted_day_high": 3081.95,
+      "current_price": 2931.10009765625,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 5.15% left to predicted high.",
+      "vol_ratio": 0.49326848067182183,
+      "avg_volume": 2990316.75
+    },
+    {
+      "ticker": "ADANIPORTS.NS",
+      "symbol": "ADANIPORTS",
+      "premarket_price": 1821.199951171875,
+      "predicted_day_high": 1872.63,
+      "current_price": 1821.199951171875,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.82% left to predicted high.",
+      "vol_ratio": 1.3353071653767976,
+      "avg_volume": 2196573.25
+    },
+    {
+      "ticker": "APOLLOHOSP.NS",
+      "symbol": "APOLLOHOSP",
+      "premarket_price": 8488.5,
+      "predicted_day_high": 8728.44,
+      "current_price": 8488.5,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.83% left to predicted high.",
+      "vol_ratio": 0.9934052990372635,
+      "avg_volume": 491053.35
+    },
+    {
+      "ticker": "ASIANPAINT.NS",
+      "symbol": "ASIANPAINT",
+      "premarket_price": 2715.10009765625,
+      "predicted_day_high": 2780.88,
+      "current_price": 2715.10009765625,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.42% left to predicted high.",
+      "vol_ratio": 1.0920747061997607,
+      "avg_volume": 1278092.05
+    },
+    {
+      "ticker": "AXISBANK.NS",
+      "symbol": "AXISBANK",
+      "premarket_price": 1314.5,
+      "predicted_day_high": 1325.24,
+      "current_price": 1314.5,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 0.82% left to predicted high.",
+      "vol_ratio": 1.784760163309856,
+      "avg_volume": 6870730.45
+    },
+    {
+      "ticker": "EICHERMOT.NS",
+      "symbol": "EICHERMOT",
+      "premarket_price": 7219.5,
+      "predicted_day_high": 7411.1,
+      "current_price": 7219.5,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.65% left to predicted high.",
+      "vol_ratio": 0.943860990447188,
+      "avg_volume": 509185.15
+    },
+    {
+      "ticker": "ICICIBANK.NS",
+      "symbol": "ICICIBANK",
+      "premarket_price": 1293.300048828125,
+      "predicted_day_high": 1306.98,
+      "current_price": 1293.300048828125,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.06% left to predicted high.",
+      "vol_ratio": 1.553354060136476,
+      "avg_volume": 16706805.4
+    },
+    {
+      "ticker": "INDUSINDBK.NS",
+      "symbol": "INDUSINDBK",
+      "premarket_price": 883.9500122070312,
+      "predicted_day_high": 950.43,
+      "current_price": 883.9500122070312,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 1.140563078200276,
+      "avg_volume": 1747453.55
+    },
+    {
+      "ticker": "JSWSTEEL.NS",
+      "symbol": "JSWSTEEL",
+      "premarket_price": 1269.800048828125,
+      "predicted_day_high": 1292.36,
+      "current_price": 1269.800048828125,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 1.6193927097665453,
+      "avg_volume": 1885370.35
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "premarket_price": 388.1000061035156,
+      "predicted_day_high": 391.17,
+      "current_price": 388.1000061035156,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 0.79% left to predicted high.",
+      "vol_ratio": 1.447505917172145,
+      "avg_volume": 14802953.65
+    },
+    {
+      "ticker": "NESTLEIND.NS",
+      "symbol": "NESTLEIND",
+      "premarket_price": 1438.300048828125,
+      "predicted_day_high": 1445.57,
+      "current_price": 1438.300048828125,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 0.51% left to predicted high.",
+      "vol_ratio": 1.0928632289534588,
+      "avg_volume": 2094176.05
+    },
+    {
+      "ticker": "SBIN.NS",
+      "symbol": "SBIN",
+      "premarket_price": 1003.25,
+      "predicted_day_high": 1026.3,
+      "current_price": 1003.25,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.30% left to predicted high.",
+      "vol_ratio": 1.21270912682525,
+      "avg_volume": 15768263.45
+    },
+    {
+      "ticker": "SUNPHARMA.NS",
+      "symbol": "SUNPHARMA",
+      "premarket_price": 1786.4000244140625,
+      "predicted_day_high": 1822.54,
+      "current_price": 1786.4000244140625,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 0.6604705212307005,
+      "avg_volume": 2849497.35
+    },
+    {
+      "ticker": "TECHM.NS",
+      "symbol": "TECHM",
+      "premarket_price": 1478.9000244140625,
+      "predicted_day_high": 1535.8,
+      "current_price": 1478.9000244140625,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 3.85% left to predicted high.",
+      "vol_ratio": 0.3947058829105103,
+      "avg_volume": 2742999.4
+    }
+  ]
+}
