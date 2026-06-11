@@ -1,0 +1,40 @@
+{
+  "date": "Thursday, 11 June 2026",
+  "summary": {
+    "total_pnl_inr": 45.15,
+    "targets_hit": 1,
+    "stops_hit": 0,
+    "squared_off": 0,
+    "win_rate": 100.0,
+    "total_trades": 1
+  },
+  "outcomes": [
+    {
+      "ticker": "SBIN.NS",
+      "symbol": "SBIN",
+      "entry_price": 1003.25,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91003.25 vs \u20b91003.25)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.2x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.30% headroom to \u20b91026.30"
+      ],
+      "capital_allocated": 10000.0,
+      "qty": 9,
+      "target_price": 1008.27,
+      "stoploss_price": 993.22,
+      "actual_capital": 9029.25,
+      "max_profit": 45.15,
+      "max_loss": 90.29,
+      "day_high": 1012.4000244140625,
+      "day_low": 999.5,
+      "day_close": 1003.25,
+      "result": "TARGET_HIT",
+      "exit_price": 1008.27,
+      "pnl_pct": 0.5,
+      "date": "2026-06-11"
+    }
+  ]
+}
