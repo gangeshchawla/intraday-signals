@@ -1,0 +1,136 @@
+{
+  "date": "Monday, 15 June 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "ICICIBANK.NS",
+      "symbol": "ICICIBANK",
+      "entry_price": 1340.800048828125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91340.80 vs \u20b91340.80)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.0x)",
+        "\u2705 MACD bullish",
+        "\u2705 0.71% headroom to \u20b91350.34",
+        "\ud83d\udca1 Gap up +0.99% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 5000.0,
+      "qty": 3,
+      "target_price": 1347.5,
+      "stoploss_price": 1327.39,
+      "actual_capital": 4022.4,
+      "max_profit": 20.11,
+      "max_loss": 40.22
+    },
+    {
+      "ticker": "SBIN.NS",
+      "symbol": "SBIN",
+      "entry_price": 1017.1500244140625,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91017.15 vs \u20b91017.15)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 0.70% headroom to \u20b91024.31"
+      ],
+      "capital_allocated": 5000.0,
+      "qty": 4,
+      "target_price": 1022.24,
+      "stoploss_price": 1006.98,
+      "actual_capital": 4068.6,
+      "max_profit": 20.34,
+      "max_loss": 40.69
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "ADANIENT",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "ADANIPORTS",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "AXISBANK",
+      "reasons": [
+        "\u274c Only -0.40% headroom to \u20b91350.90"
+      ]
+    },
+    {
+      "symbol": "BAJFINANCE",
+      "reasons": [
+        "\u274c Only -2.12% headroom to \u20b9898.86"
+      ]
+    },
+    {
+      "symbol": "BPCL",
+      "reasons": [
+        "\u274c MACD bearish",
+        "\u274c Only -2.27% headroom to \u20b9295.49"
+      ]
+    },
+    {
+      "symbol": "CIPLA",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "GRASIM",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "HDFCBANK",
+      "reasons": [
+        "\u274c Only -1.05% headroom to \u20b9764.32"
+      ]
+    },
+    {
+      "symbol": "HEROMOTOCO",
+      "reasons": [
+        "\u274c Only 0.35% headroom to \u20b94980.19"
+      ]
+    },
+    {
+      "symbol": "INDUSINDBK",
+      "reasons": [
+        "\u274c MACD bearish",
+        "\u274c Only -0.02% headroom to \u20b9917.16"
+      ]
+    },
+    {
+      "symbol": "JSWSTEEL",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "KOTAKBANK",
+      "reasons": [
+        "\u274c Only 0.08% headroom to \u20b9403.64"
+      ]
+    },
+    {
+      "symbol": "LT",
+      "reasons": [
+        "\u274c MACD bearish",
+        "\u274c Only -2.31% headroom to \u20b93955.85"
+      ]
+    },
+    {
+      "symbol": "TITAN",
+      "reasons": [
+        "\u274c Only -0.86% headroom to \u20b94148.18"
+      ]
+    }
+  ]
+}
