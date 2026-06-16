@@ -1,0 +1,144 @@
+{
+  "date": "Tuesday, 16 June 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "BPCL.NS",
+      "symbol": "BPCL",
+      "entry_price": 310.6000061035156,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9310.60 vs \u20b9310.60)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 0.51% headroom to \u20b9312.18"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 10,
+      "target_price": 312.15,
+      "stoploss_price": 307.49,
+      "actual_capital": 3106.0,
+      "max_profit": 15.53,
+      "max_loss": 31.06
+    },
+    {
+      "ticker": "ITC.NS",
+      "symbol": "ITC",
+      "entry_price": 287.8999938964844,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9287.90 vs \u20b9287.90)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.33% headroom to \u20b9291.74",
+        "\ud83d\udca1 Gap up +0.67% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 11,
+      "target_price": 289.34,
+      "stoploss_price": 285.02,
+      "actual_capital": 3166.9,
+      "max_profit": 15.83,
+      "max_loss": 31.67
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "entry_price": 405.75,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9405.75 vs \u20b9405.75)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.0x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.95% headroom to \u20b9413.67"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 8,
+      "target_price": 407.78,
+      "stoploss_price": 401.69,
+      "actual_capital": 3246.0,
+      "max_profit": 16.23,
+      "max_loss": 32.46
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "ADANIENT",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "ADANIPORTS",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "BAJAJFINSV",
+      "reasons": [
+        "\u274c MACD bearish",
+        "\u274c Only -0.92% headroom to \u20b91734.11"
+      ]
+    },
+    {
+      "symbol": "BHARTIARTL",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "EICHERMOT",
+      "reasons": [
+        "\u274c Only -1.36% headroom to \u20b97520.66"
+      ]
+    },
+    {
+      "symbol": "GRASIM",
+      "reasons": [
+        "\u274c MACD bearish",
+        "\u274c Only 0.34% headroom to \u20b93175.34"
+      ]
+    },
+    {
+      "symbol": "JSWSTEEL",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "LT",
+      "reasons": [
+        "\u274c Only -0.39% headroom to \u20b94153.68"
+      ]
+    },
+    {
+      "symbol": "M&M",
+      "reasons": [
+        "\u274c Only 0.11% headroom to \u20b93137.88"
+      ]
+    },
+    {
+      "symbol": "MARUTI",
+      "reasons": [
+        "\u274c Only -0.51% headroom to \u20b913734.68"
+      ]
+    },
+    {
+      "symbol": "SHREECEM",
+      "reasons": [
+        "\u274c MACD bearish",
+        "\u274c Only -0.02% headroom to \u20b924819.13"
+      ]
+    },
+    {
+      "symbol": "ULTRACEMCO",
+      "reasons": [
+        "\u274c Only -0.48% headroom to \u20b911410.42"
+      ]
+    }
+  ]
+}
