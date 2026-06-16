@@ -1,0 +1,95 @@
+{
+  "date": "Tuesday, 16 June 2026",
+  "summary": {
+    "total_pnl_inr": 31.73,
+    "targets_hit": 2,
+    "stops_hit": 0,
+    "squared_off": 1,
+    "win_rate": 66.7,
+    "total_trades": 3
+  },
+  "outcomes": [
+    {
+      "ticker": "BPCL.NS",
+      "symbol": "BPCL",
+      "entry_price": 310.6000061035156,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9310.60 vs \u20b9310.60)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 0.51% headroom to \u20b9312.18"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 10,
+      "target_price": 312.15,
+      "stoploss_price": 307.49,
+      "actual_capital": 3106.0,
+      "max_profit": 15.53,
+      "max_loss": 31.06,
+      "day_high": 316.75,
+      "day_low": 308.75,
+      "day_close": 310.6000061035156,
+      "result": "TARGET_HIT",
+      "exit_price": 312.15,
+      "pnl_pct": 0.499,
+      "date": "2026-06-16"
+    },
+    {
+      "ticker": "ITC.NS",
+      "symbol": "ITC",
+      "entry_price": 287.8999938964844,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9287.90 vs \u20b9287.90)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.33% headroom to \u20b9291.74",
+        "\ud83d\udca1 Gap up +0.67% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 11,
+      "target_price": 289.34,
+      "stoploss_price": 285.02,
+      "actual_capital": 3166.9,
+      "max_profit": 15.83,
+      "max_loss": 31.67,
+      "day_high": 288.8500061035156,
+      "day_low": 286.70001220703125,
+      "day_close": 287.8999938964844,
+      "result": "SQUARED_OFF",
+      "exit_price": 287.9,
+      "pnl_pct": 0.0,
+      "date": "2026-06-16"
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "entry_price": 405.75,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9405.75 vs \u20b9405.75)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.0x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.95% headroom to \u20b9413.67"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 8,
+      "target_price": 407.78,
+      "stoploss_price": 401.69,
+      "actual_capital": 3246.0,
+      "max_profit": 16.23,
+      "max_loss": 32.46,
+      "day_high": 411.0,
+      "day_low": 402.45001220703125,
+      "day_close": 405.75,
+      "result": "TARGET_HIT",
+      "exit_price": 407.78,
+      "pnl_pct": 0.5,
+      "date": "2026-06-16"
+    }
+  ]
+}
