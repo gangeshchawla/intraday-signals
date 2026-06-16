@@ -188,3 +188,4 @@ date,ticker,rsi,macd_diff,sma20_ratio,sma50_ratio,atr_ratio,vol_ratio,volatility
 2026-06-12,SBIN.NS,,,,,,,,,,,,15.61,,TARGET_HIT,0.5,1
 2026-06-15,ICICIBANK.NS,,,,,,,,,,,,14.72,,STOPLOSS_HIT,-1.0,0
 2026-06-15,SBIN.NS,,,,,,,,,,,,14.72,,STOPLOSS_HIT,-1.0,0
+2026-06-16,BPCL.NS,,,,,,,,,,,,14.35,,TARGET_HIT,0.499,1
