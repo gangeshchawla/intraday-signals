@@ -1,0 +1,60 @@
+{
+  "date": "Wednesday, 17 June 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "BPCL.NS",
+      "symbol": "BPCL",
+      "entry_price": 312.1000061035156,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9312.10 vs \u20b9312.10)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.0x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.63% headroom to \u20b9320.31"
+      ],
+      "capital_allocated": 5000.0,
+      "qty": 16,
+      "target_price": 313.66,
+      "stoploss_price": 308.98,
+      "actual_capital": 4993.6,
+      "max_profit": 24.97,
+      "max_loss": 49.94
+    },
+    {
+      "ticker": "ITC.NS",
+      "symbol": "ITC",
+      "entry_price": 291.6499938964844,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9291.65 vs \u20b9291.65)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 0.98% headroom to \u20b9294.50"
+      ],
+      "capital_allocated": 5000.0,
+      "qty": 17,
+      "target_price": 293.11,
+      "stoploss_price": 288.73,
+      "actual_capital": 4958.05,
+      "max_profit": 24.79,
+      "max_loss": 49.58
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "ADANIENT",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "GRASIM",
+      "reasons": [
+        "\u274c Weak volume (0.3x avg)"
+      ]
+    }
+  ]
+}
