@@ -1,0 +1,68 @@
+{
+  "date": "Thursday, 18 June 2026",
+  "summary": {
+    "total_pnl_inr": 24.66,
+    "targets_hit": 1,
+    "stops_hit": 0,
+    "squared_off": 1,
+    "win_rate": 50.0,
+    "total_trades": 2
+  },
+  "outcomes": [
+    {
+      "ticker": "BPCL.NS",
+      "symbol": "BPCL",
+      "entry_price": 317.95001220703125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9317.95 vs \u20b9317.95)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.40% headroom to \u20b9322.40",
+        "\ud83d\udca1 Gap up +1.25% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 5000.0,
+      "qty": 15,
+      "target_price": 319.54,
+      "stoploss_price": 314.77,
+      "actual_capital": 4769.25,
+      "max_profit": 23.85,
+      "max_loss": 47.69,
+      "day_high": 319.5,
+      "day_low": 315.29998779296875,
+      "day_close": 317.95001220703125,
+      "result": "SQUARED_OFF",
+      "exit_price": 317.95,
+      "pnl_pct": 0.0,
+      "date": "2026-06-18"
+    },
+    {
+      "ticker": "ITC.NS",
+      "symbol": "ITC",
+      "entry_price": 290.75,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9290.75 vs \u20b9290.75)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.5x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.65% headroom to \u20b9298.45"
+      ],
+      "capital_allocated": 5000.0,
+      "qty": 17,
+      "target_price": 292.2,
+      "stoploss_price": 287.84,
+      "actual_capital": 4942.75,
+      "max_profit": 24.71,
+      "max_loss": 49.43,
+      "day_high": 292.3500061035156,
+      "day_low": 290.0,
+      "day_close": 290.75,
+      "result": "TARGET_HIT",
+      "exit_price": 292.2,
+      "pnl_pct": 0.499,
+      "date": "2026-06-18"
+    }
+  ]
+}
