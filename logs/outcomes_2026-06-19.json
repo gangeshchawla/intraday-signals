@@ -1,0 +1,40 @@
+{
+  "date": "Friday, 19 June 2026",
+  "summary": {
+    "total_pnl_inr": -98.89,
+    "targets_hit": 0,
+    "stops_hit": 1,
+    "squared_off": 0,
+    "win_rate": 0.0,
+    "total_trades": 1
+  },
+  "outcomes": [
+    {
+      "ticker": "ITC.NS",
+      "symbol": "ITC",
+      "entry_price": 291.1499938964844,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9291.15 vs \u20b9291.15)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.13% headroom to \u20b9297.34"
+      ],
+      "capital_allocated": 10000.0,
+      "qty": 34,
+      "target_price": 292.61,
+      "stoploss_price": 288.24,
+      "actual_capital": 9899.1,
+      "max_profit": 49.5,
+      "max_loss": 98.99,
+      "day_high": 291.8999938964844,
+      "day_low": 288.0,
+      "day_close": 291.1499938964844,
+      "result": "STOPLOSS_HIT",
+      "exit_price": 288.24,
+      "pnl_pct": -0.999,
+      "date": "2026-06-19"
+    }
+  ]
+}
