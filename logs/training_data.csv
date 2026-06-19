@@ -195,3 +195,4 @@ date,ticker,rsi,macd_diff,sma20_ratio,sma50_ratio,atr_ratio,vol_ratio,volatility
 2026-06-17,ITC.NS,,,,,,,,,,,,14.35,,STOPLOSS_HIT,-1.001,0
 2026-06-18,BPCL.NS,,,,,,,,,,,,13.19,,SQUARED_OFF,0.0,0
 2026-06-18,ITC.NS,,,,,,,,,,,,13.19,,TARGET_HIT,0.499,1
+2026-06-19,ITC.NS,,,,,,,,,,,,12.67,,STOPLOSS_HIT,-0.999,0
