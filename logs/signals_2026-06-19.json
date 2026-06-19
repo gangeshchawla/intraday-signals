@@ -1,0 +1,34 @@
+{
+  "date": "Friday, 19 June 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "ITC.NS",
+      "symbol": "ITC",
+      "entry_price": 291.1499938964844,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9291.15 vs \u20b9291.15)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.13% headroom to \u20b9297.34"
+      ],
+      "capital_allocated": 10000.0,
+      "qty": 34,
+      "target_price": 292.61,
+      "stoploss_price": 288.24,
+      "actual_capital": 9899.1,
+      "max_profit": 49.5,
+      "max_loss": 98.99
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "ADANIENT",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    }
+  ]
+}
