@@ -1,0 +1,94 @@
+{
+  "date": "Monday, 22 June 2026",
+  "summary": {
+    "total_pnl_inr": -0.76,
+    "targets_hit": 2,
+    "stops_hit": 1,
+    "squared_off": 0,
+    "win_rate": 66.7,
+    "total_trades": 3
+  },
+  "outcomes": [
+    {
+      "ticker": "BPCL.NS",
+      "symbol": "BPCL",
+      "entry_price": 306.6000061035156,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9306.60 vs \u20b9306.60)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.2x)",
+        "\u2705 MACD bullish",
+        "\u2705 6.31% headroom to \u20b9325.96"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 10,
+      "target_price": 308.13,
+      "stoploss_price": 303.53,
+      "actual_capital": 3066.0,
+      "max_profit": 15.33,
+      "max_loss": 30.66,
+      "day_high": 315.0,
+      "day_low": 305.1000061035156,
+      "day_close": 306.6000061035156,
+      "result": "TARGET_HIT",
+      "exit_price": 308.13,
+      "pnl_pct": 0.499,
+      "date": "2026-06-22"
+    },
+    {
+      "ticker": "ITC.NS",
+      "symbol": "ITC",
+      "entry_price": 292.5,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9292.50 vs \u20b9292.50)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.68% headroom to \u20b9297.42"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 11,
+      "target_price": 293.96,
+      "stoploss_price": 289.57,
+      "actual_capital": 3217.5,
+      "max_profit": 16.09,
+      "max_loss": 32.17,
+      "day_high": 294.54998779296875,
+      "day_low": 288.3999938964844,
+      "day_close": 292.5,
+      "result": "TARGET_HIT",
+      "exit_price": 293.96,
+      "pnl_pct": 0.499,
+      "date": "2026-06-22"
+    },
+    {
+      "ticker": "POWERGRID.NS",
+      "symbol": "POWERGRID",
+      "entry_price": 292.25,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9292.25 vs \u20b9292.25)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.27% headroom to \u20b9295.95"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 11,
+      "target_price": 293.71,
+      "stoploss_price": 289.33,
+      "actual_capital": 3214.75,
+      "max_profit": 16.07,
+      "max_loss": 32.15,
+      "day_high": 292.8999938964844,
+      "day_low": 287.6499938964844,
+      "day_close": 292.25,
+      "result": "STOPLOSS_HIT",
+      "exit_price": 289.33,
+      "pnl_pct": -0.999,
+      "date": "2026-06-22"
+    }
+  ]
+}
