@@ -1,0 +1,92 @@
+{
+  "date": "Tuesday, 23 June 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "BPCL.NS",
+      "symbol": "BPCL",
+      "entry_price": 308.6000061035156,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9308.60 vs \u20b9308.60)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.44% headroom to \u20b9316.13"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 10,
+      "target_price": 310.14,
+      "stoploss_price": 305.51,
+      "actual_capital": 3086.0,
+      "max_profit": 15.43,
+      "max_loss": 30.86
+    },
+    {
+      "ticker": "ITC.NS",
+      "symbol": "ITC",
+      "entry_price": 291.25,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9291.25 vs \u20b9291.25)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.51% headroom to \u20b9298.57"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 11,
+      "target_price": 292.71,
+      "stoploss_price": 288.34,
+      "actual_capital": 3203.75,
+      "max_profit": 16.02,
+      "max_loss": 32.04
+    },
+    {
+      "ticker": "POWERGRID.NS",
+      "symbol": "POWERGRID",
+      "entry_price": 289.75,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9289.75 vs \u20b9289.75)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.9x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.27% headroom to \u20b9299.22"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 11,
+      "target_price": 291.2,
+      "stoploss_price": 286.85,
+      "actual_capital": 3187.25,
+      "max_profit": 15.94,
+      "max_loss": 31.87
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "CIPLA",
+      "reasons": [
+        "\u274c Only -2.11% headroom to \u20b91385.80"
+      ]
+    },
+    {
+      "symbol": "HINDUNILVR",
+      "reasons": [
+        "\u274c Weak volume (0.3x avg)"
+      ]
+    },
+    {
+      "symbol": "ICICIBANK",
+      "reasons": [
+        "\u274c Weak volume (0.3x avg)"
+      ]
+    },
+    {
+      "symbol": "SUNPHARMA",
+      "reasons": [
+        "\u274c Only 0.47% headroom to \u20b91871.65"
+      ]
+    }
+  ]
+}
