@@ -204,3 +204,4 @@ date,ticker,rsi,macd_diff,sma20_ratio,sma50_ratio,atr_ratio,vol_ratio,volatility
 2026-06-24,BPCL.NS,,,,,,,,,,,,13.94,,TARGET_HIT,0.499,1
 2026-06-24,POWERGRID.NS,,,,,,,,,,,,13.94,,SQUARED_OFF,0.0,0
 2026-06-25,BPCL.NS,,,,,,,,,,,,13.39,,STOPLOSS_HIT,-1.001,0
+2026-06-25,KOTAKBANK.NS,,,,,,,,,,,,13.39,,STOPLOSS_HIT,-1.0,0
