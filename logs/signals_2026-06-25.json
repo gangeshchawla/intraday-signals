@@ -1,0 +1,110 @@
+{
+  "date": "Thursday, 25 June 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "BPCL.NS",
+      "symbol": "BPCL",
+      "entry_price": 315.70001220703125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9315.70 vs \u20b9315.70)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 0.86% headroom to \u20b9318.41"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 10,
+      "target_price": 317.28,
+      "stoploss_price": 312.54,
+      "actual_capital": 3157.0,
+      "max_profit": 15.79,
+      "max_loss": 31.57
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "entry_price": 405.95001220703125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9405.95 vs \u20b9405.95)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.29% headroom to \u20b9411.19"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 8,
+      "target_price": 407.98,
+      "stoploss_price": 401.89,
+      "actual_capital": 3247.6,
+      "max_profit": 16.24,
+      "max_loss": 32.48
+    },
+    {
+      "ticker": "POWERGRID.NS",
+      "symbol": "POWERGRID",
+      "entry_price": 290.8999938964844,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9290.90 vs \u20b9290.90)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.71% headroom to \u20b9298.78"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 11,
+      "target_price": 292.35,
+      "stoploss_price": 287.99,
+      "actual_capital": 3199.9,
+      "max_profit": 16.0,
+      "max_loss": 32.0
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "ADANIENT",
+      "reasons": [
+        "\u274c Only -0.19% headroom to \u20b93063.84"
+      ]
+    },
+    {
+      "symbol": "ADANIPORTS",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "BAJFINANCE",
+      "reasons": [
+        "\u274c Only 0.08% headroom to \u20b9991.77"
+      ]
+    },
+    {
+      "symbol": "DRREDDY",
+      "reasons": [
+        "\u274c Only 0.23% headroom to \u20b91331.52"
+      ]
+    },
+    {
+      "symbol": "HDFCBANK",
+      "reasons": [
+        "\u274c Only 0.17% headroom to \u20b9794.56"
+      ]
+    },
+    {
+      "symbol": "ICICIBANK",
+      "reasons": [
+        "\u274c Only -0.21% headroom to \u20b91370.77"
+      ]
+    },
+    {
+      "symbol": "SHREECEM",
+      "reasons": [
+        "\u274c Only -1.04% headroom to \u20b925798.00"
+      ]
+    }
+  ]
+}
