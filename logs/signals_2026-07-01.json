@@ -1,0 +1,103 @@
+{
+  "date": "Wednesday, 01 July 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "HDFCLIFE.NS",
+      "symbol": "HDFCLIFE",
+      "entry_price": 575.8499755859375,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9575.85 vs \u20b9575.85)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.4x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.70% headroom to \u20b9597.16"
+      ],
+      "capital_allocated": 5000.0,
+      "qty": 8,
+      "target_price": 578.73,
+      "stoploss_price": 570.09,
+      "actual_capital": 4606.8,
+      "max_profit": 23.03,
+      "max_loss": 46.07
+    },
+    {
+      "ticker": "ITC.NS",
+      "symbol": "ITC",
+      "entry_price": 286.95001220703125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9286.95 vs \u20b9286.95)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.4x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.92% headroom to \u20b9295.32"
+      ],
+      "capital_allocated": 5000.0,
+      "qty": 17,
+      "target_price": 288.38,
+      "stoploss_price": 284.08,
+      "actual_capital": 4878.15,
+      "max_profit": 24.39,
+      "max_loss": 48.78
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "ADANIPORTS",
+      "reasons": [
+        "\u274c MACD bearish",
+        "\u274c Only 0.50% headroom to \u20b91819.24"
+      ]
+    },
+    {
+      "symbol": "AXISBANK",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "BAJFINANCE",
+      "reasons": [
+        "\u274c Only -0.06% headroom to \u20b91004.11"
+      ]
+    },
+    {
+      "symbol": "BHARTIARTL",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "BPCL",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "INDUSINDBK",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "MARUTI",
+      "reasons": [
+        "\u274c Only -2.14% headroom to \u20b913813.43"
+      ]
+    },
+    {
+      "symbol": "SBIN",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "TITAN",
+      "reasons": [
+        "\u274c Only -0.33% headroom to \u20b94389.40"
+      ]
+    }
+  ]
+}
