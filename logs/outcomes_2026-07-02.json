@@ -1,0 +1,40 @@
+{
+  "date": "Thursday, 02 July 2026",
+  "summary": {
+    "total_pnl_inr": 48.32,
+    "targets_hit": 1,
+    "stops_hit": 0,
+    "squared_off": 0,
+    "win_rate": 100.0,
+    "total_trades": 1
+  },
+  "outcomes": [
+    {
+      "ticker": "NTPC.NS",
+      "symbol": "NTPC",
+      "entry_price": 357.8999938964844,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9357.90 vs \u20b9357.90)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.5x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.03% headroom to \u20b9365.17"
+      ],
+      "capital_allocated": 10000.0,
+      "qty": 27,
+      "target_price": 359.69,
+      "stoploss_price": 354.32,
+      "actual_capital": 9663.3,
+      "max_profit": 48.32,
+      "max_loss": 96.63,
+      "day_high": 360.8500061035156,
+      "day_low": 354.25,
+      "day_close": 357.8999938964844,
+      "result": "TARGET_HIT",
+      "exit_price": 359.69,
+      "pnl_pct": 0.5,
+      "date": "2026-07-02"
+    }
+  ]
+}
