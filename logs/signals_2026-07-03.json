@@ -1,0 +1,136 @@
+{
+  "date": "Friday, 03 July 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "ITC.NS",
+      "symbol": "ITC",
+      "entry_price": 289.8999938964844,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9289.90 vs \u20b9289.90)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.1x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.77% headroom to \u20b9295.04"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 11,
+      "target_price": 291.35,
+      "stoploss_price": 287.0,
+      "actual_capital": 3188.9,
+      "max_profit": 15.94,
+      "max_loss": 31.89
+    },
+    {
+      "ticker": "NTPC.NS",
+      "symbol": "NTPC",
+      "entry_price": 358.25,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9358.25 vs \u20b9358.25)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.5x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.29% headroom to \u20b9366.45"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 9,
+      "target_price": 360.04,
+      "stoploss_price": 354.67,
+      "actual_capital": 3224.25,
+      "max_profit": 16.12,
+      "max_loss": 32.24
+    },
+    {
+      "ticker": "POWERGRID.NS",
+      "symbol": "POWERGRID",
+      "entry_price": 288.20001220703125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9288.20 vs \u20b9288.20)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.80% headroom to \u20b9293.38"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 11,
+      "target_price": 289.64,
+      "stoploss_price": 285.32,
+      "actual_capital": 3170.2,
+      "max_profit": 15.85,
+      "max_loss": 31.7
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "AXISBANK",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "BAJAJFINSV",
+      "reasons": [
+        "\u274c Only -0.48% headroom to \u20b91846.78"
+      ]
+    },
+    {
+      "symbol": "BHARTIARTL",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "BPCL",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "BRITANNIA",
+      "reasons": [
+        "\u274c Only -0.09% headroom to \u20b95369.40"
+      ]
+    },
+    {
+      "symbol": "DIVISLAB",
+      "reasons": [
+        "\u274c MACD bearish",
+        "\u274c Only 0.16% headroom to \u20b96693.40"
+      ]
+    },
+    {
+      "symbol": "KOTAKBANK",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "M&M",
+      "reasons": [
+        "\u274c Only 0.38% headroom to \u20b93187.33"
+      ]
+    },
+    {
+      "symbol": "RELIANCE",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "SHREECEM",
+      "reasons": [
+        "\u274c Weak volume (0.3x avg)"
+      ]
+    },
+    {
+      "symbol": "TECHM",
+      "reasons": [
+        "\u274c MACD bearish",
+        "\u274c Only -3.14% headroom to \u20b91376.63"
+      ]
+    }
+  ]
+}
