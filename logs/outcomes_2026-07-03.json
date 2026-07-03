@@ -1,0 +1,94 @@
+{
+  "date": "Friday, 03 July 2026",
+  "summary": {
+    "total_pnl_inr": -63.88,
+    "targets_hit": 0,
+    "stops_hit": 2,
+    "squared_off": 1,
+    "win_rate": 0.0,
+    "total_trades": 3
+  },
+  "outcomes": [
+    {
+      "ticker": "ITC.NS",
+      "symbol": "ITC",
+      "entry_price": 289.8999938964844,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9289.90 vs \u20b9289.90)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.1x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.77% headroom to \u20b9295.04"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 11,
+      "target_price": 291.35,
+      "stoploss_price": 287.0,
+      "actual_capital": 3188.9,
+      "max_profit": 15.94,
+      "max_loss": 31.89,
+      "day_high": 291.0,
+      "day_low": 287.70001220703125,
+      "day_close": 289.8999938964844,
+      "result": "SQUARED_OFF",
+      "exit_price": 289.9,
+      "pnl_pct": 0.0,
+      "date": "2026-07-03"
+    },
+    {
+      "ticker": "NTPC.NS",
+      "symbol": "NTPC",
+      "entry_price": 358.25,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9358.25 vs \u20b9358.25)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.5x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.29% headroom to \u20b9366.45"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 9,
+      "target_price": 360.04,
+      "stoploss_price": 354.67,
+      "actual_capital": 3224.25,
+      "max_profit": 16.12,
+      "max_loss": 32.24,
+      "day_high": 359.95001220703125,
+      "day_low": 352.29998779296875,
+      "day_close": 358.25,
+      "result": "STOPLOSS_HIT",
+      "exit_price": 354.67,
+      "pnl_pct": -0.999,
+      "date": "2026-07-03"
+    },
+    {
+      "ticker": "POWERGRID.NS",
+      "symbol": "POWERGRID",
+      "entry_price": 288.20001220703125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9288.20 vs \u20b9288.20)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.80% headroom to \u20b9293.38"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 11,
+      "target_price": 289.64,
+      "stoploss_price": 285.32,
+      "actual_capital": 3170.2,
+      "max_profit": 15.85,
+      "max_loss": 31.7,
+      "day_high": 289.3999938964844,
+      "day_low": 284.20001220703125,
+      "day_close": 288.20001220703125,
+      "result": "STOPLOSS_HIT",
+      "exit_price": 285.32,
+      "pnl_pct": -0.999,
+      "date": "2026-07-03"
+    }
+  ]
+}
