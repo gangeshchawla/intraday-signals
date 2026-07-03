@@ -213,3 +213,4 @@ date,ticker,rsi,macd_diff,sma20_ratio,sma50_ratio,atr_ratio,vol_ratio,volatility
 2026-07-01,ITC.NS,,,,,,,,,,,,13.6,,TARGET_HIT,0.498,1
 2026-07-02,NTPC.NS,,,,,,,,,,,,13.24,,TARGET_HIT,0.5,1
 2026-07-03,ITC.NS,,,,,,,,,,,,12.29,,SQUARED_OFF,0.0,0
+2026-07-03,NTPC.NS,,,,,,,,,,,,12.29,,STOPLOSS_HIT,-0.999,0
