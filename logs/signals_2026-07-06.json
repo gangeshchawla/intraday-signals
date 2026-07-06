@@ -1,0 +1,114 @@
+{
+  "date": "Monday, 06 July 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "POWERGRID.NS",
+      "symbol": "POWERGRID",
+      "entry_price": 287.8500061035156,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9287.85 vs \u20b9287.85)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.1x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.12% headroom to \u20b9293.95"
+      ],
+      "capital_allocated": 10000.0,
+      "qty": 34,
+      "target_price": 289.29,
+      "stoploss_price": 284.97,
+      "actual_capital": 9786.9,
+      "max_profit": 48.93,
+      "max_loss": 97.87
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "APOLLOHOSP",
+      "reasons": [
+        "\u274c Only -0.46% headroom to \u20b98852.83"
+      ]
+    },
+    {
+      "symbol": "ASIANPAINT",
+      "reasons": [
+        "\u274c Weak volume (0.4x avg)"
+      ]
+    },
+    {
+      "symbol": "BAJAJFINSV",
+      "reasons": [
+        "\u274c Only 0.45% headroom to \u20b91904.14"
+      ]
+    },
+    {
+      "symbol": "BHARTIARTL",
+      "reasons": [
+        "\u274c Only 0.15% headroom to \u20b91913.32"
+      ]
+    },
+    {
+      "symbol": "BPCL",
+      "reasons": [
+        "\u274c Weak volume (0.4x avg)",
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "DIVISLAB",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "HCLTECH",
+      "reasons": [
+        "\u274c MACD bearish",
+        "\u274c Only -1.57% headroom to \u20b91121.15"
+      ]
+    },
+    {
+      "symbol": "INDUSINDBK",
+      "reasons": [
+        "\u274c Only -0.64% headroom to \u20b9968.07"
+      ]
+    },
+    {
+      "symbol": "ITC",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "RELIANCE",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "SUNPHARMA",
+      "reasons": [
+        "\u274c Only 0.05% headroom to \u20b91905.66"
+      ]
+    },
+    {
+      "symbol": "TECHM",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "ULTRACEMCO",
+      "reasons": [
+        "\u274c Only 0.25% headroom to \u20b911751.87"
+      ]
+    },
+    {
+      "symbol": "UPL",
+      "reasons": [
+        "\u274c Only -0.04% headroom to \u20b9607.17"
+      ]
+    }
+  ]
+}
