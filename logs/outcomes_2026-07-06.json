@@ -1,0 +1,40 @@
+{
+  "date": "Monday, 06 July 2026",
+  "summary": {
+    "total_pnl_inr": 48.93,
+    "targets_hit": 1,
+    "stops_hit": 0,
+    "squared_off": 0,
+    "win_rate": 100.0,
+    "total_trades": 1
+  },
+  "outcomes": [
+    {
+      "ticker": "POWERGRID.NS",
+      "symbol": "POWERGRID",
+      "entry_price": 287.8500061035156,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9287.85 vs \u20b9287.85)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.1x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.12% headroom to \u20b9293.95"
+      ],
+      "capital_allocated": 10000.0,
+      "qty": 34,
+      "target_price": 289.29,
+      "stoploss_price": 284.97,
+      "actual_capital": 9786.9,
+      "max_profit": 48.93,
+      "max_loss": 97.87,
+      "day_high": 292.0,
+      "day_low": 287.1000061035156,
+      "day_close": 287.8500061035156,
+      "result": "TARGET_HIT",
+      "exit_price": 289.29,
+      "pnl_pct": 0.5,
+      "date": "2026-07-06"
+    }
+  ]
+}
