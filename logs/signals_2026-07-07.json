@@ -1,0 +1,43 @@
+{
+  "date": "Tuesday, 07 July 2026",
+  "total_capital": 10000,
+  "orders": [],
+  "skipped": [
+    {
+      "symbol": "BAJAJ-AUTO",
+      "reasons": [
+        "\u274c Only 0.03% headroom to \u20b910039.06"
+      ]
+    },
+    {
+      "symbol": "HDFCBANK",
+      "reasons": [
+        "\u274c Only -1.38% headroom to \u20b9818.38"
+      ]
+    },
+    {
+      "symbol": "HEROMOTOCO",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "MARUTI",
+      "reasons": [
+        "\u274c Weak volume (0.4x avg)"
+      ]
+    },
+    {
+      "symbol": "ONGC",
+      "reasons": [
+        "\u274c Only 0.01% headroom to \u20b9243.92"
+      ]
+    },
+    {
+      "symbol": "SBIN",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    }
+  ]
+}
