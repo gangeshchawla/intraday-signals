@@ -1,0 +1,107 @@
+{
+  "date": "Friday, 10 July 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "BAJFINANCE.NS",
+      "symbol": "BAJFINANCE",
+      "entry_price": 1003.7999877929688,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91003.80 vs \u20b91003.80)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.3x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.55% headroom to \u20b91039.46"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 2,
+      "target_price": 1008.82,
+      "stoploss_price": 993.76,
+      "actual_capital": 2007.6,
+      "max_profit": 10.04,
+      "max_loss": 20.08
+    },
+    {
+      "ticker": "HCLTECH.NS",
+      "symbol": "HCLTECH",
+      "entry_price": 1150.4000244140625,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91150.40 vs \u20b91150.40)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.5x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.19% headroom to \u20b91187.15"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 2,
+      "target_price": 1156.15,
+      "stoploss_price": 1138.9,
+      "actual_capital": 2300.8,
+      "max_profit": 11.5,
+      "max_loss": 23.01
+    },
+    {
+      "ticker": "HDFCBANK.NS",
+      "symbol": "HDFCBANK",
+      "entry_price": 817.5499877929688,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9817.55 vs \u20b9817.55)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.1x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.40% headroom to \u20b9828.96",
+        "\ud83d\udca1 Gap up +0.33% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 3,
+      "target_price": 821.64,
+      "stoploss_price": 809.37,
+      "actual_capital": 2452.65,
+      "max_profit": 12.26,
+      "max_loss": 24.53
+    },
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "entry_price": 243.64999389648438,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9243.65 vs \u20b9243.65)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 4.03% headroom to \u20b9253.47"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 10,
+      "target_price": 244.87,
+      "stoploss_price": 241.21,
+      "actual_capital": 2436.5,
+      "max_profit": 12.18,
+      "max_loss": 24.36
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "CIPLA",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "GRASIM",
+      "reasons": [
+        "\u274c Only 0.30% headroom to \u20b93201.44"
+      ]
+    },
+    {
+      "symbol": "SUNPHARMA",
+      "reasons": [
+        "\u274c Only -0.48% headroom to \u20b91929.31"
+      ]
+    }
+  ]
+}
