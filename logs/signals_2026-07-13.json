@@ -1,0 +1,88 @@
+{
+  "date": "Monday, 13 July 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "entry_price": 244.9600067138672,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9244.96 vs \u20b9244.96)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.5x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.04% headroom to \u20b9249.96"
+      ],
+      "capital_allocated": 10000.0,
+      "qty": 40,
+      "target_price": 246.18,
+      "stoploss_price": 242.51,
+      "actual_capital": 9798.4,
+      "max_profit": 48.99,
+      "max_loss": 97.98
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "ADANIPORTS",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "BPCL",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "CIPLA",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "ICICIBANK",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "M&M",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "MARUTI",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "SBILIFE",
+      "reasons": [
+        "\u274c Only 0.37% headroom to \u20b91869.83"
+      ]
+    },
+    {
+      "symbol": "SBIN",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "SHREECEM",
+      "reasons": [
+        "\u274c Weak volume (0.3x avg)"
+      ]
+    },
+    {
+      "symbol": "ULTRACEMCO",
+      "reasons": [
+        "\u274c Only 0.47% headroom to \u20b911765.84"
+      ]
+    }
+  ]
+}
