@@ -1,0 +1,40 @@
+{
+  "date": "Monday, 13 July 2026",
+  "summary": {
+    "total_pnl_inr": 0.0,
+    "targets_hit": 0,
+    "stops_hit": 0,
+    "squared_off": 1,
+    "win_rate": 0.0,
+    "total_trades": 1
+  },
+  "outcomes": [
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "entry_price": 244.9600067138672,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9244.96 vs \u20b9244.96)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.5x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.04% headroom to \u20b9249.96"
+      ],
+      "capital_allocated": 10000.0,
+      "qty": 40,
+      "target_price": 246.18,
+      "stoploss_price": 242.51,
+      "actual_capital": 9798.4,
+      "max_profit": 48.99,
+      "max_loss": 97.98,
+      "day_high": 245.38999938964844,
+      "day_low": 243.41000366210938,
+      "day_close": 244.9600067138672,
+      "result": "SQUARED_OFF",
+      "exit_price": 244.96,
+      "pnl_pct": 0.0,
+      "date": "2026-07-13"
+    }
+  ]
+}
