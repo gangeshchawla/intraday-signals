@@ -2,3 +2,4 @@ date,ticker,rsi,macd_diff,sma20_ratio,sma50_ratio,atr_ratio,vol_ratio,volatility
 2026-07-13,ONGC.NS,,,,,,,,,,,,,,SQUARED_OFF,0.0,0
 2026-07-14,HDFCBANK.NS,,,,,,,,,,,,13.28,,SQUARED_OFF,0.0,0
 2026-07-14,ONGC.NS,,,,,,,,,,,,13.28,,STOPLOSS_HIT,-0.998,0
+2026-07-14,WIPRO.NS,,,,,,,,,,,,13.28,,TARGET_HIT,0.499,1
