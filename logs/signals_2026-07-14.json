@@ -1,0 +1,117 @@
+{
+  "date": "Tuesday, 14 July 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "HDFCBANK.NS",
+      "symbol": "HDFCBANK",
+      "entry_price": 817.9500122070312,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9817.95 vs \u20b9817.95)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.10% headroom to \u20b9843.31"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 4,
+      "target_price": 822.04,
+      "stoploss_price": 809.77,
+      "actual_capital": 3271.8,
+      "max_profit": 16.36,
+      "max_loss": 32.72
+    },
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "entry_price": 248.4499969482422,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9248.45 vs \u20b9248.45)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.19% headroom to \u20b9251.40",
+        "\ud83d\udca1 Gap up +0.55% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 13,
+      "target_price": 249.69,
+      "stoploss_price": 245.97,
+      "actual_capital": 3229.85,
+      "max_profit": 16.15,
+      "max_loss": 32.3
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "symbol": "WIPRO",
+      "entry_price": 178.42999267578125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9178.43 vs \u20b9178.43)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.0x)",
+        "\u2705 MACD bullish",
+        "\u2705 0.84% headroom to \u20b9179.93"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 18,
+      "target_price": 179.32,
+      "stoploss_price": 176.65,
+      "actual_capital": 3211.74,
+      "max_profit": 16.06,
+      "max_loss": 32.12
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "BAJAJ-AUTO",
+      "reasons": [
+        "\u274c Only 0.46% headroom to \u20b910428.94"
+      ]
+    },
+    {
+      "symbol": "BAJFINANCE",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "HCLTECH",
+      "reasons": [
+        "\u274c Only -0.82% headroom to \u20b91211.16"
+      ]
+    },
+    {
+      "symbol": "ICICIBANK",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "INDUSINDBK",
+      "reasons": [
+        "\u274c Weak volume (0.3x avg)"
+      ]
+    },
+    {
+      "symbol": "INFY",
+      "reasons": [
+        "\u274c Only 0.37% headroom to \u20b91106.70"
+      ]
+    },
+    {
+      "symbol": "SBIN",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "TCS",
+      "reasons": [
+        "\u274c Only -1.60% headroom to \u20b92146.64"
+      ]
+    }
+  ]
+}
