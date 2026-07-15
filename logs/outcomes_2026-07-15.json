@@ -1,0 +1,67 @@
+{
+  "date": "Wednesday, 15 July 2026",
+  "summary": {
+    "total_pnl_inr": 49.69,
+    "targets_hit": 2,
+    "stops_hit": 0,
+    "squared_off": 0,
+    "win_rate": 100.0,
+    "total_trades": 2
+  },
+  "outcomes": [
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "entry_price": 248.89999389648438,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9248.90 vs \u20b9248.90)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.1x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.36% headroom to \u20b9254.77"
+      ],
+      "capital_allocated": 5000.0,
+      "qty": 20,
+      "target_price": 250.14,
+      "stoploss_price": 246.41,
+      "actual_capital": 4978.0,
+      "max_profit": 24.89,
+      "max_loss": 49.78,
+      "day_high": 252.0,
+      "day_low": 247.3000030517578,
+      "day_close": 248.89999389648438,
+      "result": "TARGET_HIT",
+      "exit_price": 250.14,
+      "pnl_pct": 0.498,
+      "date": "2026-07-15"
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "symbol": "WIPRO",
+      "entry_price": 177.13999938964844,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9177.14 vs \u20b9177.14)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.25% headroom to \u20b9182.90"
+      ],
+      "capital_allocated": 5000.0,
+      "qty": 28,
+      "target_price": 178.03,
+      "stoploss_price": 175.37,
+      "actual_capital": 4959.92,
+      "max_profit": 24.8,
+      "max_loss": 49.6,
+      "day_high": 180.5,
+      "day_low": 176.7100067138672,
+      "day_close": 177.13999938964844,
+      "result": "TARGET_HIT",
+      "exit_price": 178.03,
+      "pnl_pct": 0.502,
+      "date": "2026-07-15"
+    }
+  ]
+}
