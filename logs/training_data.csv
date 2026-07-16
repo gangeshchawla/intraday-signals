@@ -6,3 +6,4 @@ date,ticker,rsi,macd_diff,sma20_ratio,sma50_ratio,atr_ratio,vol_ratio,volatility
 2026-07-15,ONGC.NS,,,,,,,,,,,,13.75,,TARGET_HIT,0.498,1
 2026-07-15,WIPRO.NS,,,,,,,,,,,,13.75,,TARGET_HIT,0.502,1
 2026-07-16,HCLTECH.NS,,,,,,,,,,,,13.27,,TARGET_HIT,0.5,1
+2026-07-16,ONGC.NS,,,,,,,,,,,,13.27,,TARGET_HIT,0.502,1
