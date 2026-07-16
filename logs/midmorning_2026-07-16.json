@@ -1,0 +1,173 @@
+{
+  "date": "Thursday, 16 July 2026",
+  "checks": [
+    {
+      "ticker": "ADANIENT.NS",
+      "symbol": "ADANIENT",
+      "premarket_price": 3150.60009765625,
+      "predicted_day_high": 3292.85,
+      "current_price": 3150.60009765625,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 4.52% left to predicted high.",
+      "vol_ratio": 0.4910115468480585,
+      "avg_volume": 2108099.1
+    },
+    {
+      "ticker": "BAJAJ-AUTO.NS",
+      "symbol": "BAJAJ-AUTO",
+      "premarket_price": 10323.0,
+      "predicted_day_high": 10436.26,
+      "current_price": 10323.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.10% left to predicted high.",
+      "vol_ratio": 1.083022133518364,
+      "avg_volume": 416867.75
+    },
+    {
+      "ticker": "BAJFINANCE.NS",
+      "symbol": "BAJFINANCE",
+      "premarket_price": 1021.2999877929688,
+      "predicted_day_high": 1036.15,
+      "current_price": 1021.2999877929688,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.45% left to predicted high.",
+      "vol_ratio": 0.6521962746253772,
+      "avg_volume": 8491854.7
+    },
+    {
+      "ticker": "CIPLA.NS",
+      "symbol": "CIPLA",
+      "premarket_price": 1438.0,
+      "predicted_day_high": 1470.69,
+      "current_price": 1438.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.27% left to predicted high.",
+      "vol_ratio": 0.5853701069562601,
+      "avg_volume": 1579262.4
+    },
+    {
+      "ticker": "DIVISLAB.NS",
+      "symbol": "DIVISLAB",
+      "premarket_price": NaN,
+      "predicted_day_high": NaN,
+      "current_price": NaN,
+      "vs_8am_pct": NaN,
+      "status": "REVERSED",
+      "note": "Moved against prediction. Will be excluded from 10:05 AM signals.",
+      "vol_ratio": 0.1738393511685727,
+      "avg_volume": 388646.1
+    },
+    {
+      "ticker": "HCLTECH.NS",
+      "symbol": "HCLTECH",
+      "premarket_price": 1168.0,
+      "predicted_day_high": 1216.13,
+      "current_price": 1168.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 4.12% left to predicted high.",
+      "vol_ratio": 0.6730220490813704,
+      "avg_volume": 4833713.85
+    },
+    {
+      "ticker": "HDFCBANK.NS",
+      "symbol": "HDFCBANK",
+      "premarket_price": 815.4500122070312,
+      "predicted_day_high": 826.78,
+      "current_price": 815.4500122070312,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.39% left to predicted high.",
+      "vol_ratio": 0.6314074594047512,
+      "avg_volume": 34033077.5
+    },
+    {
+      "ticker": "ICICIBANK.NS",
+      "symbol": "ICICIBANK",
+      "premarket_price": 1416.199951171875,
+      "predicted_day_high": 1437.58,
+      "current_price": 1416.199951171875,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.51% left to predicted high.",
+      "vol_ratio": 1.0747434111016962,
+      "avg_volume": 12060225.6
+    },
+    {
+      "ticker": "INDUSINDBK.NS",
+      "symbol": "INDUSINDBK",
+      "premarket_price": 1009.7000122070312,
+      "predicted_day_high": 1027.58,
+      "current_price": 1009.7000122070312,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.77% left to predicted high.",
+      "vol_ratio": 0.6089317652589111,
+      "avg_volume": 2448973.9
+    },
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "premarket_price": 247.17999267578125,
+      "predicted_day_high": 254.79,
+      "current_price": 247.17999267578125,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 3.08% left to predicted high.",
+      "vol_ratio": 0.8620273356593181,
+      "avg_volume": 15431356.35
+    },
+    {
+      "ticker": "SUNPHARMA.NS",
+      "symbol": "SUNPHARMA",
+      "premarket_price": 1951.5,
+      "predicted_day_high": 1983.43,
+      "current_price": 1951.5,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.64% left to predicted high.",
+      "vol_ratio": 1.1602755858651286,
+      "avg_volume": 1968061.75
+    },
+    {
+      "ticker": "TCS.NS",
+      "symbol": "TCS",
+      "premarket_price": 2189.199951171875,
+      "predicted_day_high": 2265.06,
+      "current_price": 2189.199951171875,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 3.47% left to predicted high.",
+      "vol_ratio": 0.9749334604094108,
+      "avg_volume": 5566009.6
+    },
+    {
+      "ticker": "ULTRACEMCO.NS",
+      "symbol": "ULTRACEMCO",
+      "premarket_price": 11812.0,
+      "predicted_day_high": 11749.23,
+      "current_price": 11812.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. -0.53% left to predicted high.",
+      "vol_ratio": 1.6449807904669238,
+      "avg_volume": 230783.85
+    },
+    {
+      "ticker": "UPL.NS",
+      "symbol": "UPL",
+      "premarket_price": 597.2999877929688,
+      "predicted_day_high": 612.69,
+      "current_price": 597.2999877929688,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.58% left to predicted high.",
+      "vol_ratio": 1.03990388772391,
+      "avg_volume": 2605078.25
+    }
+  ]
+}
