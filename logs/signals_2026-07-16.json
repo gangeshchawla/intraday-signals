@@ -1,0 +1,119 @@
+{
+  "date": "Thursday, 16 July 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "HCLTECH.NS",
+      "symbol": "HCLTECH",
+      "entry_price": 1168.0,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91168.00 vs \u20b91168.00)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 4.12% headroom to \u20b91216.13"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 2,
+      "target_price": 1173.84,
+      "stoploss_price": 1156.32,
+      "actual_capital": 2336.0,
+      "max_profit": 11.68,
+      "max_loss": 23.36
+    },
+    {
+      "ticker": "INDUSINDBK.NS",
+      "symbol": "INDUSINDBK",
+      "entry_price": 1009.7000122070312,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91009.70 vs \u20b91009.70)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.77% headroom to \u20b91027.58"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 2,
+      "target_price": 1014.75,
+      "stoploss_price": 999.6,
+      "actual_capital": 2019.4,
+      "max_profit": 10.1,
+      "max_loss": 20.19
+    },
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "entry_price": 247.17999267578125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9247.18 vs \u20b9247.18)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.9x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.08% headroom to \u20b9254.79"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 10,
+      "target_price": 248.42,
+      "stoploss_price": 244.71,
+      "actual_capital": 2471.8,
+      "max_profit": 12.36,
+      "max_loss": 24.72
+    },
+    {
+      "ticker": "UPL.NS",
+      "symbol": "UPL",
+      "entry_price": 597.2999877929688,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9597.30 vs \u20b9597.30)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.0x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.58% headroom to \u20b9612.69",
+        "\ud83d\udca1 Gap up +0.65% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 4,
+      "target_price": 600.29,
+      "stoploss_price": 591.33,
+      "actual_capital": 2389.2,
+      "max_profit": 11.95,
+      "max_loss": 23.89
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "BAJFINANCE",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "CIPLA",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "HDFCBANK",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "ICICIBANK",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "ULTRACEMCO",
+      "reasons": [
+        "\u274c Only -0.53% headroom to \u20b911749.23"
+      ]
+    }
+  ]
+}
