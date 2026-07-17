@@ -1,0 +1,95 @@
+{
+  "date": "Friday, 17 July 2026",
+  "summary": {
+    "total_pnl_inr": -16.43,
+    "targets_hit": 1,
+    "stops_hit": 1,
+    "squared_off": 1,
+    "win_rate": 33.3,
+    "total_trades": 3
+  },
+  "outcomes": [
+    {
+      "ticker": "BPCL.NS",
+      "symbol": "BPCL",
+      "entry_price": 312.0,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9312.00 vs \u20b9312.00)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.1x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.22% headroom to \u20b9318.94"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 10,
+      "target_price": 313.56,
+      "stoploss_price": 308.88,
+      "actual_capital": 3120.0,
+      "max_profit": 15.6,
+      "max_loss": 31.2,
+      "day_high": 318.25,
+      "day_low": 310.29998779296875,
+      "day_close": 312.0,
+      "result": "TARGET_HIT",
+      "exit_price": 313.56,
+      "pnl_pct": 0.5,
+      "date": "2026-07-17"
+    },
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "entry_price": 246.75,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9246.75 vs \u20b9246.75)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.4x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.63% headroom to \u20b9253.25"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 13,
+      "target_price": 247.98,
+      "stoploss_price": 244.28,
+      "actual_capital": 3207.75,
+      "max_profit": 16.04,
+      "max_loss": 32.08,
+      "day_high": 247.9600067138672,
+      "day_low": 245.61000061035156,
+      "day_close": 246.75,
+      "result": "SQUARED_OFF",
+      "exit_price": 246.75,
+      "pnl_pct": 0.0,
+      "date": "2026-07-17"
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "symbol": "WIPRO",
+      "entry_price": 177.74000549316406,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9177.74 vs \u20b9177.74)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.5x)",
+        "\u2705 MACD bullish",
+        "\u2705 0.87% headroom to \u20b9179.28",
+        "\ud83d\udca1 Gap up +0.54% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 18,
+      "target_price": 178.63,
+      "stoploss_price": 175.96,
+      "actual_capital": 3199.32,
+      "max_profit": 16.0,
+      "max_loss": 31.99,
+      "day_high": 177.99000549316406,
+      "day_low": 175.41000366210938,
+      "day_close": 177.74000549316406,
+      "result": "STOPLOSS_HIT",
+      "exit_price": 175.96,
+      "pnl_pct": -1.001,
+      "date": "2026-07-17"
+    }
+  ]
+}
