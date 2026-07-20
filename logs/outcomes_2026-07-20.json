@@ -1,0 +1,40 @@
+{
+  "date": "Monday, 20 July 2026",
+  "summary": {
+    "total_pnl_inr": -97.92,
+    "targets_hit": 0,
+    "stops_hit": 1,
+    "squared_off": 0,
+    "win_rate": 0.0,
+    "total_trades": 1
+  },
+  "outcomes": [
+    {
+      "ticker": "BPCL.NS",
+      "symbol": "BPCL",
+      "entry_price": 315.54998779296875,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9315.55 vs \u20b9315.55)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.73% headroom to \u20b9321.00"
+      ],
+      "capital_allocated": 10000.0,
+      "qty": 31,
+      "target_price": 317.13,
+      "stoploss_price": 312.39,
+      "actual_capital": 9782.05,
+      "max_profit": 48.91,
+      "max_loss": 97.82,
+      "day_high": 316.0,
+      "day_low": 310.3999938964844,
+      "day_close": 315.54998779296875,
+      "result": "STOPLOSS_HIT",
+      "exit_price": 312.39,
+      "pnl_pct": -1.001,
+      "date": "2026-07-20"
+    }
+  ]
+}
