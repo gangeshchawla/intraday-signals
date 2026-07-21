@@ -14,3 +14,4 @@ date,ticker,rsi,macd_diff,sma20_ratio,sma50_ratio,atr_ratio,vol_ratio,volatility
 2026-07-20,BPCL.NS,,,,,,,,,,,,13.15,,STOPLOSS_HIT,-1.001,0
 2026-07-21,BPCL.NS,,,,,,,,,,,,12.98,,TARGET_HIT,0.501,1
 2026-07-21,ONGC.NS,,,,,,,,,,,,12.98,,TARGET_HIT,0.501,1
+2026-07-21,UPL.NS,,,,,,,,,,,,12.98,,TARGET_HIT,0.5,1
