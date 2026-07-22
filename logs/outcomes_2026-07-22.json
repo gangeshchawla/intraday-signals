@@ -1,0 +1,94 @@
+{
+  "date": "Wednesday, 22 July 2026",
+  "summary": {
+    "total_pnl_inr": 48.5,
+    "targets_hit": 3,
+    "stops_hit": 0,
+    "squared_off": 0,
+    "win_rate": 100.0,
+    "total_trades": 3
+  },
+  "outcomes": [
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "entry_price": 249.88999938964844,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9249.89 vs \u20b9249.89)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.06% headroom to \u20b9255.04"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 13,
+      "target_price": 251.14,
+      "stoploss_price": 247.39,
+      "actual_capital": 3248.57,
+      "max_profit": 16.24,
+      "max_loss": 32.49,
+      "day_high": 251.69000244140625,
+      "day_low": 248.4600067138672,
+      "day_close": 249.88999938964844,
+      "result": "TARGET_HIT",
+      "exit_price": 251.14,
+      "pnl_pct": 0.5,
+      "date": "2026-07-22"
+    },
+    {
+      "ticker": "POWERGRID.NS",
+      "symbol": "POWERGRID",
+      "entry_price": 286.70001220703125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9286.70 vs \u20b9286.70)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.89% headroom to \u20b9294.98"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 11,
+      "target_price": 288.13,
+      "stoploss_price": 283.83,
+      "actual_capital": 3153.7,
+      "max_profit": 15.77,
+      "max_loss": 31.54,
+      "day_high": 290.3999938964844,
+      "day_low": 284.45001220703125,
+      "day_close": 286.70001220703125,
+      "result": "TARGET_HIT",
+      "exit_price": 288.13,
+      "pnl_pct": 0.499,
+      "date": "2026-07-22"
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "symbol": "WIPRO",
+      "entry_price": 174.97000122070312,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9174.97 vs \u20b9174.97)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.40% headroom to \u20b9180.92"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 19,
+      "target_price": 175.84,
+      "stoploss_price": 173.22,
+      "actual_capital": 3324.43,
+      "max_profit": 16.62,
+      "max_loss": 33.24,
+      "day_high": 177.5,
+      "day_low": 174.5,
+      "day_close": 174.97000122070312,
+      "result": "TARGET_HIT",
+      "exit_price": 175.84,
+      "pnl_pct": 0.497,
+      "date": "2026-07-22"
+    }
+  ]
+}
