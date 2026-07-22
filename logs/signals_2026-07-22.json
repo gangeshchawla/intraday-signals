@@ -1,0 +1,80 @@
+{
+  "date": "Wednesday, 22 July 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "entry_price": 249.88999938964844,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9249.89 vs \u20b9249.89)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.06% headroom to \u20b9255.04"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 13,
+      "target_price": 251.14,
+      "stoploss_price": 247.39,
+      "actual_capital": 3248.57,
+      "max_profit": 16.24,
+      "max_loss": 32.49
+    },
+    {
+      "ticker": "POWERGRID.NS",
+      "symbol": "POWERGRID",
+      "entry_price": 286.70001220703125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9286.70 vs \u20b9286.70)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.89% headroom to \u20b9294.98"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 11,
+      "target_price": 288.13,
+      "stoploss_price": 283.83,
+      "actual_capital": 3153.7,
+      "max_profit": 15.77,
+      "max_loss": 31.54
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "symbol": "WIPRO",
+      "entry_price": 174.97000122070312,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9174.97 vs \u20b9174.97)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.40% headroom to \u20b9180.92"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 19,
+      "target_price": 175.84,
+      "stoploss_price": 173.22,
+      "actual_capital": 3324.43,
+      "max_profit": 16.62,
+      "max_loss": 33.24
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "BAJAJFINSV",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "INDUSINDBK",
+      "reasons": [
+        "\u274c Only 0.22% headroom to \u20b91065.77"
+      ]
+    }
+  ]
+}
