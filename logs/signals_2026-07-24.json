@@ -1,0 +1,92 @@
+{
+  "date": "Friday, 24 July 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "entry_price": 252.3699951171875,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9252.37 vs \u20b9252.37)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.85% headroom to \u20b9257.05"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 13,
+      "target_price": 253.63,
+      "stoploss_price": 249.85,
+      "actual_capital": 3280.81,
+      "max_profit": 16.4,
+      "max_loss": 32.81
+    },
+    {
+      "ticker": "POWERGRID.NS",
+      "symbol": "POWERGRID",
+      "entry_price": 289.79998779296875,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9289.80 vs \u20b9289.80)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.9x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.97% headroom to \u20b9295.51"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 11,
+      "target_price": 291.25,
+      "stoploss_price": 286.9,
+      "actual_capital": 3187.8,
+      "max_profit": 15.94,
+      "max_loss": 31.88
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "symbol": "WIPRO",
+      "entry_price": 174.82000732421875,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9174.82 vs \u20b9174.82)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.5x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.09% headroom to \u20b9178.48"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 19,
+      "target_price": 175.69,
+      "stoploss_price": 173.07,
+      "actual_capital": 3321.58,
+      "max_profit": 16.61,
+      "max_loss": 33.22
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "APOLLOHOSP",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "BAJAJ-AUTO",
+      "reasons": [
+        "\u274c Only 0.22% headroom to \u20b911308.18"
+      ]
+    },
+    {
+      "symbol": "HEROMOTOCO",
+      "reasons": [
+        "\u274c Only -1.18% headroom to \u20b95038.59"
+      ]
+    },
+    {
+      "symbol": "UPL",
+      "reasons": [
+        "\u274c Weak volume (0.2x avg)"
+      ]
+    }
+  ]
+}
