@@ -1,0 +1,120 @@
+{
+  "date": "Monday, 27 July 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "BPCL.NS",
+      "symbol": "BPCL",
+      "entry_price": 310.1499938964844,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9310.15 vs \u20b9310.15)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.21% headroom to \u20b9320.10"
+      ],
+      "capital_allocated": 2000.0,
+      "qty": 6,
+      "target_price": 311.7,
+      "stoploss_price": 307.05,
+      "actual_capital": 1860.9,
+      "max_profit": 9.3,
+      "max_loss": 18.61
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "entry_price": 384.75,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9384.75 vs \u20b9384.75)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.45% headroom to \u20b9394.19"
+      ],
+      "capital_allocated": 2000.0,
+      "qty": 5,
+      "target_price": 386.67,
+      "stoploss_price": 380.9,
+      "actual_capital": 1923.75,
+      "max_profit": 9.62,
+      "max_loss": 19.24
+    },
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "entry_price": 248.75999450683594,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9248.76 vs \u20b9248.76)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.5x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.45% headroom to \u20b9257.34"
+      ],
+      "capital_allocated": 2000.0,
+      "qty": 8,
+      "target_price": 250.0,
+      "stoploss_price": 246.27,
+      "actual_capital": 1990.08,
+      "max_profit": 9.95,
+      "max_loss": 19.9
+    },
+    {
+      "ticker": "POWERGRID.NS",
+      "symbol": "POWERGRID",
+      "entry_price": 288.20001220703125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9288.20 vs \u20b9288.20)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.0x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.72% headroom to \u20b9296.05"
+      ],
+      "capital_allocated": 2000.0,
+      "qty": 6,
+      "target_price": 289.64,
+      "stoploss_price": 285.32,
+      "actual_capital": 1729.2,
+      "max_profit": 8.65,
+      "max_loss": 17.29
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "symbol": "WIPRO",
+      "entry_price": 175.1199951171875,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9175.12 vs \u20b9175.12)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.08% headroom to \u20b9177.02"
+      ],
+      "capital_allocated": 2000.0,
+      "qty": 11,
+      "target_price": 176.0,
+      "stoploss_price": 173.37,
+      "actual_capital": 1926.32,
+      "max_profit": 9.63,
+      "max_loss": 19.26
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "BAJAJFINSV",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "UPL",
+      "reasons": [
+        "\u274c Weak volume (0.2x avg)"
+      ]
+    }
+  ]
+}
