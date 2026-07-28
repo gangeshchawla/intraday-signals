@@ -1,0 +1,141 @@
+{
+  "date": "Tuesday, 28 July 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "ITC.NS",
+      "symbol": "ITC",
+      "entry_price": 285.8500061035156,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9285.85 vs \u20b9285.85)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.3x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.14% headroom to \u20b9289.12"
+      ],
+      "capital_allocated": 2000.0,
+      "qty": 6,
+      "target_price": 287.28,
+      "stoploss_price": 282.99,
+      "actual_capital": 1715.1,
+      "max_profit": 8.58,
+      "max_loss": 17.15
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "entry_price": 384.6499938964844,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9384.65 vs \u20b9384.65)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.9x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.86% headroom to \u20b9395.67"
+      ],
+      "capital_allocated": 2000.0,
+      "qty": 5,
+      "target_price": 386.57,
+      "stoploss_price": 380.8,
+      "actual_capital": 1923.25,
+      "max_profit": 9.62,
+      "max_loss": 19.23
+    },
+    {
+      "ticker": "NTPC.NS",
+      "symbol": "NTPC",
+      "entry_price": 350.79998779296875,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9350.80 vs \u20b9350.80)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.3x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.14% headroom to \u20b9354.81"
+      ],
+      "capital_allocated": 2000.0,
+      "qty": 5,
+      "target_price": 352.55,
+      "stoploss_price": 347.29,
+      "actual_capital": 1754.0,
+      "max_profit": 8.77,
+      "max_loss": 17.54
+    },
+    {
+      "ticker": "POWERGRID.NS",
+      "symbol": "POWERGRID",
+      "entry_price": 288.8500061035156,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9288.85 vs \u20b9288.85)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.4x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.94% headroom to \u20b9294.44"
+      ],
+      "capital_allocated": 2000.0,
+      "qty": 6,
+      "target_price": 290.29,
+      "stoploss_price": 285.96,
+      "actual_capital": 1733.1,
+      "max_profit": 8.67,
+      "max_loss": 17.33
+    },
+    {
+      "ticker": "UPL.NS",
+      "symbol": "UPL",
+      "entry_price": 608.5,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9608.50 vs \u20b9608.50)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.07% headroom to \u20b9621.07",
+        "\ud83d\udca1 Gap up +0.50% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 2000.0,
+      "qty": 3,
+      "target_price": 611.54,
+      "stoploss_price": 602.41,
+      "actual_capital": 1825.5,
+      "max_profit": 9.13,
+      "max_loss": 18.25
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "BAJFINANCE",
+      "reasons": [
+        "\u274c MACD bearish",
+        "\u274c Only -0.40% headroom to \u20b91044.15"
+      ]
+    },
+    {
+      "symbol": "DIVISLAB",
+      "reasons": [
+        "\u274c Only 0.41% headroom to \u20b97444.62"
+      ]
+    },
+    {
+      "symbol": "HEROMOTOCO",
+      "reasons": [
+        "\u274c Only 0.47% headroom to \u20b95137.76"
+      ]
+    },
+    {
+      "symbol": "INFY",
+      "reasons": [
+        "\u274c MACD bearish",
+        "\u274c Only -0.22% headroom to \u20b91076.83"
+      ]
+    },
+    {
+      "symbol": "WIPRO",
+      "reasons": [
+        "\u274c Only 0.45% headroom to \u20b9179.33"
+      ]
+    }
+  ]
+}
