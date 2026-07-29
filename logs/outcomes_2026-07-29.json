@@ -1,0 +1,122 @@
+{
+  "date": "Wednesday, 29 July 2026",
+  "summary": {
+    "total_pnl_inr": -22.98,
+    "targets_hit": 2,
+    "stops_hit": 2,
+    "squared_off": 0,
+    "win_rate": 50.0,
+    "total_trades": 4
+  },
+  "outcomes": [
+    {
+      "ticker": "BPCL.NS",
+      "symbol": "BPCL",
+      "entry_price": 320.04998779296875,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9320.05 vs \u20b9320.05)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.81% headroom to \u20b9325.84",
+        "\ud83d\udca1 Gap up +0.40% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 7,
+      "target_price": 321.65,
+      "stoploss_price": 316.85,
+      "actual_capital": 2240.35,
+      "max_profit": 11.2,
+      "max_loss": 22.4,
+      "day_high": 321.29998779296875,
+      "day_low": 315.75,
+      "day_close": 320.04998779296875,
+      "result": "STOPLOSS_HIT",
+      "exit_price": 316.85,
+      "pnl_pct": -1.0,
+      "date": "2026-07-29"
+    },
+    {
+      "ticker": "ITC.NS",
+      "symbol": "ITC",
+      "entry_price": 284.6499938964844,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9284.65 vs \u20b9284.65)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.0x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.33% headroom to \u20b9291.28"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 8,
+      "target_price": 286.07,
+      "stoploss_price": 281.8,
+      "actual_capital": 2277.2,
+      "max_profit": 11.39,
+      "max_loss": 22.77,
+      "day_high": 287.95001220703125,
+      "day_low": 282.29998779296875,
+      "day_close": 284.6499938964844,
+      "result": "TARGET_HIT",
+      "exit_price": 286.07,
+      "pnl_pct": 0.499,
+      "date": "2026-07-29"
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "entry_price": 385.29998779296875,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9385.30 vs \u20b9385.30)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.49% headroom to \u20b9394.91"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 6,
+      "target_price": 387.23,
+      "stoploss_price": 381.45,
+      "actual_capital": 2311.8,
+      "max_profit": 11.56,
+      "max_loss": 23.12,
+      "day_high": 387.29998779296875,
+      "day_low": 383.04998779296875,
+      "day_close": 385.29998779296875,
+      "result": "TARGET_HIT",
+      "exit_price": 387.23,
+      "pnl_pct": 0.501,
+      "date": "2026-07-29"
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "symbol": "WIPRO",
+      "entry_price": 181.1199951171875,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9181.12 vs \u20b9181.12)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.5x)",
+        "\u2705 MACD bullish",
+        "\u2705 0.90% headroom to \u20b9182.75"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 13,
+      "target_price": 182.03,
+      "stoploss_price": 179.31,
+      "actual_capital": 2354.56,
+      "max_profit": 11.77,
+      "max_loss": 23.55,
+      "day_high": 181.6999969482422,
+      "day_low": 178.5500030517578,
+      "day_close": 181.1199951171875,
+      "result": "STOPLOSS_HIT",
+      "exit_price": 179.31,
+      "pnl_pct": -0.999,
+      "date": "2026-07-29"
+    }
+  ]
+}
