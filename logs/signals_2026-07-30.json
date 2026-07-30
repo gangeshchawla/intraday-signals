@@ -1,0 +1,142 @@
+{
+  "date": "Thursday, 30 July 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "ITC.NS",
+      "symbol": "ITC",
+      "entry_price": 286.25,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9286.25 vs \u20b9286.25)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.2x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.37% headroom to \u20b9290.17",
+        "\ud83d\udca1 Gap up +0.33% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 8,
+      "target_price": 287.68,
+      "stoploss_price": 283.39,
+      "actual_capital": 2290.0,
+      "max_profit": 11.45,
+      "max_loss": 22.9
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "entry_price": 390.20001220703125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9390.20 vs \u20b9390.20)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.5x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.32% headroom to \u20b9395.37",
+        "\ud83d\udca1 Gap up +0.44% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 6,
+      "target_price": 392.15,
+      "stoploss_price": 386.3,
+      "actual_capital": 2341.2,
+      "max_profit": 11.71,
+      "max_loss": 23.41
+    },
+    {
+      "ticker": "UPL.NS",
+      "symbol": "UPL",
+      "entry_price": 609.1500244140625,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9609.15 vs \u20b9609.15)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.39% headroom to \u20b9617.60",
+        "\ud83d\udca1 Gap up +0.42% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 4,
+      "target_price": 612.2,
+      "stoploss_price": 603.06,
+      "actual_capital": 2436.6,
+      "max_profit": 12.18,
+      "max_loss": 24.37
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "symbol": "WIPRO",
+      "entry_price": 183.61000061035156,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9183.61 vs \u20b9183.61)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.5x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.03% headroom to \u20b9185.51",
+        "\ud83d\udca1 Gap up +1.04% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 13,
+      "target_price": 184.53,
+      "stoploss_price": 181.77,
+      "actual_capital": 2386.93,
+      "max_profit": 11.93,
+      "max_loss": 23.87
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "BAJFINANCE",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "BHARTIARTL",
+      "reasons": [
+        "\u274c Only -0.57% headroom to \u20b91939.06"
+      ]
+    },
+    {
+      "symbol": "HINDALCO",
+      "reasons": [
+        "\u274c MACD bearish",
+        "\u274c Only -0.26% headroom to \u20b9959.91"
+      ]
+    },
+    {
+      "symbol": "ICICIBANK",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "INDUSINDBK",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "INFY",
+      "reasons": [
+        "\u274c Only -0.83% headroom to \u20b91146.06"
+      ]
+    },
+    {
+      "symbol": "LT",
+      "reasons": [
+        "\u274c Only -0.40% headroom to \u20b93915.61"
+      ]
+    },
+    {
+      "symbol": "TATASTEEL",
+      "reasons": [
+        "\u274c MACD bearish",
+        "\u274c Only -0.10% headroom to \u20b9187.09"
+      ]
+    }
+  ]
+}
