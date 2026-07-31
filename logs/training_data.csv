@@ -38,3 +38,4 @@ date,ticker,rsi,macd_diff,sma20_ratio,sma50_ratio,atr_ratio,vol_ratio,volatility
 2026-07-30,KOTAKBANK.NS,,,,,,,,,,,,12.01,,TARGET_HIT,0.5,1
 2026-07-30,UPL.NS,,,,,,,,,,,,12.01,,STOPLOSS_HIT,-1.0,0
 2026-07-30,WIPRO.NS,,,,,,,,,,,,12.01,,TARGET_HIT,0.501,1
+2026-07-31,BPCL.NS,,,,,,,,,,,,12.16,,TARGET_HIT,0.5,1
