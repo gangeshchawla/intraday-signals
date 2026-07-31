@@ -1,0 +1,107 @@
+{
+  "date": "Friday, 31 July 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "BPCL.NS",
+      "symbol": "BPCL",
+      "entry_price": 315.79998779296875,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9315.80 vs \u20b9315.80)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.9x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.42% headroom to \u20b9326.59"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 7,
+      "target_price": 317.38,
+      "stoploss_price": 312.64,
+      "actual_capital": 2210.6,
+      "max_profit": 11.05,
+      "max_loss": 22.11
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "entry_price": 389.3999938964844,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9389.40 vs \u20b9389.40)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.80% headroom to \u20b9400.30"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 6,
+      "target_price": 391.35,
+      "stoploss_price": 385.51,
+      "actual_capital": 2336.4,
+      "max_profit": 11.68,
+      "max_loss": 23.36
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "symbol": "TATASTEEL",
+      "entry_price": 186.9199981689453,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9186.92 vs \u20b9186.92)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.47% headroom to \u20b9191.54"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 13,
+      "target_price": 187.85,
+      "stoploss_price": 185.05,
+      "actual_capital": 2429.96,
+      "max_profit": 12.15,
+      "max_loss": 24.3
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "symbol": "WIPRO",
+      "entry_price": 186.3300018310547,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9186.33 vs \u20b9186.33)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (3.1x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.05% headroom to \u20b9188.28"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 13,
+      "target_price": 187.26,
+      "stoploss_price": 184.47,
+      "actual_capital": 2422.29,
+      "max_profit": 12.11,
+      "max_loss": 24.22
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "HEROMOTOCO",
+      "reasons": [
+        "\u274c Only -0.77% headroom to \u20b95283.94"
+      ]
+    },
+    {
+      "symbol": "POWERGRID",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "UPL",
+      "reasons": [
+        "\u274c Weak volume (0.4x avg)",
+        "\u274c MACD bearish"
+      ]
+    }
+  ]
+}
