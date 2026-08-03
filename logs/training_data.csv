@@ -42,4 +42,4 @@ date,ticker,rsi,macd_diff,sma20_ratio,sma50_ratio,atr_ratio,vol_ratio,volatility
 2026-07-31,TATASTEEL.NS,,,,,,,,,,,,12.16,,TARGET_HIT,0.498,1
 2026-07-31,WIPRO.NS,,,,,,,,,,,,12.16,,TARGET_HIT,0.499,1
 2026-08-03,BPCL.NS,,,,,,,,,,,,11.76,,STOPLOSS_HIT,-1.001,0
-2026-08-03,TATASTEEL.NS,,,,,,,,,,,,11.76,,TARGET_HIT,0.501,1
+2026-08-03,WIPRO.NS,,,,,,,,,,,,11.76,,TARGET_HIT,0.501,1
