@@ -1,0 +1,105 @@
+{
+  "date": "Monday, 03 August 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "BPCL.NS",
+      "symbol": "BPCL",
+      "entry_price": 319.75,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9319.75 vs \u20b9319.75)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.60% headroom to \u20b9324.86"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 10,
+      "target_price": 321.35,
+      "stoploss_price": 316.55,
+      "actual_capital": 3197.5,
+      "max_profit": 15.99,
+      "max_loss": 31.98
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "symbol": "TATASTEEL",
+      "entry_price": 189.69000244140625,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9189.69 vs \u20b9189.69)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 0.78% headroom to \u20b9191.17",
+        "\ud83d\udca1 Gap up +0.71% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 17,
+      "target_price": 190.64,
+      "stoploss_price": 187.79,
+      "actual_capital": 3224.73,
+      "max_profit": 16.12,
+      "max_loss": 32.25
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "symbol": "WIPRO",
+      "entry_price": 183.64999389648438,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9183.65 vs \u20b9183.65)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.1x)",
+        "\u2705 MACD bullish",
+        "\u2705 4.01% headroom to \u20b9191.01"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 18,
+      "target_price": 184.57,
+      "stoploss_price": 181.81,
+      "actual_capital": 3305.7,
+      "max_profit": 16.53,
+      "max_loss": 33.06
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "BAJFINANCE",
+      "reasons": [
+        "\u274c Only -4.52% headroom to \u20b91089.59"
+      ]
+    },
+    {
+      "symbol": "BAJAJFINSV",
+      "reasons": [
+        "\u274c Only -3.15% headroom to \u20b91965.10"
+      ]
+    },
+    {
+      "symbol": "DIVISLAB",
+      "reasons": [
+        "\u274c Only -0.01% headroom to \u20b98055.59"
+      ]
+    },
+    {
+      "symbol": "ICICIBANK",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "M&M",
+      "reasons": [
+        "\u274c Only -0.31% headroom to \u20b93387.95"
+      ]
+    },
+    {
+      "symbol": "UPL",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    }
+  ]
+}
