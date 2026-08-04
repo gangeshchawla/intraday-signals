@@ -1,0 +1,65 @@
+{
+  "date": "Tuesday, 04 August 2026",
+  "checks": [
+    {
+      "ticker": "BAJAJFINSV.NS",
+      "symbol": "BAJAJFINSV",
+      "premarket_price": NaN,
+      "predicted_day_high": NaN,
+      "current_price": NaN,
+      "vs_8am_pct": NaN,
+      "status": "REVERSED",
+      "note": "Moved against prediction. Will be excluded from 10:05 AM signals.",
+      "vol_ratio": 0.17434052074768475,
+      "avg_volume": 1409343.85
+    },
+    {
+      "ticker": "DIVISLAB.NS",
+      "symbol": "DIVISLAB",
+      "premarket_price": NaN,
+      "predicted_day_high": NaN,
+      "current_price": NaN,
+      "vs_8am_pct": NaN,
+      "status": "REVERSED",
+      "note": "Moved against prediction. Will be excluded from 10:05 AM signals.",
+      "vol_ratio": 0.48434544397663293,
+      "avg_volume": 576033.7
+    },
+    {
+      "ticker": "EICHERMOT.NS",
+      "symbol": "EICHERMOT",
+      "premarket_price": NaN,
+      "predicted_day_high": NaN,
+      "current_price": NaN,
+      "vs_8am_pct": NaN,
+      "status": "REVERSED",
+      "note": "Moved against prediction. Will be excluded from 10:05 AM signals.",
+      "vol_ratio": 0.20720316859253946,
+      "avg_volume": 613404.55
+    },
+    {
+      "ticker": "ITC.NS",
+      "symbol": "ITC",
+      "premarket_price": NaN,
+      "predicted_day_high": NaN,
+      "current_price": NaN,
+      "vs_8am_pct": NaN,
+      "status": "REVERSED",
+      "note": "Moved against prediction. Will be excluded from 10:05 AM signals.",
+      "vol_ratio": 0.1269079703400974,
+      "avg_volume": 16972117.95
+    },
+    {
+      "ticker": "MARUTI.NS",
+      "symbol": "MARUTI",
+      "premarket_price": NaN,
+      "predicted_day_high": NaN,
+      "current_price": NaN,
+      "vs_8am_pct": NaN,
+      "status": "REVERSED",
+      "note": "Moved against prediction. Will be excluded from 10:05 AM signals.",
+      "vol_ratio": 0.20144501711822635,
+      "avg_volume": 452623.65
+    }
+  ]
+}
