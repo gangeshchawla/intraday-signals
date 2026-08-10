@@ -1,0 +1,121 @@
+{
+  "date": "Monday, 10 August 2026",
+  "summary": {
+    "total_pnl_inr": 10.65,
+    "targets_hit": 3,
+    "stops_hit": 1,
+    "squared_off": 0,
+    "win_rate": 75.0,
+    "total_trades": 4
+  },
+  "outcomes": [
+    {
+      "ticker": "BPCL.NS",
+      "symbol": "BPCL",
+      "entry_price": 321.0,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9321.00 vs \u20b9321.00)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.61% headroom to \u20b9332.60"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 7,
+      "target_price": 322.6,
+      "stoploss_price": 317.79,
+      "actual_capital": 2247.0,
+      "max_profit": 11.23,
+      "max_loss": 22.47,
+      "day_high": 323.54998779296875,
+      "day_low": 317.1000061035156,
+      "day_close": 321.0,
+      "result": "TARGET_HIT",
+      "exit_price": 322.6,
+      "pnl_pct": 0.498,
+      "date": "2026-08-10"
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "entry_price": 390.75,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9390.75 vs \u20b9390.75)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.96% headroom to \u20b9402.30"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 6,
+      "target_price": 392.7,
+      "stoploss_price": 386.84,
+      "actual_capital": 2344.5,
+      "max_profit": 11.72,
+      "max_loss": 23.45,
+      "day_high": 394.8500061035156,
+      "day_low": 387.75,
+      "day_close": 390.75,
+      "result": "TARGET_HIT",
+      "exit_price": 392.7,
+      "pnl_pct": 0.499,
+      "date": "2026-08-10"
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "symbol": "TATASTEEL",
+      "entry_price": 187.5500030517578,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9187.55 vs \u20b9187.55)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.5x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.40% headroom to \u20b9193.93"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 13,
+      "target_price": 188.49,
+      "stoploss_price": 185.67,
+      "actual_capital": 2438.15,
+      "max_profit": 12.19,
+      "max_loss": 24.38,
+      "day_high": 189.69000244140625,
+      "day_low": 186.75,
+      "day_close": 187.5500030517578,
+      "result": "TARGET_HIT",
+      "exit_price": 188.49,
+      "pnl_pct": 0.501,
+      "date": "2026-08-10"
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "symbol": "WIPRO",
+      "entry_price": 187.52999877929688,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9187.53 vs \u20b9187.53)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.5x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.81% headroom to \u20b9190.92"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 13,
+      "target_price": 188.47,
+      "stoploss_price": 185.65,
+      "actual_capital": 2437.89,
+      "max_profit": 12.19,
+      "max_loss": 24.38,
+      "day_high": 188.3699951171875,
+      "day_low": 185.64999389648438,
+      "day_close": 187.52999877929688,
+      "result": "STOPLOSS_HIT",
+      "exit_price": 185.65,
+      "pnl_pct": -1.003,
+      "date": "2026-08-10"
+    }
+  ]
+}
