@@ -56,4 +56,5 @@ date,ticker,rsi,macd_diff,sma20_ratio,sma50_ratio,atr_ratio,vol_ratio,volatility
 2026-08-10,BPCL.NS,,,,,,,,,,,,12.16,,TARGET_HIT,0.498,1
 2026-08-10,TATASTEEL.NS,,,,,,,,,,,,12.16,,TARGET_HIT,0.501,1
 2026-08-10,WIPRO.NS,,,,,,,,,,,,12.16,,STOPLOSS_HIT,-1.003,0
-2026-08-11,KOTAKBANK.NS,,,,,,,,,,,,12.25,,STOPLOSS_HIT,-1.001,0
+2026-08-11,BPCL.NS,,,,,,,,,,,,12.25,,TARGET_HIT,0.499,1
+2026-08-11,TATASTEEL.NS,,,,,,,,,,,,12.25,,TARGET_HIT,0.499,1
