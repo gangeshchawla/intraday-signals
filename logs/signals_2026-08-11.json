@@ -1,0 +1,104 @@
+{
+  "date": "Tuesday, 11 August 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "BPCL.NS",
+      "symbol": "BPCL",
+      "entry_price": 318.5,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9318.50 vs \u20b9318.50)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.5x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.57% headroom to \u20b9329.88"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 10,
+      "target_price": 320.09,
+      "stoploss_price": 315.31,
+      "actual_capital": 3185.0,
+      "max_profit": 15.93,
+      "max_loss": 31.85
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "entry_price": 393.5,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9393.50 vs \u20b9393.50)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.9x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.43% headroom to \u20b9399.13"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 8,
+      "target_price": 395.47,
+      "stoploss_price": 389.56,
+      "actual_capital": 3148.0,
+      "max_profit": 15.74,
+      "max_loss": 31.48
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "symbol": "TATASTEEL",
+      "entry_price": 190.24000549316406,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9190.24 vs \u20b9190.24)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.08% headroom to \u20b9192.29"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 17,
+      "target_price": 191.19,
+      "stoploss_price": 188.34,
+      "actual_capital": 3234.08,
+      "max_profit": 16.17,
+      "max_loss": 32.34
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "APOLLOHOSP",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "HCLTECH",
+      "reasons": [
+        "\u274c Weak volume (0.4x avg)"
+      ]
+    },
+    {
+      "symbol": "ICICIBANK",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "TATACONSUM",
+      "reasons": [
+        "\u274c Only 0.38% headroom to \u20b91112.92"
+      ]
+    },
+    {
+      "symbol": "TITAN",
+      "reasons": [
+        "\u274c Only -0.51% headroom to \u20b95063.93"
+      ]
+    },
+    {
+      "symbol": "WIPRO",
+      "reasons": [
+        "\u274c Weak volume (0.4x avg)"
+      ]
+    }
+  ]
+}
