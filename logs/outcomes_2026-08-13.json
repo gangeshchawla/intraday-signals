@@ -1,0 +1,40 @@
+{
+  "date": "Thursday, 13 August 2026",
+  "summary": {
+    "total_pnl_inr": 49.66,
+    "targets_hit": 1,
+    "stops_hit": 0,
+    "squared_off": 0,
+    "win_rate": 100.0,
+    "total_trades": 1
+  },
+  "outcomes": [
+    {
+      "ticker": "WIPRO.NS",
+      "symbol": "WIPRO",
+      "entry_price": 183.94000244140625,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9183.94 vs \u20b9183.94)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.11% headroom to \u20b9189.66"
+      ],
+      "capital_allocated": 10000.0,
+      "qty": 54,
+      "target_price": 184.86,
+      "stoploss_price": 182.1,
+      "actual_capital": 9932.76,
+      "max_profit": 49.66,
+      "max_loss": 99.33,
+      "day_high": 185.0,
+      "day_low": 181.91000366210938,
+      "day_close": 183.94000244140625,
+      "result": "TARGET_HIT",
+      "exit_price": 184.86,
+      "pnl_pct": 0.5,
+      "date": "2026-08-13"
+    }
+  ]
+}
