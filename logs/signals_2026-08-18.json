@@ -1,0 +1,106 @@
+{
+  "date": "Tuesday, 18 August 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "DRREDDY.NS",
+      "symbol": "DRREDDY",
+      "entry_price": 1192.0,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91192.00 vs \u20b91192.00)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.0x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.96% headroom to \u20b91227.27"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 2,
+      "target_price": 1197.96,
+      "stoploss_price": 1180.08,
+      "actual_capital": 2384.0,
+      "max_profit": 11.92,
+      "max_loss": 23.84
+    },
+    {
+      "ticker": "HINDALCO.NS",
+      "symbol": "HINDALCO",
+      "entry_price": 1049.9000244140625,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91049.90 vs \u20b91049.90)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.24% headroom to \u20b91062.87",
+        "\ud83d\udca1 Gap up +0.34% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 3,
+      "target_price": 1055.15,
+      "stoploss_price": 1039.4,
+      "actual_capital": 3149.7,
+      "max_profit": 15.75,
+      "max_loss": 31.5
+    },
+    {
+      "ticker": "SBIN.NS",
+      "symbol": "SBIN",
+      "entry_price": 1061.199951171875,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91061.20 vs \u20b91061.20)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.15% headroom to \u20b91094.67"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 3,
+      "target_price": 1066.51,
+      "stoploss_price": 1050.59,
+      "actual_capital": 3183.6,
+      "max_profit": 15.92,
+      "max_loss": 31.84
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "BAJFINANCE",
+      "reasons": [
+        "\u274c Weak volume (0.2x avg)",
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "BAJAJFINSV",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "INFY",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "JSWSTEEL",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "KOTAKBANK",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "M&M",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    }
+  ]
+}
