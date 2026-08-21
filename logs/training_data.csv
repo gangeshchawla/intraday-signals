@@ -69,3 +69,4 @@ date,ticker,rsi,macd_diff,sma20_ratio,sma50_ratio,atr_ratio,vol_ratio,volatility
 2026-08-19,RELIANCE.NS,,,,,,,,,,,,11.39,,SQUARED_OFF,0.0,0
 2026-08-20,HINDALCO.NS,,,,,,,,,,,,11.32,,STOPLOSS_HIT,-1.0,0
 2026-08-20,RELIANCE.NS,,,,,,,,,,,,11.32,,TARGET_HIT,0.5,1
+2026-08-21,AXISBANK.NS,,,,,,,,,,,,10.76,,STOPLOSS_HIT,-1.0,0
