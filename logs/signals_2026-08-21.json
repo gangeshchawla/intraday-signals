@@ -1,0 +1,91 @@
+{
+  "date": "Friday, 21 August 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "AXISBANK.NS",
+      "symbol": "AXISBANK",
+      "entry_price": 1251.0,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91251.00 vs \u20b91251.00)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 0.82% headroom to \u20b91261.32"
+      ],
+      "capital_allocated": 5000.0,
+      "qty": 3,
+      "target_price": 1257.25,
+      "stoploss_price": 1238.49,
+      "actual_capital": 3753.0,
+      "max_profit": 18.77,
+      "max_loss": 37.53
+    },
+    {
+      "ticker": "LT.NS",
+      "symbol": "LT",
+      "entry_price": 4081.0,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b94081.00 vs \u20b94081.00)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 0.76% headroom to \u20b94112.07"
+      ],
+      "capital_allocated": 5000.0,
+      "qty": 1,
+      "target_price": 4101.4,
+      "stoploss_price": 4040.19,
+      "actual_capital": 4081.0,
+      "max_profit": 20.41,
+      "max_loss": 40.81
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "BAJFINANCE",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "BRITANNIA",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "HINDALCO",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "KOTAKBANK",
+      "reasons": [
+        "\u274c MACD bearish",
+        "\u274c Only 0.26% headroom to \u20b9398.37"
+      ]
+    },
+    {
+      "symbol": "M&M",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "RELIANCE",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "TITAN",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    }
+  ]
+}
