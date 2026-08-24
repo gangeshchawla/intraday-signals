@@ -1,0 +1,95 @@
+{
+  "date": "Monday, 24 August 2026",
+  "summary": {
+    "total_pnl_inr": 40.28,
+    "targets_hit": 3,
+    "stops_hit": 0,
+    "squared_off": 0,
+    "win_rate": 100.0,
+    "total_trades": 3
+  },
+  "outcomes": [
+    {
+      "ticker": "AXISBANK.NS",
+      "symbol": "AXISBANK",
+      "entry_price": 1245.800048828125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91245.80 vs \u20b91245.80)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.37% headroom to \u20b91275.28"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 2,
+      "target_price": 1252.03,
+      "stoploss_price": 1233.34,
+      "actual_capital": 2491.6,
+      "max_profit": 12.46,
+      "max_loss": 24.92,
+      "day_high": 1256.4000244140625,
+      "day_low": 1240.4000244140625,
+      "day_close": 1245.800048828125,
+      "result": "TARGET_HIT",
+      "exit_price": 1252.03,
+      "pnl_pct": 0.5,
+      "date": "2026-08-24"
+    },
+    {
+      "ticker": "DRREDDY.NS",
+      "symbol": "DRREDDY",
+      "entry_price": 1174.699951171875,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91174.70 vs \u20b91174.70)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.67% headroom to \u20b91206.02"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 2,
+      "target_price": 1180.57,
+      "stoploss_price": 1162.95,
+      "actual_capital": 2349.4,
+      "max_profit": 11.75,
+      "max_loss": 23.49,
+      "day_high": 1185.0999755859375,
+      "day_low": 1174.0,
+      "day_close": 1174.699951171875,
+      "result": "TARGET_HIT",
+      "exit_price": 1180.57,
+      "pnl_pct": 0.5,
+      "date": "2026-08-24"
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "entry_price": 402.79998779296875,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9402.80 vs \u20b9402.80)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 0.70% headroom to \u20b9405.60",
+        "\ud83d\udca1 Gap up +0.39% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 8,
+      "target_price": 404.81,
+      "stoploss_price": 398.77,
+      "actual_capital": 3222.4,
+      "max_profit": 16.11,
+      "max_loss": 32.22,
+      "day_high": 406.0,
+      "day_low": 398.29998779296875,
+      "day_close": 402.79998779296875,
+      "result": "TARGET_HIT",
+      "exit_price": 404.81,
+      "pnl_pct": 0.499,
+      "date": "2026-08-24"
+    }
+  ]
+}
