@@ -1,0 +1,137 @@
+{
+  "date": "Monday, 24 August 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "AXISBANK.NS",
+      "symbol": "AXISBANK",
+      "entry_price": 1245.800048828125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91245.80 vs \u20b91245.80)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.37% headroom to \u20b91275.28"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 2,
+      "target_price": 1252.03,
+      "stoploss_price": 1233.34,
+      "actual_capital": 2491.6,
+      "max_profit": 12.46,
+      "max_loss": 24.92
+    },
+    {
+      "ticker": "DRREDDY.NS",
+      "symbol": "DRREDDY",
+      "entry_price": 1174.699951171875,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91174.70 vs \u20b91174.70)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.67% headroom to \u20b91206.02"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 2,
+      "target_price": 1180.57,
+      "stoploss_price": 1162.95,
+      "actual_capital": 2349.4,
+      "max_profit": 11.75,
+      "max_loss": 23.49
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "entry_price": 402.79998779296875,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9402.80 vs \u20b9402.80)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 0.70% headroom to \u20b9405.60",
+        "\ud83d\udca1 Gap up +0.39% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 8,
+      "target_price": 404.81,
+      "stoploss_price": 398.77,
+      "actual_capital": 3222.4,
+      "max_profit": 16.11,
+      "max_loss": 32.22
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "BAJAJ-AUTO",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "BAJAJFINSV",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "DIVISLAB",
+      "reasons": [
+        "\u274c Weak volume (0.3x avg)",
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "EICHERMOT",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "HDFCLIFE",
+      "reasons": [
+        "\u274c Only -0.18% headroom to \u20b9553.81"
+      ]
+    },
+    {
+      "symbol": "HEROMOTOCO",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "HINDALCO",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "JSWSTEEL",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "M&M",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "RELIANCE",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "TITAN",
+      "reasons": [
+        "\u274c Weak volume (0.4x avg)",
+        "\u274c MACD bearish"
+      ]
+    }
+  ]
+}
