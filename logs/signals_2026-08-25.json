@@ -1,0 +1,58 @@
+{
+  "date": "Tuesday, 25 August 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "HDFCLIFE.NS",
+      "symbol": "HDFCLIFE",
+      "entry_price": 552.9500122070312,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9552.95 vs \u20b9552.95)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.27% headroom to \u20b9565.50"
+      ],
+      "capital_allocated": 10000.0,
+      "qty": 18,
+      "target_price": 555.71,
+      "stoploss_price": 547.42,
+      "actual_capital": 9953.1,
+      "max_profit": 49.77,
+      "max_loss": 99.53
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "BAJAJ-AUTO",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "HINDALCO",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "JSWSTEEL",
+      "reasons": [
+        "\u274c Only -0.05% headroom to \u20b91326.30"
+      ]
+    },
+    {
+      "symbol": "M&M",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "RELIANCE",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    }
+  ]
+}
