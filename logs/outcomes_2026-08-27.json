@@ -1,0 +1,122 @@
+{
+  "date": "Thursday, 27 August 2026",
+  "summary": {
+    "total_pnl_inr": 46.21,
+    "targets_hit": 4,
+    "stops_hit": 0,
+    "squared_off": 0,
+    "win_rate": 100.0,
+    "total_trades": 4
+  },
+  "outcomes": [
+    {
+      "ticker": "BPCL.NS",
+      "symbol": "BPCL",
+      "entry_price": 318.0,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9318.00 vs \u20b9318.00)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.56% headroom to \u20b9326.13"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 7,
+      "target_price": 319.59,
+      "stoploss_price": 314.82,
+      "actual_capital": 2226.0,
+      "max_profit": 11.13,
+      "max_loss": 22.26,
+      "day_high": 326.3500061035156,
+      "day_low": 318.0,
+      "day_close": 318.0,
+      "result": "TARGET_HIT",
+      "exit_price": 319.59,
+      "pnl_pct": 0.5,
+      "date": "2026-08-27"
+    },
+    {
+      "ticker": "DRREDDY.NS",
+      "symbol": "DRREDDY",
+      "entry_price": 1182.0,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91182.00 vs \u20b91182.00)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.1x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.20% headroom to \u20b91219.84"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 2,
+      "target_price": 1187.91,
+      "stoploss_price": 1170.18,
+      "actual_capital": 2364.0,
+      "max_profit": 11.82,
+      "max_loss": 23.64,
+      "day_high": 1197.199951171875,
+      "day_low": 1180.0999755859375,
+      "day_close": 1182.0,
+      "result": "TARGET_HIT",
+      "exit_price": 1187.91,
+      "pnl_pct": 0.5,
+      "date": "2026-08-27"
+    },
+    {
+      "ticker": "HDFCLIFE.NS",
+      "symbol": "HDFCLIFE",
+      "entry_price": 553.0,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9553.00 vs \u20b9553.00)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.0x)",
+        "\u2705 MACD bullish",
+        "\u2705 0.92% headroom to \u20b9558.11",
+        "\ud83d\udca1 Gap up +0.59% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 4,
+      "target_price": 555.76,
+      "stoploss_price": 547.47,
+      "actual_capital": 2212.0,
+      "max_profit": 11.06,
+      "max_loss": 22.12,
+      "day_high": 563.5,
+      "day_low": 549.0999755859375,
+      "day_close": 553.0,
+      "result": "TARGET_HIT",
+      "exit_price": 555.76,
+      "pnl_pct": 0.499,
+      "date": "2026-08-27"
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "symbol": "TATASTEEL",
+      "entry_price": 188.00999450683594,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9188.01 vs \u20b9188.01)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.4x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.95% headroom to \u20b9191.68"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 13,
+      "target_price": 188.95,
+      "stoploss_price": 186.13,
+      "actual_capital": 2444.13,
+      "max_profit": 12.22,
+      "max_loss": 24.44,
+      "day_high": 189.9499969482422,
+      "day_low": 184.2899932861328,
+      "day_close": 188.00999450683594,
+      "result": "TARGET_HIT",
+      "exit_price": 188.95,
+      "pnl_pct": 0.5,
+      "date": "2026-08-27"
+    }
+  ]
+}
