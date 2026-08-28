@@ -1,0 +1,74 @@
+{
+  "date": "Friday, 28 August 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "BPCL.NS",
+      "symbol": "BPCL",
+      "entry_price": 318.0,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9318.00 vs \u20b9318.00)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.9x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.51% headroom to \u20b9325.97"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 10,
+      "target_price": 319.59,
+      "stoploss_price": 314.82,
+      "actual_capital": 3180.0,
+      "max_profit": 15.9,
+      "max_loss": 31.8
+    },
+    {
+      "ticker": "HDFCLIFE.NS",
+      "symbol": "HDFCLIFE",
+      "entry_price": 548.0,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9548.00 vs \u20b9548.00)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.02% headroom to \u20b9564.55"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 6,
+      "target_price": 550.74,
+      "stoploss_price": 542.52,
+      "actual_capital": 3288.0,
+      "max_profit": 16.44,
+      "max_loss": 32.88
+    },
+    {
+      "ticker": "UPL.NS",
+      "symbol": "UPL",
+      "entry_price": 578.0999755859375,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9578.10 vs \u20b9578.10)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 4.11% headroom to \u20b9601.86"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 5,
+      "target_price": 580.99,
+      "stoploss_price": 572.32,
+      "actual_capital": 2890.5,
+      "max_profit": 14.45,
+      "max_loss": 28.9
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "KOTAKBANK",
+      "reasons": [
+        "\u274c Only 0.46% headroom to \u20b9426.17"
+      ]
+    }
+  ]
+}
