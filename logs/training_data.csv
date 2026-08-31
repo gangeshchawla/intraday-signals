@@ -85,3 +85,4 @@ date,ticker,rsi,macd_diff,sma20_ratio,sma50_ratio,atr_ratio,vol_ratio,volatility
 2026-08-28,BPCL.NS,,,,,,,,,,,,11.07,,TARGET_HIT,0.5,1
 2026-08-28,HDFCLIFE.NS,,,,,,,,,,,,11.07,,TARGET_HIT,0.5,1
 2026-08-28,UPL.NS,,,,,,,,,,,,11.07,,TARGET_HIT,0.5,1
+2026-08-31,AXISBANK.NS,,,,,,,,,,,,11.07,,STOPLOSS_HIT,-1.0,0
