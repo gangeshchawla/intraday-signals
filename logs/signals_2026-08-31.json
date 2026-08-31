@@ -1,0 +1,113 @@
+{
+  "date": "Monday, 31 August 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "AXISBANK.NS",
+      "symbol": "AXISBANK",
+      "entry_price": 1265.0,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91265.00 vs \u20b91265.00)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.18% headroom to \u20b91279.94"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 1,
+      "target_price": 1271.32,
+      "stoploss_price": 1252.35,
+      "actual_capital": 1265.0,
+      "max_profit": 6.33,
+      "max_loss": 12.65
+    },
+    {
+      "ticker": "BPCL.NS",
+      "symbol": "BPCL",
+      "entry_price": 319.25,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9319.25 vs \u20b9319.25)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.0x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.08% headroom to \u20b9325.90"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 7,
+      "target_price": 320.85,
+      "stoploss_price": 316.06,
+      "actual_capital": 2234.75,
+      "max_profit": 11.17,
+      "max_loss": 22.35
+    },
+    {
+      "ticker": "HDFCLIFE.NS",
+      "symbol": "HDFCLIFE",
+      "entry_price": 548.0,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9548.00 vs \u20b9548.00)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.05% headroom to \u20b9559.25"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 4,
+      "target_price": 550.74,
+      "stoploss_price": 542.52,
+      "actual_capital": 2192.0,
+      "max_profit": 10.96,
+      "max_loss": 21.92
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "entry_price": 423.70001220703125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9423.70 vs \u20b9423.70)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.32% headroom to \u20b9433.55"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 5,
+      "target_price": 425.82,
+      "stoploss_price": 419.46,
+      "actual_capital": 2118.5,
+      "max_profit": 10.59,
+      "max_loss": 21.19
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "BAJAJ-AUTO",
+      "reasons": [
+        "\u274c Only 0.34% headroom to \u20b911950.49"
+      ]
+    },
+    {
+      "symbol": "DIVISLAB",
+      "reasons": [
+        "\u274c Only 0.36% headroom to \u20b99272.02"
+      ]
+    },
+    {
+      "symbol": "EICHERMOT",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "TECHM",
+      "reasons": [
+        "\u274c MACD bearish",
+        "\u274c Only -0.89% headroom to \u20b91626.29"
+      ]
+    }
+  ]
+}
