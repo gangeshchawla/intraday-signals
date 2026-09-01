@@ -1,0 +1,121 @@
+{
+  "date": "Tuesday, 01 September 2026",
+  "summary": {
+    "total_pnl_inr": 5.25,
+    "targets_hit": 3,
+    "stops_hit": 1,
+    "squared_off": 0,
+    "win_rate": 75.0,
+    "total_trades": 4
+  },
+  "outcomes": [
+    {
+      "ticker": "BPCL.NS",
+      "symbol": "BPCL",
+      "entry_price": 324.04998779296875,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9324.05 vs \u20b9324.05)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.18% headroom to \u20b9327.88"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 7,
+      "target_price": 325.67,
+      "stoploss_price": 320.81,
+      "actual_capital": 2268.35,
+      "max_profit": 11.34,
+      "max_loss": 22.68,
+      "day_high": 324.04998779296875,
+      "day_low": 310.79998779296875,
+      "day_close": 324.04998779296875,
+      "result": "STOPLOSS_HIT",
+      "exit_price": 320.81,
+      "pnl_pct": -1.0,
+      "date": "2026-09-01"
+    },
+    {
+      "ticker": "HDFCLIFE.NS",
+      "symbol": "HDFCLIFE",
+      "entry_price": 543.3499755859375,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9543.35 vs \u20b9543.35)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.2x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.94% headroom to \u20b9559.34"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 4,
+      "target_price": 546.07,
+      "stoploss_price": 537.92,
+      "actual_capital": 2173.4,
+      "max_profit": 10.87,
+      "max_loss": 21.73,
+      "day_high": 546.9500122070312,
+      "day_low": 538.7999877929688,
+      "day_close": 543.3499755859375,
+      "result": "TARGET_HIT",
+      "exit_price": 546.07,
+      "pnl_pct": 0.501,
+      "date": "2026-09-01"
+    },
+    {
+      "ticker": "JSWSTEEL.NS",
+      "symbol": "JSWSTEEL",
+      "entry_price": 1307.699951171875,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91307.70 vs \u20b91307.70)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.1x)",
+        "\u2705 MACD bullish",
+        "\u2705 4.46% headroom to \u20b91366.03"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 1,
+      "target_price": 1314.24,
+      "stoploss_price": 1294.62,
+      "actual_capital": 1307.7,
+      "max_profit": 6.54,
+      "max_loss": 13.08,
+      "day_high": 1326.800048828125,
+      "day_low": 1303.300048828125,
+      "day_close": 1307.699951171875,
+      "result": "TARGET_HIT",
+      "exit_price": 1314.24,
+      "pnl_pct": 0.5,
+      "date": "2026-09-01"
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "entry_price": 419.3999938964844,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9419.40 vs \u20b9419.40)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.26% headroom to \u20b9433.09"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 5,
+      "target_price": 421.5,
+      "stoploss_price": 415.21,
+      "actual_capital": 2097.0,
+      "max_profit": 10.48,
+      "max_loss": 20.97,
+      "day_high": 425.04998779296875,
+      "day_low": 419.3999938964844,
+      "day_close": 419.3999938964844,
+      "result": "TARGET_HIT",
+      "exit_price": 421.5,
+      "pnl_pct": 0.501,
+      "date": "2026-09-01"
+    }
+  ]
+}
