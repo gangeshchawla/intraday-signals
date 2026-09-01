@@ -1,0 +1,133 @@
+{
+  "date": "Tuesday, 01 September 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "BPCL.NS",
+      "symbol": "BPCL",
+      "entry_price": 324.04998779296875,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9324.05 vs \u20b9324.05)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.18% headroom to \u20b9327.88"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 7,
+      "target_price": 325.67,
+      "stoploss_price": 320.81,
+      "actual_capital": 2268.35,
+      "max_profit": 11.34,
+      "max_loss": 22.68
+    },
+    {
+      "ticker": "HDFCLIFE.NS",
+      "symbol": "HDFCLIFE",
+      "entry_price": 543.3499755859375,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9543.35 vs \u20b9543.35)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.2x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.94% headroom to \u20b9559.34"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 4,
+      "target_price": 546.07,
+      "stoploss_price": 537.92,
+      "actual_capital": 2173.4,
+      "max_profit": 10.87,
+      "max_loss": 21.73
+    },
+    {
+      "ticker": "JSWSTEEL.NS",
+      "symbol": "JSWSTEEL",
+      "entry_price": 1307.699951171875,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91307.70 vs \u20b91307.70)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.1x)",
+        "\u2705 MACD bullish",
+        "\u2705 4.46% headroom to \u20b91366.03"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 1,
+      "target_price": 1314.24,
+      "stoploss_price": 1294.62,
+      "actual_capital": 1307.7,
+      "max_profit": 6.54,
+      "max_loss": 13.08
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "entry_price": 419.3999938964844,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9419.40 vs \u20b9419.40)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.26% headroom to \u20b9433.09"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 5,
+      "target_price": 421.5,
+      "stoploss_price": 415.21,
+      "actual_capital": 2097.0,
+      "max_profit": 10.48,
+      "max_loss": 20.97
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "DIVISLAB",
+      "reasons": [
+        "\u274c Only -0.13% headroom to \u20b99454.23"
+      ]
+    },
+    {
+      "symbol": "ICICIBANK",
+      "reasons": [
+        "\u274c Only -0.40% headroom to \u20b91448.25"
+      ]
+    },
+    {
+      "symbol": "INDUSINDBK",
+      "reasons": [
+        "\u274c MACD bearish",
+        "\u274c Only -0.12% headroom to \u20b91015.38"
+      ]
+    },
+    {
+      "symbol": "NESTLEIND",
+      "reasons": [
+        "\u274c MACD bearish",
+        "\u274c Only -0.38% headroom to \u20b91490.79"
+      ]
+    },
+    {
+      "symbol": "SBIN",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "SUNPHARMA",
+      "reasons": [
+        "\u274c Only -1.16% headroom to \u20b91961.82"
+      ]
+    },
+    {
+      "symbol": "WIPRO",
+      "reasons": [
+        "\u274c MACD bearish",
+        "\u274c Only 0.42% headroom to \u20b9185.28"
+      ]
+    }
+  ]
+}
