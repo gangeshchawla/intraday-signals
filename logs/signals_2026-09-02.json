@@ -1,0 +1,107 @@
+{
+  "date": "Wednesday, 02 September 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "AXISBANK.NS",
+      "symbol": "AXISBANK",
+      "entry_price": 1258.0,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91258.00 vs \u20b91258.00)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.2x)",
+        "\u2705 MACD bullish",
+        "\u2705 5.59% headroom to \u20b91328.30"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 1,
+      "target_price": 1264.29,
+      "stoploss_price": 1245.42,
+      "actual_capital": 1258.0,
+      "max_profit": 6.29,
+      "max_loss": 12.58
+    },
+    {
+      "ticker": "BPCL.NS",
+      "symbol": "BPCL",
+      "entry_price": 317.6499938964844,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9317.65 vs \u20b9317.65)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.2x)",
+        "\u2705 MACD bullish",
+        "\u2705 4.84% headroom to \u20b9333.01"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 7,
+      "target_price": 319.24,
+      "stoploss_price": 314.47,
+      "actual_capital": 2223.55,
+      "max_profit": 11.12,
+      "max_loss": 22.24
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "entry_price": 425.0,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9425.00 vs \u20b9425.00)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 0.94% headroom to \u20b9429.01",
+        "\ud83d\udca1 Gap up +0.33% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 5,
+      "target_price": 427.12,
+      "stoploss_price": 420.75,
+      "actual_capital": 2125.0,
+      "max_profit": 10.62,
+      "max_loss": 21.25
+    },
+    {
+      "ticker": "TECHM.NS",
+      "symbol": "TECHM",
+      "entry_price": 1638.0,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91638.00 vs \u20b91638.00)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.9x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.97% headroom to \u20b91670.35"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 1,
+      "target_price": 1646.19,
+      "stoploss_price": 1621.62,
+      "actual_capital": 1638.0,
+      "max_profit": 8.19,
+      "max_loss": 16.38
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "BAJAJ-AUTO",
+      "reasons": [
+        "\u274c Only 0.16% headroom to \u20b912380.89"
+      ]
+    },
+    {
+      "symbol": "HCLTECH",
+      "reasons": [
+        "\u274c Only -0.12% headroom to \u20b91349.75"
+      ]
+    },
+    {
+      "symbol": "INFY",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    }
+  ]
+}
