@@ -97,3 +97,4 @@ date,ticker,rsi,macd_diff,sma20_ratio,sma50_ratio,atr_ratio,vol_ratio,volatility
 2026-09-02,BPCL.NS,,,,,,,,,,,,11.49,,TARGET_HIT,0.501,1
 2026-09-02,TECHM.NS,,,,,,,,,,,,11.49,,TARGET_HIT,0.5,1
 2026-09-03,BPCL.NS,,,,,,,,,,,,11.59,,STOPLOSS_HIT,-1.001,0
+2026-09-03,ONGC.NS,,,,,,,,,,,,11.59,,TARGET_HIT,0.501,1
