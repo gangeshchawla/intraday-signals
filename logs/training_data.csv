@@ -100,3 +100,4 @@ date,ticker,rsi,macd_diff,sma20_ratio,sma50_ratio,atr_ratio,vol_ratio,volatility
 2026-09-03,ONGC.NS,,,,,,,,,,,,11.59,,TARGET_HIT,0.501,1
 2026-09-04,BPCL.NS,,,,,,,,,,,,11.34,,TARGET_HIT,0.5,1
 2026-09-04,COALINDIA.NS,,,,,,,,,,,,11.34,,TARGET_HIT,0.499,1
+2026-09-04,KOTAKBANK.NS,,,,,,,,,,,,11.34,,TARGET_HIT,0.501,1
