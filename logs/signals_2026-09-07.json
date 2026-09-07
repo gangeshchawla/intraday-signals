@@ -1,0 +1,93 @@
+{
+  "date": "Monday, 07 September 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "COALINDIA.NS",
+      "symbol": "COALINDIA",
+      "entry_price": 415.3500061035156,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9415.35 vs \u20b9415.35)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.27% headroom to \u20b9424.77"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 8,
+      "target_price": 417.43,
+      "stoploss_price": 411.2,
+      "actual_capital": 3322.8,
+      "max_profit": 16.61,
+      "max_loss": 33.23
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "entry_price": 424.5,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9424.50 vs \u20b9424.50)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.51% headroom to \u20b9430.89"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 7,
+      "target_price": 426.62,
+      "stoploss_price": 420.25,
+      "actual_capital": 2971.5,
+      "max_profit": 14.86,
+      "max_loss": 29.71
+    },
+    {
+      "ticker": "UPL.NS",
+      "symbol": "UPL",
+      "entry_price": 582.1500244140625,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9582.15 vs \u20b9582.15)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.9x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.89% headroom to \u20b9598.97"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 5,
+      "target_price": 585.06,
+      "stoploss_price": 576.33,
+      "actual_capital": 2910.75,
+      "max_profit": 14.55,
+      "max_loss": 29.11
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "GRASIM",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "HDFCLIFE",
+      "reasons": [
+        "\u274c MACD bearish",
+        "\u274c Only -0.12% headroom to \u20b9545.74"
+      ]
+    },
+    {
+      "symbol": "RELIANCE",
+      "reasons": [
+        "\u274c Only 0.49% headroom to \u20b91328.42"
+      ]
+    },
+    {
+      "symbol": "TATASTEEL",
+      "reasons": [
+        "\u274c Only 0.34% headroom to \u20b9189.43"
+      ]
+    }
+  ]
+}
