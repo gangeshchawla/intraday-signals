@@ -1,0 +1,137 @@
+{
+  "date": "Tuesday, 08 September 2026",
+  "checks": [
+    {
+      "ticker": "COALINDIA.NS",
+      "symbol": "COALINDIA",
+      "premarket_price": 418.8500061035156,
+      "predicted_day_high": 425.41,
+      "current_price": 418.8500061035156,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.57% left to predicted high.",
+      "vol_ratio": 1.3229007987930146,
+      "avg_volume": 10274920.85
+    },
+    {
+      "ticker": "DIVISLAB.NS",
+      "symbol": "DIVISLAB",
+      "premarket_price": 9315.0,
+      "predicted_day_high": 9340.27,
+      "current_price": 9315.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 0.27% left to predicted high.",
+      "vol_ratio": 1.1537609663835426,
+      "avg_volume": 435239.2
+    },
+    {
+      "ticker": "ICICIBANK.NS",
+      "symbol": "ICICIBANK",
+      "premarket_price": 1427.5,
+      "predicted_day_high": 1450.01,
+      "current_price": 1427.5,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.58% left to predicted high.",
+      "vol_ratio": 0.9410696560591351,
+      "avg_volume": 8538274.45
+    },
+    {
+      "ticker": "JSWSTEEL.NS",
+      "symbol": "JSWSTEEL",
+      "premarket_price": 1302.0,
+      "predicted_day_high": 1357.23,
+      "current_price": 1302.0,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 0.7786990647723135,
+      "avg_volume": 1638927.1
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "premarket_price": 422.1000061035156,
+      "predicted_day_high": 434.21,
+      "current_price": 422.1000061035156,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.87% left to predicted high.",
+      "vol_ratio": 0.6147205948998691,
+      "avg_volume": 11629089.8
+    },
+    {
+      "ticker": "LT.NS",
+      "symbol": "LT",
+      "premarket_price": 3999.0,
+      "predicted_day_high": 4030.36,
+      "current_price": 3999.0,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 0.957964699586683,
+      "avg_volume": 1311826.0
+    },
+    {
+      "ticker": "NTPC.NS",
+      "symbol": "NTPC",
+      "premarket_price": 332.0,
+      "predicted_day_high": 339.68,
+      "current_price": 332.0,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 0.6232250602763934,
+      "avg_volume": 8417204.85
+    },
+    {
+      "ticker": "RELIANCE.NS",
+      "symbol": "RELIANCE",
+      "premarket_price": 1309.5,
+      "predicted_day_high": 1348.36,
+      "current_price": 1309.5,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.97% left to predicted high.",
+      "vol_ratio": 0.9633820821103107,
+      "avg_volume": 10598621.45
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "symbol": "TATASTEEL",
+      "premarket_price": 185.61000061035156,
+      "predicted_day_high": 194.28,
+      "current_price": 185.61000061035156,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 4.67% left to predicted high.",
+      "vol_ratio": 0.8667242057555211,
+      "avg_volume": 27339327.6
+    },
+    {
+      "ticker": "TITAN.NS",
+      "symbol": "TITAN",
+      "premarket_price": 4995.0,
+      "predicted_day_high": 5117.39,
+      "current_price": 4995.0,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 0.7942638703001309,
+      "avg_volume": 604756.2
+    },
+    {
+      "ticker": "UPL.NS",
+      "symbol": "UPL",
+      "premarket_price": 573.0,
+      "predicted_day_high": 596.05,
+      "current_price": 573.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 4.02% left to predicted high.",
+      "vol_ratio": 0.8772462983247166,
+      "avg_volume": 1999503.45
+    }
+  ]
+}
