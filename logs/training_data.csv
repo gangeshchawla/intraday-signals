@@ -109,3 +109,4 @@ date,ticker,rsi,macd_diff,sma20_ratio,sma50_ratio,atr_ratio,vol_ratio,volatility
 2026-09-08,ICICIBANK.NS,,,,,,,,,,,,11.16,,SQUARED_OFF,0.0,0
 2026-09-08,KOTAKBANK.NS,,,,,,,,,,,,11.16,,TARGET_HIT,0.5,1
 2026-09-08,RELIANCE.NS,,,,,,,,,,,,11.16,,TARGET_HIT,0.5,1
+2026-09-08,TATASTEEL.NS,,,,,,,,,,,,11.16,,TARGET_HIT,0.501,1
