@@ -1,0 +1,137 @@
+{
+  "date": "Thursday, 10 September 2026",
+  "checks": [
+    {
+      "ticker": "ADANIENT.NS",
+      "symbol": "ADANIENT",
+      "premarket_price": 3104.699951171875,
+      "predicted_day_high": 3063.58,
+      "current_price": 3104.699951171875,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. -1.32% left to predicted high.",
+      "vol_ratio": 2.5430816007437205,
+      "avg_volume": 2092183.75
+    },
+    {
+      "ticker": "ADANIPORTS.NS",
+      "symbol": "ADANIPORTS",
+      "premarket_price": 1775.0,
+      "predicted_day_high": 1760.1,
+      "current_price": 1775.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. -0.84% left to predicted high.",
+      "vol_ratio": 2.25197805885771,
+      "avg_volume": 2454521.25
+    },
+    {
+      "ticker": "APOLLOHOSP.NS",
+      "symbol": "APOLLOHOSP",
+      "premarket_price": 8967.0,
+      "predicted_day_high": 9014.4,
+      "current_price": 8967.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 0.53% left to predicted high.",
+      "vol_ratio": 0.9648030892197177,
+      "avg_volume": 389224.5
+    },
+    {
+      "ticker": "AXISBANK.NS",
+      "symbol": "AXISBANK",
+      "premarket_price": 1238.5,
+      "predicted_day_high": 1274.59,
+      "current_price": 1238.5,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 1.3831806254907186,
+      "avg_volume": 4829205.15
+    },
+    {
+      "ticker": "COALINDIA.NS",
+      "symbol": "COALINDIA",
+      "premarket_price": 431.0,
+      "predicted_day_high": 430.75,
+      "current_price": 431.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. -0.06% left to predicted high.",
+      "vol_ratio": 2.083951088773648,
+      "avg_volume": 10936703.9
+    },
+    {
+      "ticker": "DIVISLAB.NS",
+      "symbol": "DIVISLAB",
+      "premarket_price": 9488.0,
+      "predicted_day_high": 9846.75,
+      "current_price": 9488.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 3.78% left to predicted high.",
+      "vol_ratio": 0.87902186962551,
+      "avg_volume": 438297.4
+    },
+    {
+      "ticker": "HINDALCO.NS",
+      "symbol": "HINDALCO",
+      "premarket_price": 1026.9000244140625,
+      "predicted_day_high": 1037.0,
+      "current_price": 1026.9000244140625,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 0.9443562380935385,
+      "avg_volume": 3447629.05
+    },
+    {
+      "ticker": "JSWSTEEL.NS",
+      "symbol": "JSWSTEEL",
+      "premarket_price": 1310.0,
+      "predicted_day_high": 1328.61,
+      "current_price": 1310.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.42% left to predicted high.",
+      "vol_ratio": 0.8935564915503185,
+      "avg_volume": 1661571.5
+    },
+    {
+      "ticker": "NTPC.NS",
+      "symbol": "NTPC",
+      "premarket_price": 334.5,
+      "predicted_day_high": 338.05,
+      "current_price": 334.5,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.06% left to predicted high.",
+      "vol_ratio": 1.4101104465143226,
+      "avg_volume": 8364695.85
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "symbol": "TATASTEEL",
+      "premarket_price": 188.75,
+      "predicted_day_high": 189.95,
+      "current_price": 188.75,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 0.64% left to predicted high.",
+      "vol_ratio": 1.6435440400515968,
+      "avg_volume": 27979368.9
+    },
+    {
+      "ticker": "TITAN.NS",
+      "symbol": "TITAN",
+      "premarket_price": 5005.0,
+      "predicted_day_high": 5085.14,
+      "current_price": 5005.0,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 0.9786707096166751,
+      "avg_volume": 512991.75
+    }
+  ]
+}
