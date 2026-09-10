@@ -1,0 +1,73 @@
+{
+  "date": "Thursday, 10 September 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "NTPC.NS",
+      "symbol": "NTPC",
+      "entry_price": 334.5,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9334.50 vs \u20b9334.50)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.4x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.06% headroom to \u20b9338.05"
+      ],
+      "capital_allocated": 5000.0,
+      "qty": 14,
+      "target_price": 336.17,
+      "stoploss_price": 331.15,
+      "actual_capital": 4683.0,
+      "max_profit": 23.41,
+      "max_loss": 46.83
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "symbol": "TATASTEEL",
+      "entry_price": 188.75,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9188.75 vs \u20b9188.75)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 0.64% headroom to \u20b9189.95",
+        "\ud83d\udca1 Gap up +0.35% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 5000.0,
+      "qty": 26,
+      "target_price": 189.69,
+      "stoploss_price": 186.86,
+      "actual_capital": 4907.5,
+      "max_profit": 24.54,
+      "max_loss": 49.08
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "ADANIENT",
+      "reasons": [
+        "\u274c Only -1.32% headroom to \u20b93063.58"
+      ]
+    },
+    {
+      "symbol": "ADANIPORTS",
+      "reasons": [
+        "\u274c Only -0.84% headroom to \u20b91760.10"
+      ]
+    },
+    {
+      "symbol": "COALINDIA",
+      "reasons": [
+        "\u274c Only -0.06% headroom to \u20b9430.75"
+      ]
+    },
+    {
+      "symbol": "JSWSTEEL",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    }
+  ]
+}
