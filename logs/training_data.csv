@@ -117,3 +117,4 @@ date,ticker,rsi,macd_diff,sma20_ratio,sma50_ratio,atr_ratio,vol_ratio,volatility
 2026-09-09,UPL.NS,,,,,,,,,,,,11.23,,STOPLOSS_HIT,-1.0,0
 2026-09-10,NTPC.NS,,,,,,,,,,,,11.92,,TARGET_HIT,0.499,1
 2026-09-10,TATASTEEL.NS,,,,,,,,,,,,11.92,,TARGET_HIT,0.498,1
+2026-09-11,ADANIPORTS.NS,,,,,,,,,,,,11.8,,TARGET_HIT,0.5,1
