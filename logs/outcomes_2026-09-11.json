@@ -1,0 +1,122 @@
+{
+  "date": "Friday, 11 September 2026",
+  "summary": {
+    "total_pnl_inr": 43.64,
+    "targets_hit": 4,
+    "stops_hit": 0,
+    "squared_off": 0,
+    "win_rate": 100.0,
+    "total_trades": 4
+  },
+  "outcomes": [
+    {
+      "ticker": "ADANIPORTS.NS",
+      "symbol": "ADANIPORTS",
+      "entry_price": 1768.0,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91768.00 vs \u20b91768.00)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.1x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.29% headroom to \u20b91826.20"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 1,
+      "target_price": 1776.84,
+      "stoploss_price": 1750.32,
+      "actual_capital": 1768.0,
+      "max_profit": 8.84,
+      "max_loss": 17.68,
+      "day_high": 1780.0,
+      "day_low": 1750.4000244140625,
+      "day_close": 1768.0,
+      "result": "TARGET_HIT",
+      "exit_price": 1776.84,
+      "pnl_pct": 0.5,
+      "date": "2026-09-11"
+    },
+    {
+      "ticker": "COALINDIA.NS",
+      "symbol": "COALINDIA",
+      "entry_price": 432.0,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9432.00 vs \u20b9432.00)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.25% headroom to \u20b9441.70"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 5,
+      "target_price": 434.16,
+      "stoploss_price": 427.68,
+      "actual_capital": 2160.0,
+      "max_profit": 10.8,
+      "max_loss": 21.6,
+      "day_high": 436.29998779296875,
+      "day_low": 430.0,
+      "day_close": 432.0,
+      "result": "TARGET_HIT",
+      "exit_price": 434.16,
+      "pnl_pct": 0.5,
+      "date": "2026-09-11"
+    },
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "entry_price": 237.27000427246094,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9237.27 vs \u20b9237.27)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.1x)",
+        "\u2705 MACD bullish",
+        "\u2705 0.60% headroom to \u20b9238.70",
+        "\ud83d\udca1 Gap up +0.89% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 10,
+      "target_price": 238.46,
+      "stoploss_price": 234.9,
+      "actual_capital": 2372.7,
+      "max_profit": 11.86,
+      "max_loss": 23.73,
+      "day_high": 239.8000030517578,
+      "day_low": 235.60000610351562,
+      "day_close": 237.27000427246094,
+      "result": "TARGET_HIT",
+      "exit_price": 238.46,
+      "pnl_pct": 0.502,
+      "date": "2026-09-11"
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "symbol": "TATASTEEL",
+      "entry_price": 186.77999877929688,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9186.78 vs \u20b9186.78)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 4.21% headroom to \u20b9194.64"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 13,
+      "target_price": 187.71,
+      "stoploss_price": 184.91,
+      "actual_capital": 2428.14,
+      "max_profit": 12.14,
+      "max_loss": 24.28,
+      "day_high": 189.0,
+      "day_low": 185.0,
+      "day_close": 186.77999877929688,
+      "result": "TARGET_HIT",
+      "exit_price": 187.71,
+      "pnl_pct": 0.498,
+      "date": "2026-09-11"
+    }
+  ]
+}
