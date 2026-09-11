@@ -1,0 +1,125 @@
+{
+  "date": "Friday, 11 September 2026",
+  "checks": [
+    {
+      "ticker": "ADANIENT.NS",
+      "symbol": "ADANIENT",
+      "premarket_price": 3077.199951171875,
+      "predicted_day_high": 3219.32,
+      "current_price": 3077.199951171875,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 4.62% left to predicted high.",
+      "vol_ratio": 0.8123215844330576,
+      "avg_volume": 2112851.65
+    },
+    {
+      "ticker": "ADANIPORTS.NS",
+      "symbol": "ADANIPORTS",
+      "premarket_price": 1768.0,
+      "predicted_day_high": 1826.2,
+      "current_price": 1768.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 3.29% left to predicted high.",
+      "vol_ratio": 1.1027187399537477,
+      "avg_volume": 2518663.1
+    },
+    {
+      "ticker": "AXISBANK.NS",
+      "symbol": "AXISBANK",
+      "premarket_price": 1246.0,
+      "predicted_day_high": 1267.99,
+      "current_price": 1246.0,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 0.8876897009444685,
+      "avg_volume": 4675793.8
+    },
+    {
+      "ticker": "COALINDIA.NS",
+      "symbol": "COALINDIA",
+      "premarket_price": 432.0,
+      "predicted_day_high": 441.7,
+      "current_price": 432.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.25% left to predicted high.",
+      "vol_ratio": 0.7898069640242784,
+      "avg_volume": 11156107.0
+    },
+    {
+      "ticker": "GRASIM.NS",
+      "symbol": "GRASIM",
+      "premarket_price": 3319.0,
+      "predicted_day_high": 3379.73,
+      "current_price": 3319.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.83% left to predicted high.",
+      "vol_ratio": 0.9279463946315216,
+      "avg_volume": 1138303.9
+    },
+    {
+      "ticker": "JSWSTEEL.NS",
+      "symbol": "JSWSTEEL",
+      "premarket_price": 1304.0,
+      "predicted_day_high": 1341.3,
+      "current_price": 1304.0,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 0.6755575304543187,
+      "avg_volume": 1632038.65
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "premarket_price": 416.54998779296875,
+      "predicted_day_high": 422.97,
+      "current_price": 416.54998779296875,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.54% left to predicted high.",
+      "vol_ratio": 0.6481172395072827,
+      "avg_volume": 11965819.65
+    },
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "premarket_price": 237.27000427246094,
+      "predicted_day_high": 238.7,
+      "current_price": 237.27000427246094,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 0.60% left to predicted high.",
+      "vol_ratio": 1.131500209152746,
+      "avg_volume": 11287085.85
+    },
+    {
+      "ticker": "POWERGRID.NS",
+      "symbol": "POWERGRID",
+      "premarket_price": 271.75,
+      "predicted_day_high": 272.01,
+      "current_price": 271.75,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 0.10% left to predicted high.",
+      "vol_ratio": 1.4051263807524625,
+      "avg_volume": 8673708.05
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "symbol": "TATASTEEL",
+      "premarket_price": 186.77999877929688,
+      "predicted_day_high": 194.64,
+      "current_price": 186.77999877929688,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 4.21% left to predicted high.",
+      "vol_ratio": 0.8289654016842178,
+      "avg_volume": 28149078.3
+    }
+  ]
+}
