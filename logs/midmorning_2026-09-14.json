@@ -1,0 +1,149 @@
+{
+  "date": "Monday, 14 September 2026",
+  "checks": [
+    {
+      "ticker": "ADANIENT.NS",
+      "symbol": "ADANIENT",
+      "premarket_price": 3060.0,
+      "predicted_day_high": 3194.08,
+      "current_price": 3060.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 4.38% left to predicted high.",
+      "vol_ratio": 0.8561797908607693,
+      "avg_volume": 2120281.3
+    },
+    {
+      "ticker": "ADANIPORTS.NS",
+      "symbol": "ADANIPORTS",
+      "premarket_price": 1764.5999755859375,
+      "predicted_day_high": 1819.49,
+      "current_price": 1764.5999755859375,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 3.11% left to predicted high.",
+      "vol_ratio": 0.6691913629869978,
+      "avg_volume": 2502756.45
+    },
+    {
+      "ticker": "APOLLOHOSP.NS",
+      "symbol": "APOLLOHOSP",
+      "premarket_price": 8836.0,
+      "predicted_day_high": 9083.1,
+      "current_price": 8836.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.80% left to predicted high.",
+      "vol_ratio": 0.6255406693944007,
+      "avg_volume": 332400.45
+    },
+    {
+      "ticker": "BAJAJ-AUTO.NS",
+      "symbol": "BAJAJ-AUTO",
+      "premarket_price": 11678.0,
+      "predicted_day_high": 12059.37,
+      "current_price": 11678.0,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 0.966262855301765,
+      "avg_volume": 222228.35
+    },
+    {
+      "ticker": "COALINDIA.NS",
+      "symbol": "COALINDIA",
+      "premarket_price": 426.3999938964844,
+      "predicted_day_high": 443.01,
+      "current_price": 426.3999938964844,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 3.90% left to predicted high.",
+      "vol_ratio": 0.3485040726598299,
+      "avg_volume": 11099503.0
+    },
+    {
+      "ticker": "DIVISLAB.NS",
+      "symbol": "DIVISLAB",
+      "premarket_price": 9322.0,
+      "predicted_day_high": 9717.81,
+      "current_price": 9322.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 4.25% left to predicted high.",
+      "vol_ratio": 1.15651707429084,
+      "avg_volume": 446820.9
+    },
+    {
+      "ticker": "GRASIM.NS",
+      "symbol": "GRASIM",
+      "premarket_price": 3281.89990234375,
+      "predicted_day_high": 3396.18,
+      "current_price": 3281.89990234375,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 0.46400885159000754,
+      "avg_volume": 1112026.2
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "premarket_price": 419.0,
+      "predicted_day_high": 425.79,
+      "current_price": 419.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.62% left to predicted high.",
+      "vol_ratio": 1.2406384854023524,
+      "avg_volume": 12249727.2
+    },
+    {
+      "ticker": "NTPC.NS",
+      "symbol": "NTPC",
+      "premarket_price": 333.3999938964844,
+      "predicted_day_high": 342.02,
+      "current_price": 333.3999938964844,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.59% left to predicted high.",
+      "vol_ratio": 0.6134446791682235,
+      "avg_volume": 8099401.9
+    },
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "premarket_price": 232.5,
+      "predicted_day_high": 242.61,
+      "current_price": 232.5,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 2.2537469138278357,
+      "avg_volume": 12037079.6
+    },
+    {
+      "ticker": "POWERGRID.NS",
+      "symbol": "POWERGRID",
+      "premarket_price": 269.1000061035156,
+      "predicted_day_high": 277.46,
+      "current_price": 269.1000061035156,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 3.11% left to predicted high.",
+      "vol_ratio": 1.304136587486574,
+      "avg_volume": 8759104.0
+    },
+    {
+      "ticker": "UPL.NS",
+      "symbol": "UPL",
+      "premarket_price": 572.9500122070312,
+      "predicted_day_high": 588.74,
+      "current_price": 572.9500122070312,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 0.7061139879917734,
+      "avg_volume": 2052975.9
+    }
+  ]
+}
