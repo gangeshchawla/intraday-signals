@@ -1,0 +1,122 @@
+{
+  "date": "Wednesday, 16 September 2026",
+  "summary": {
+    "total_pnl_inr": 6.22,
+    "targets_hit": 3,
+    "stops_hit": 1,
+    "squared_off": 0,
+    "win_rate": 75.0,
+    "total_trades": 4
+  },
+  "outcomes": [
+    {
+      "ticker": "ADANIPORTS.NS",
+      "symbol": "ADANIPORTS",
+      "entry_price": 1713.800048828125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91713.80 vs \u20b91713.80)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 6.05% headroom to \u20b91817.49"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 1,
+      "target_price": 1722.37,
+      "stoploss_price": 1696.66,
+      "actual_capital": 1713.8,
+      "max_profit": 8.57,
+      "max_loss": 17.14,
+      "day_high": 1791.4000244140625,
+      "day_low": 1713.800048828125,
+      "day_close": 1713.800048828125,
+      "result": "TARGET_HIT",
+      "exit_price": 1722.37,
+      "pnl_pct": 0.5,
+      "date": "2026-09-16"
+    },
+    {
+      "ticker": "COALINDIA.NS",
+      "symbol": "COALINDIA",
+      "entry_price": 419.25,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9419.25 vs \u20b9419.25)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 4.29% headroom to \u20b9437.25"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 5,
+      "target_price": 421.35,
+      "stoploss_price": 415.06,
+      "actual_capital": 2096.25,
+      "max_profit": 10.48,
+      "max_loss": 20.96,
+      "day_high": 427.0,
+      "day_low": 418.0,
+      "day_close": 419.25,
+      "result": "TARGET_HIT",
+      "exit_price": 421.35,
+      "pnl_pct": 0.501,
+      "date": "2026-09-16"
+    },
+    {
+      "ticker": "HDFCBANK.NS",
+      "symbol": "HDFCBANK",
+      "entry_price": 716.5499877929688,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9716.55 vs \u20b9716.55)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.38% headroom to \u20b9726.47"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 3,
+      "target_price": 720.13,
+      "stoploss_price": 709.38,
+      "actual_capital": 2149.65,
+      "max_profit": 10.75,
+      "max_loss": 21.5,
+      "day_high": 730.75,
+      "day_low": 715.0499877929688,
+      "day_close": 716.5499877929688,
+      "result": "TARGET_HIT",
+      "exit_price": 720.13,
+      "pnl_pct": 0.5,
+      "date": "2026-09-16"
+    },
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "entry_price": 235.9499969482422,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9235.95 vs \u20b9235.95)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.4x)",
+        "\u2705 MACD bullish",
+        "\u2705 0.70% headroom to \u20b9237.61",
+        "\ud83d\udca1 Gap up +1.03% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 10,
+      "target_price": 237.13,
+      "stoploss_price": 233.59,
+      "actual_capital": 2359.5,
+      "max_profit": 11.8,
+      "max_loss": 23.59,
+      "day_high": 236.3000030517578,
+      "day_low": 233.3300018310547,
+      "day_close": 235.9499969482422,
+      "result": "STOPLOSS_HIT",
+      "exit_price": 233.59,
+      "pnl_pct": -1.0,
+      "date": "2026-09-16"
+    }
+  ]
+}
