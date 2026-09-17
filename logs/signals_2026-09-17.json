@@ -1,0 +1,54 @@
+{
+  "date": "Thursday, 17 September 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "COALINDIA.NS",
+      "symbol": "COALINDIA",
+      "entry_price": 422.25,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9422.25 vs \u20b9422.25)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.84% headroom to \u20b9430.03"
+      ],
+      "capital_allocated": 5000.0,
+      "qty": 11,
+      "target_price": 424.36,
+      "stoploss_price": 418.03,
+      "actual_capital": 4644.75,
+      "max_profit": 23.22,
+      "max_loss": 46.45
+    },
+    {
+      "ticker": "HDFCBANK.NS",
+      "symbol": "HDFCBANK",
+      "entry_price": 721.5,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9721.50 vs \u20b9721.50)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.0x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.80% headroom to \u20b9734.51"
+      ],
+      "capital_allocated": 5000.0,
+      "qty": 6,
+      "target_price": 725.11,
+      "stoploss_price": 714.28,
+      "actual_capital": 4329.0,
+      "max_profit": 21.64,
+      "max_loss": 43.29
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "DIVISLAB",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    }
+  ]
+}
