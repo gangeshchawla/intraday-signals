@@ -1,0 +1,101 @@
+{
+  "date": "Thursday, 17 September 2026",
+  "checks": [
+    {
+      "ticker": "COALINDIA.NS",
+      "symbol": "COALINDIA",
+      "premarket_price": 422.25,
+      "predicted_day_high": 430.03,
+      "current_price": 422.25,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.84% left to predicted high.",
+      "vol_ratio": 0.6499843480463419,
+      "avg_volume": 10845930.4
+    },
+    {
+      "ticker": "DIVISLAB.NS",
+      "symbol": "DIVISLAB",
+      "premarket_price": 9158.0,
+      "predicted_day_high": 9463.9,
+      "current_price": 9158.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 3.34% left to predicted high.",
+      "vol_ratio": 1.8766693019379928,
+      "avg_volume": 468010.0
+    },
+    {
+      "ticker": "HDFCBANK.NS",
+      "symbol": "HDFCBANK",
+      "premarket_price": 721.5,
+      "predicted_day_high": 734.51,
+      "current_price": 721.5,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.80% left to predicted high.",
+      "vol_ratio": 0.9707019279716338,
+      "avg_volume": 28306261.9
+    },
+    {
+      "ticker": "HINDUNILVR.NS",
+      "symbol": "HINDUNILVR",
+      "premarket_price": 1962.0,
+      "predicted_day_high": 1975.49,
+      "current_price": 1962.0,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 0.8379488700221811,
+      "avg_volume": 1209267.1
+    },
+    {
+      "ticker": "ITC.NS",
+      "symbol": "ITC",
+      "premarket_price": 264.1499938964844,
+      "predicted_day_high": 264.62,
+      "current_price": 264.1499938964844,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 1.137674775586566,
+      "avg_volume": 13360457.95
+    },
+    {
+      "ticker": "JSWSTEEL.NS",
+      "symbol": "JSWSTEEL",
+      "premarket_price": 1248.9000244140625,
+      "predicted_day_high": 1260.18,
+      "current_price": 1248.9000244140625,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 1.0949839699530028,
+      "avg_volume": 1647312.7
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "premarket_price": 415.0,
+      "predicted_day_high": 417.87,
+      "current_price": 415.0,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 0.8622277893437377,
+      "avg_volume": 12639845.45
+    },
+    {
+      "ticker": "NTPC.NS",
+      "symbol": "NTPC",
+      "premarket_price": 327.0,
+      "predicted_day_high": 335.56,
+      "current_price": 327.0,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 0.8643581635004656,
+      "avg_volume": 7585170.45
+    }
+  ]
+}
