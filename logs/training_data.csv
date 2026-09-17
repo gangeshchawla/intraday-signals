@@ -127,3 +127,4 @@ date,ticker,rsi,macd_diff,sma20_ratio,sma50_ratio,atr_ratio,vol_ratio,volatility
 2026-09-16,COALINDIA.NS,,,,,,,,,,,,13.43,,TARGET_HIT,0.501,1
 2026-09-16,HDFCBANK.NS,,,,,,,,,,,,13.43,,TARGET_HIT,0.5,1
 2026-09-16,ONGC.NS,,,,,,,,,,,,13.43,,STOPLOSS_HIT,-1.0,0
+2026-09-17,COALINDIA.NS,,,,,,,,,,,,13.43,,STOPLOSS_HIT,-0.999,0
