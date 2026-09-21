@@ -1,0 +1,94 @@
+{
+  "date": "Monday, 21 September 2026",
+  "summary": {
+    "total_pnl_inr": 40.95,
+    "targets_hit": 3,
+    "stops_hit": 0,
+    "squared_off": 0,
+    "win_rate": 100.0,
+    "total_trades": 3
+  },
+  "outcomes": [
+    {
+      "ticker": "HDFCLIFE.NS",
+      "symbol": "HDFCLIFE",
+      "entry_price": 550.9500122070312,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9550.95 vs \u20b9550.95)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.5x)",
+        "\u2705 MACD bullish",
+        "\u2705 4.26% headroom to \u20b9574.43"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 6,
+      "target_price": 553.7,
+      "stoploss_price": 545.44,
+      "actual_capital": 3305.7,
+      "max_profit": 16.53,
+      "max_loss": 33.06,
+      "day_high": 564.9500122070312,
+      "day_low": 550.9500122070312,
+      "day_close": 550.9500122070312,
+      "result": "TARGET_HIT",
+      "exit_price": 553.7,
+      "pnl_pct": 0.499,
+      "date": "2026-09-21"
+    },
+    {
+      "ticker": "SBILIFE.NS",
+      "symbol": "SBILIFE",
+      "entry_price": 1731.0,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91731.00 vs \u20b91731.00)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.0x)",
+        "\u2705 MACD bullish",
+        "\u2705 4.79% headroom to \u20b91813.99"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 1,
+      "target_price": 1739.65,
+      "stoploss_price": 1713.69,
+      "actual_capital": 1731.0,
+      "max_profit": 8.65,
+      "max_loss": 17.31,
+      "day_high": 1770.0,
+      "day_low": 1731.0,
+      "day_close": 1731.0,
+      "result": "TARGET_HIT",
+      "exit_price": 1739.65,
+      "pnl_pct": 0.5,
+      "date": "2026-09-21"
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "symbol": "TATASTEEL",
+      "entry_price": 185.5399932861328,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9185.54 vs \u20b9185.54)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.0x)",
+        "\u2705 MACD bullish",
+        "\u2705 4.03% headroom to \u20b9193.02"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 17,
+      "target_price": 186.47,
+      "stoploss_price": 183.68,
+      "actual_capital": 3154.18,
+      "max_profit": 15.77,
+      "max_loss": 31.54,
+      "day_high": 187.9600067138672,
+      "day_low": 185.5399932861328,
+      "day_close": 185.5399932861328,
+      "result": "TARGET_HIT",
+      "exit_price": 186.47,
+      "pnl_pct": 0.501,
+      "date": "2026-09-21"
+    }
+  ]
+}
