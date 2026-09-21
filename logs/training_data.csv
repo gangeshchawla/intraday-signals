@@ -131,3 +131,4 @@ date,ticker,rsi,macd_diff,sma20_ratio,sma50_ratio,atr_ratio,vol_ratio,volatility
 2026-09-17,HDFCBANK.NS,,,,,,,,,,,,13.43,,TARGET_HIT,0.5,1
 2026-09-18,HDFCBANK.NS,,,,,,,,,,,,12.29,,TARGET_HIT,0.499,1
 2026-09-18,ITC.NS,,,,,,,,,,,,12.29,,TARGET_HIT,0.5,1
+2026-09-21,HDFCLIFE.NS,,,,,,,,,,,,11.39,,TARGET_HIT,0.499,1
