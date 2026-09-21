@@ -1,0 +1,137 @@
+{
+  "date": "Monday, 21 September 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "HDFCLIFE.NS",
+      "symbol": "HDFCLIFE",
+      "entry_price": 550.9500122070312,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9550.95 vs \u20b9550.95)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.5x)",
+        "\u2705 MACD bullish",
+        "\u2705 4.26% headroom to \u20b9574.43"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 6,
+      "target_price": 553.7,
+      "stoploss_price": 545.44,
+      "actual_capital": 3305.7,
+      "max_profit": 16.53,
+      "max_loss": 33.06
+    },
+    {
+      "ticker": "SBILIFE.NS",
+      "symbol": "SBILIFE",
+      "entry_price": 1731.0,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91731.00 vs \u20b91731.00)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.0x)",
+        "\u2705 MACD bullish",
+        "\u2705 4.79% headroom to \u20b91813.99"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 1,
+      "target_price": 1739.65,
+      "stoploss_price": 1713.69,
+      "actual_capital": 1731.0,
+      "max_profit": 8.65,
+      "max_loss": 17.31
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "symbol": "TATASTEEL",
+      "entry_price": 185.5399932861328,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9185.54 vs \u20b9185.54)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.0x)",
+        "\u2705 MACD bullish",
+        "\u2705 4.03% headroom to \u20b9193.02"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 17,
+      "target_price": 186.47,
+      "stoploss_price": 183.68,
+      "actual_capital": 3154.18,
+      "max_profit": 15.77,
+      "max_loss": 31.54
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "ADANIENT",
+      "reasons": [
+        "\u274c MACD bearish",
+        "\u274c Only -0.05% headroom to \u20b93018.35"
+      ]
+    },
+    {
+      "symbol": "ADANIPORTS",
+      "reasons": [
+        "\u274c Only -1.97% headroom to \u20b91788.14"
+      ]
+    },
+    {
+      "symbol": "APOLLOHOSP",
+      "reasons": [
+        "\u274c Only 0.03% headroom to \u20b98947.43"
+      ]
+    },
+    {
+      "symbol": "AXISBANK",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "BHARTIARTL",
+      "reasons": [
+        "\u274c Only -1.12% headroom to \u20b91872.10"
+      ]
+    },
+    {
+      "symbol": "BPCL",
+      "reasons": [
+        "\u274c MACD bearish",
+        "\u274c Only 0.48% headroom to \u20b9315.52"
+      ]
+    },
+    {
+      "symbol": "DIVISLAB",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "DRREDDY",
+      "reasons": [
+        "\u274c Only -1.45% headroom to \u20b91167.82"
+      ]
+    },
+    {
+      "symbol": "HDFCBANK",
+      "reasons": [
+        "\u274c Only -0.22% headroom to \u20b9729.41"
+      ]
+    },
+    {
+      "symbol": "POWERGRID",
+      "reasons": [
+        "\u274c Only -0.67% headroom to \u20b9268.49"
+      ]
+    },
+    {
+      "symbol": "UPL",
+      "reasons": [
+        "\u274c MACD bearish",
+        "\u274c Only -1.92% headroom to \u20b9568.88"
+      ]
+    }
+  ]
+}
