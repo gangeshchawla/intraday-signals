@@ -1,0 +1,17 @@
+{
+  "date": "Tuesday, 22 September 2026",
+  "checks": [
+    {
+      "ticker": "BHARTIARTL.NS",
+      "symbol": "BHARTIARTL",
+      "premarket_price": NaN,
+      "predicted_day_high": NaN,
+      "current_price": NaN,
+      "vs_8am_pct": NaN,
+      "status": "REVERSED",
+      "note": "Moved against prediction. Will be excluded from 10:05 AM signals.",
+      "vol_ratio": 0.0963592406457987,
+      "avg_volume": 6062610.35
+    }
+  ]
+}
