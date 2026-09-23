@@ -1,0 +1,113 @@
+{
+  "date": "Wednesday, 23 September 2026",
+  "checks": [
+    {
+      "ticker": "ADANIENT.NS",
+      "symbol": "ADANIENT",
+      "premarket_price": 2997.0,
+      "predicted_day_high": 3064.58,
+      "current_price": 2997.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.25% left to predicted high.",
+      "vol_ratio": 0.3800665577465614,
+      "avg_volume": 2088442.1
+    },
+    {
+      "ticker": "ADANIPORTS.NS",
+      "symbol": "ADANIPORTS",
+      "premarket_price": 1795.0,
+      "predicted_day_high": 1835.26,
+      "current_price": 1795.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.24% left to predicted high.",
+      "vol_ratio": 0.34323571328359825,
+      "avg_volume": 2540338.8
+    },
+    {
+      "ticker": "BPCL.NS",
+      "symbol": "BPCL",
+      "premarket_price": 313.6000061035156,
+      "predicted_day_high": 321.02,
+      "current_price": 313.6000061035156,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.37% left to predicted high.",
+      "vol_ratio": 2.3089615246641166,
+      "avg_volume": 4746566.75
+    },
+    {
+      "ticker": "COALINDIA.NS",
+      "symbol": "COALINDIA",
+      "premarket_price": 428.0,
+      "predicted_day_high": 424.94,
+      "current_price": 428.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. -0.71% left to predicted high.",
+      "vol_ratio": 1.5425417161097035,
+      "avg_volume": 10810841.5
+    },
+    {
+      "ticker": "DIVISLAB.NS",
+      "symbol": "DIVISLAB",
+      "premarket_price": 9352.0,
+      "predicted_day_high": 9634.69,
+      "current_price": 9352.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 3.02% left to predicted high.",
+      "vol_ratio": 0.5858346105561657,
+      "avg_volume": 501315.55
+    },
+    {
+      "ticker": "DRREDDY.NS",
+      "symbol": "DRREDDY",
+      "premarket_price": 1211.0,
+      "predicted_day_high": 1226.43,
+      "current_price": 1211.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.27% left to predicted high.",
+      "vol_ratio": 2.521050065517229,
+      "avg_volume": 1330833.15
+    },
+    {
+      "ticker": "HDFCBANK.NS",
+      "symbol": "HDFCBANK",
+      "premarket_price": 738.5999755859375,
+      "predicted_day_high": 755.63,
+      "current_price": 738.5999755859375,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.31% left to predicted high.",
+      "vol_ratio": 1.1346028234671104,
+      "avg_volume": 31274088.4
+    },
+    {
+      "ticker": "ITC.NS",
+      "symbol": "ITC",
+      "premarket_price": 265.79998779296875,
+      "predicted_day_high": 272.36,
+      "current_price": 265.79998779296875,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.47% left to predicted high.",
+      "vol_ratio": 0.5579461655589739,
+      "avg_volume": 12864766.25
+    },
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "premarket_price": 236.1300048828125,
+      "predicted_day_high": 240.82,
+      "current_price": 236.1300048828125,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.99% left to predicted high.",
+      "vol_ratio": 0.8161669079995888,
+      "avg_volume": 9920976.85
+    }
+  ]
+}
