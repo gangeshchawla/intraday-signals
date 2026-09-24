@@ -1,0 +1,122 @@
+{
+  "date": "Thursday, 24 September 2026",
+  "summary": {
+    "total_pnl_inr": -22.62,
+    "targets_hit": 2,
+    "stops_hit": 2,
+    "squared_off": 0,
+    "win_rate": 50.0,
+    "total_trades": 4
+  },
+  "outcomes": [
+    {
+      "ticker": "BPCL.NS",
+      "symbol": "BPCL",
+      "entry_price": 315.75,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9315.75 vs \u20b9315.75)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.4x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.90% headroom to \u20b9321.76",
+        "\ud83d\udca1 Gap up +0.34% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 7,
+      "target_price": 317.33,
+      "stoploss_price": 312.59,
+      "actual_capital": 2210.25,
+      "max_profit": 11.05,
+      "max_loss": 22.1,
+      "day_high": 315.8999938964844,
+      "day_low": 312.54998779296875,
+      "day_close": 315.75,
+      "result": "STOPLOSS_HIT",
+      "exit_price": 312.59,
+      "pnl_pct": -1.001,
+      "date": "2026-09-24"
+    },
+    {
+      "ticker": "DRREDDY.NS",
+      "symbol": "DRREDDY",
+      "entry_price": 1211.199951171875,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91211.20 vs \u20b91211.20)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.34% headroom to \u20b91239.59"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 2,
+      "target_price": 1217.26,
+      "stoploss_price": 1199.09,
+      "actual_capital": 2422.4,
+      "max_profit": 12.11,
+      "max_loss": 24.22,
+      "day_high": 1220.5,
+      "day_low": 1205.9000244140625,
+      "day_close": 1211.199951171875,
+      "result": "TARGET_HIT",
+      "exit_price": 1217.26,
+      "pnl_pct": 0.5,
+      "date": "2026-09-24"
+    },
+    {
+      "ticker": "HDFCBANK.NS",
+      "symbol": "HDFCBANK",
+      "entry_price": 737.25,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9737.25 vs \u20b9737.25)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.34% headroom to \u20b9754.49"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 3,
+      "target_price": 740.94,
+      "stoploss_price": 729.88,
+      "actual_capital": 2211.75,
+      "max_profit": 11.06,
+      "max_loss": 22.12,
+      "day_high": 742.7999877929688,
+      "day_low": 734.0,
+      "day_close": 737.25,
+      "result": "TARGET_HIT",
+      "exit_price": 740.94,
+      "pnl_pct": 0.501,
+      "date": "2026-09-24"
+    },
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "entry_price": 236.89999389648438,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9236.90 vs \u20b9236.90)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.9x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.86% headroom to \u20b9241.31"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 10,
+      "target_price": 238.08,
+      "stoploss_price": 234.53,
+      "actual_capital": 2369.0,
+      "max_profit": 11.84,
+      "max_loss": 23.69,
+      "day_high": 236.89999389648438,
+      "day_low": 234.1999969482422,
+      "day_close": 236.89999389648438,
+      "result": "STOPLOSS_HIT",
+      "exit_price": 234.53,
+      "pnl_pct": -1.0,
+      "date": "2026-09-24"
+    }
+  ]
+}
