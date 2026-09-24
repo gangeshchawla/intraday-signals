@@ -141,3 +141,4 @@ date,ticker,rsi,macd_diff,sma20_ratio,sma50_ratio,atr_ratio,vol_ratio,volatility
 2026-09-23,ONGC.NS,,,,,,,,,,,,11.25,,STOPLOSS_HIT,-0.999,0
 2026-09-24,BPCL.NS,,,,,,,,,,,,10.35,,STOPLOSS_HIT,-1.001,0
 2026-09-24,DRREDDY.NS,,,,,,,,,,,,10.35,,TARGET_HIT,0.5,1
+2026-09-24,HDFCBANK.NS,,,,,,,,,,,,10.35,,TARGET_HIT,0.501,1
