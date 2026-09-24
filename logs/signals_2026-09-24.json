@@ -1,0 +1,131 @@
+{
+  "date": "Thursday, 24 September 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "BPCL.NS",
+      "symbol": "BPCL",
+      "entry_price": 315.75,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9315.75 vs \u20b9315.75)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.4x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.90% headroom to \u20b9321.76",
+        "\ud83d\udca1 Gap up +0.34% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 7,
+      "target_price": 317.33,
+      "stoploss_price": 312.59,
+      "actual_capital": 2210.25,
+      "max_profit": 11.05,
+      "max_loss": 22.1
+    },
+    {
+      "ticker": "DRREDDY.NS",
+      "symbol": "DRREDDY",
+      "entry_price": 1211.199951171875,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91211.20 vs \u20b91211.20)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.34% headroom to \u20b91239.59"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 2,
+      "target_price": 1217.26,
+      "stoploss_price": 1199.09,
+      "actual_capital": 2422.4,
+      "max_profit": 12.11,
+      "max_loss": 24.22
+    },
+    {
+      "ticker": "HDFCBANK.NS",
+      "symbol": "HDFCBANK",
+      "entry_price": 737.25,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9737.25 vs \u20b9737.25)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.34% headroom to \u20b9754.49"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 3,
+      "target_price": 740.94,
+      "stoploss_price": 729.88,
+      "actual_capital": 2211.75,
+      "max_profit": 11.06,
+      "max_loss": 22.12
+    },
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "entry_price": 236.89999389648438,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9236.90 vs \u20b9236.90)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.9x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.86% headroom to \u20b9241.31"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 10,
+      "target_price": 238.08,
+      "stoploss_price": 234.53,
+      "actual_capital": 2369.0,
+      "max_profit": 11.84,
+      "max_loss": 23.69
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "APOLLOHOSP",
+      "reasons": [
+        "\u274c Only -0.49% headroom to \u20b99024.18"
+      ]
+    },
+    {
+      "symbol": "BAJFINANCE",
+      "reasons": [
+        "\u274c Only -0.95% headroom to \u20b91033.30"
+      ]
+    },
+    {
+      "symbol": "COALINDIA",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "HINDALCO",
+      "reasons": [
+        "\u274c Only -0.54% headroom to \u20b9998.37"
+      ]
+    },
+    {
+      "symbol": "ITC",
+      "reasons": [
+        "\u274c Only 0.39% headroom to \u20b9271.21"
+      ]
+    },
+    {
+      "symbol": "POWERGRID",
+      "reasons": [
+        "\u274c Only 0.44% headroom to \u20b9271.40"
+      ]
+    },
+    {
+      "symbol": "TATASTEEL",
+      "reasons": [
+        "\u274c Only -0.16% headroom to \u20b9190.51"
+      ]
+    }
+  ]
+}
