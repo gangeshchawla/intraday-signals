@@ -1,0 +1,173 @@
+{
+  "date": "Friday, 25 September 2026",
+  "checks": [
+    {
+      "ticker": "ADANIPORTS.NS",
+      "symbol": "ADANIPORTS",
+      "premarket_price": 1785.300048828125,
+      "predicted_day_high": 1854.68,
+      "current_price": 1785.300048828125,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 3.89% left to predicted high.",
+      "vol_ratio": 0.6410199907282808,
+      "avg_volume": 2480014.7
+    },
+    {
+      "ticker": "APOLLOHOSP.NS",
+      "symbol": "APOLLOHOSP",
+      "premarket_price": 8888.5,
+      "predicted_day_high": 9264.78,
+      "current_price": 8888.5,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 4.23% left to predicted high.",
+      "vol_ratio": 1.3961077591728146,
+      "avg_volume": 274410.05
+    },
+    {
+      "ticker": "CIPLA.NS",
+      "symbol": "CIPLA",
+      "premarket_price": 1399.0,
+      "predicted_day_high": 1412.51,
+      "current_price": 1399.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 0.97% left to predicted high.",
+      "vol_ratio": 1.8066078080807204,
+      "avg_volume": 875001.2
+    },
+    {
+      "ticker": "COALINDIA.NS",
+      "symbol": "COALINDIA",
+      "premarket_price": 422.0,
+      "predicted_day_high": 434.55,
+      "current_price": 422.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.97% left to predicted high.",
+      "vol_ratio": 0.3268484134499583,
+      "avg_volume": 10909528.25
+    },
+    {
+      "ticker": "DIVISLAB.NS",
+      "symbol": "DIVISLAB",
+      "premarket_price": 9602.0,
+      "predicted_day_high": 9868.04,
+      "current_price": 9602.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.77% left to predicted high.",
+      "vol_ratio": 1.3404484300424504,
+      "avg_volume": 497346.25
+    },
+    {
+      "ticker": "DRREDDY.NS",
+      "symbol": "DRREDDY",
+      "premarket_price": 1200.4000244140625,
+      "predicted_day_high": 1239.87,
+      "current_price": 1200.4000244140625,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 3.29% left to predicted high.",
+      "vol_ratio": 1.271389907638947,
+      "avg_volume": 1311710.9
+    },
+    {
+      "ticker": "HDFCBANK.NS",
+      "symbol": "HDFCBANK",
+      "premarket_price": 728.9000244140625,
+      "predicted_day_high": 753.51,
+      "current_price": 728.9000244140625,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 3.38% left to predicted high.",
+      "vol_ratio": 0.9687530785141295,
+      "avg_volume": 30529135.5
+    },
+    {
+      "ticker": "ITC.NS",
+      "symbol": "ITC",
+      "premarket_price": 268.0,
+      "predicted_day_high": 275.57,
+      "current_price": 268.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.82% left to predicted high.",
+      "vol_ratio": 0.5750534918540743,
+      "avg_volume": 12865370.1
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "premarket_price": 405.0,
+      "predicted_day_high": 421.49,
+      "current_price": 405.0,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 1.2171313411487228,
+      "avg_volume": 10516404.9
+    },
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "premarket_price": 239.0,
+      "predicted_day_high": 242.24,
+      "current_price": 239.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.36% left to predicted high.",
+      "vol_ratio": 0.8574915983198639,
+      "avg_volume": 9905340.2
+    },
+    {
+      "ticker": "POWERGRID.NS",
+      "symbol": "POWERGRID",
+      "premarket_price": 266.3999938964844,
+      "predicted_day_high": 275.88,
+      "current_price": 266.3999938964844,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 1.0357160772638099,
+      "avg_volume": 8659702.4
+    },
+    {
+      "ticker": "SBILIFE.NS",
+      "symbol": "SBILIFE",
+      "premarket_price": NaN,
+      "predicted_day_high": NaN,
+      "current_price": NaN,
+      "vs_8am_pct": NaN,
+      "status": "REVERSED",
+      "note": "Moved against prediction. Will be excluded from 10:05 AM signals.",
+      "vol_ratio": 0.22638919068094332,
+      "avg_volume": 951676.05
+    },
+    {
+      "ticker": "SHREECEM.NS",
+      "symbol": "SHREECEM",
+      "premarket_price": 22350.0,
+      "predicted_day_high": 23076.25,
+      "current_price": 22350.0,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 0.9505155954801822,
+      "avg_volume": 18022.85
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "symbol": "TATASTEEL",
+      "premarket_price": 188.02000427246094,
+      "predicted_day_high": 196.15,
+      "current_price": 188.02000427246094,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 4.32% left to predicted high.",
+      "vol_ratio": 0.5685854651891737,
+      "avg_volume": 27615107.95
+    }
+  ]
+}
