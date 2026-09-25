@@ -1,0 +1,95 @@
+{
+  "date": "Friday, 25 September 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "HDFCBANK.NS",
+      "symbol": "HDFCBANK",
+      "entry_price": 728.9000244140625,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9728.90 vs \u20b9728.90)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.0x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.38% headroom to \u20b9753.51"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 3,
+      "target_price": 732.54,
+      "stoploss_price": 721.61,
+      "actual_capital": 2186.7,
+      "max_profit": 10.93,
+      "max_loss": 21.87
+    },
+    {
+      "ticker": "ITC.NS",
+      "symbol": "ITC",
+      "entry_price": 268.0,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9268.00 vs \u20b9268.00)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.82% headroom to \u20b9275.57"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 9,
+      "target_price": 269.34,
+      "stoploss_price": 265.32,
+      "actual_capital": 2412.0,
+      "max_profit": 12.06,
+      "max_loss": 24.12
+    },
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "entry_price": 239.0,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9239.00 vs \u20b9239.00)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.9x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.36% headroom to \u20b9242.24"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 10,
+      "target_price": 240.19,
+      "stoploss_price": 236.61,
+      "actual_capital": 2390.0,
+      "max_profit": 11.95,
+      "max_loss": 23.9
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "symbol": "TATASTEEL",
+      "entry_price": 188.02000427246094,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9188.02 vs \u20b9188.02)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 4.32% headroom to \u20b9196.15"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 13,
+      "target_price": 188.96,
+      "stoploss_price": 186.14,
+      "actual_capital": 2444.26,
+      "max_profit": 12.22,
+      "max_loss": 24.44
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "COALINDIA",
+      "reasons": [
+        "\u274c Weak volume (0.3x avg)",
+        "\u274c MACD bearish"
+      ]
+    }
+  ]
+}
