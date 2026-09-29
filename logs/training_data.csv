@@ -152,3 +152,4 @@ date,ticker,rsi,macd_diff,sma20_ratio,sma50_ratio,atr_ratio,vol_ratio,volatility
 2026-09-28,ONGC.NS,,,,,,,,,,,,12.16,,TARGET_HIT,0.5,1
 2026-09-28,POWERGRID.NS,,,,,,,,,,,,12.16,,SQUARED_OFF,0.0,0
 2026-09-28,TATASTEEL.NS,,,,,,,,,,,,12.16,,TARGET_HIT,0.5,1
+2026-09-29,DRREDDY.NS,,,,,,,,,,,,13.64,,TARGET_HIT,0.5,1
