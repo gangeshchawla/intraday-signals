@@ -1,0 +1,122 @@
+{
+  "date": "Tuesday, 29 September 2026",
+  "summary": {
+    "total_pnl_inr": 47.08,
+    "targets_hit": 4,
+    "stops_hit": 0,
+    "squared_off": 0,
+    "win_rate": 100.0,
+    "total_trades": 4
+  },
+  "outcomes": [
+    {
+      "ticker": "DRREDDY.NS",
+      "symbol": "DRREDDY",
+      "entry_price": 1221.0,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91221.00 vs \u20b91221.00)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (2.4x)",
+        "\u2705 MACD bullish",
+        "\u2705 0.78% headroom to \u20b91230.53",
+        "\ud83d\udca1 Gap up +0.88% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 2,
+      "target_price": 1227.1,
+      "stoploss_price": 1208.79,
+      "actual_capital": 2442.0,
+      "max_profit": 12.21,
+      "max_loss": 24.42,
+      "day_high": 1229.800048828125,
+      "day_low": 1204.0,
+      "day_close": 1221.0,
+      "result": "TARGET_HIT",
+      "exit_price": 1227.1,
+      "pnl_pct": 0.5,
+      "date": "2026-09-29"
+    },
+    {
+      "ticker": "HDFCBANK.NS",
+      "symbol": "HDFCBANK",
+      "entry_price": 719.0499877929688,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9719.05 vs \u20b9719.05)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 4.79% headroom to \u20b9753.48"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 3,
+      "target_price": 722.65,
+      "stoploss_price": 711.86,
+      "actual_capital": 2157.15,
+      "max_profit": 10.79,
+      "max_loss": 21.57,
+      "day_high": 733.0,
+      "day_low": 718.0999755859375,
+      "day_close": 719.0499877929688,
+      "result": "TARGET_HIT",
+      "exit_price": 722.65,
+      "pnl_pct": 0.501,
+      "date": "2026-09-29"
+    },
+    {
+      "ticker": "ITC.NS",
+      "symbol": "ITC",
+      "entry_price": 265.20001220703125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9265.20 vs \u20b9265.20)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.53% headroom to \u20b9274.56"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 9,
+      "target_price": 266.53,
+      "stoploss_price": 262.55,
+      "actual_capital": 2386.8,
+      "max_profit": 11.93,
+      "max_loss": 23.87,
+      "day_high": 269.29998779296875,
+      "day_low": 265.0,
+      "day_close": 265.20001220703125,
+      "result": "TARGET_HIT",
+      "exit_price": 266.53,
+      "pnl_pct": 0.502,
+      "date": "2026-09-29"
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "symbol": "TATASTEEL",
+      "entry_price": 186.3000030517578,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9186.30 vs \u20b9186.30)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.5x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.66% headroom to \u20b9193.12"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 13,
+      "target_price": 187.23,
+      "stoploss_price": 184.44,
+      "actual_capital": 2421.9,
+      "max_profit": 12.11,
+      "max_loss": 24.22,
+      "day_high": 188.5800018310547,
+      "day_low": 185.25,
+      "day_close": 186.3000030517578,
+      "result": "TARGET_HIT",
+      "exit_price": 187.23,
+      "pnl_pct": 0.499,
+      "date": "2026-09-29"
+    }
+  ]
+}
