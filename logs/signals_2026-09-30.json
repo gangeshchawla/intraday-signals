@@ -1,0 +1,113 @@
+{
+  "date": "Wednesday, 30 September 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "HDFCBANK.NS",
+      "symbol": "HDFCBANK",
+      "entry_price": 722.7000122070312,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9722.70 vs \u20b9722.70)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.5x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.97% headroom to \u20b9736.92"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 3,
+      "target_price": 726.31,
+      "stoploss_price": 715.47,
+      "actual_capital": 2168.1,
+      "max_profit": 10.84,
+      "max_loss": 21.68
+    },
+    {
+      "ticker": "ITC.NS",
+      "symbol": "ITC",
+      "entry_price": 265.1000061035156,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9265.10 vs \u20b9265.10)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.3x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.10% headroom to \u20b9270.68"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 9,
+      "target_price": 266.43,
+      "stoploss_price": 262.45,
+      "actual_capital": 2385.9,
+      "max_profit": 11.93,
+      "max_loss": 23.86
+    },
+    {
+      "ticker": "SBILIFE.NS",
+      "symbol": "SBILIFE",
+      "entry_price": 1735.0,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91735.00 vs \u20b91735.00)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.38% headroom to \u20b91776.29"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 1,
+      "target_price": 1743.67,
+      "stoploss_price": 1717.65,
+      "actual_capital": 1735.0,
+      "max_profit": 8.68,
+      "max_loss": 17.35
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "symbol": "TATASTEEL",
+      "entry_price": 188.0,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9188.00 vs \u20b9188.00)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.2x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.74% headroom to \u20b9191.28"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 13,
+      "target_price": 188.94,
+      "stoploss_price": 186.12,
+      "actual_capital": 2444.0,
+      "max_profit": 12.22,
+      "max_loss": 24.44
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "ADANIENT",
+      "reasons": [
+        "\u274c MACD bearish",
+        "\u274c Only -1.63% headroom to \u20b92924.32"
+      ]
+    },
+    {
+      "symbol": "ADANIPORTS",
+      "reasons": [
+        "\u274c Only -1.59% headroom to \u20b91792.94"
+      ]
+    },
+    {
+      "symbol": "COALINDIA",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "DRREDDY",
+      "reasons": [
+        "\u274c Only 0.00% headroom to \u20b91251.94"
+      ]
+    }
+  ]
+}
