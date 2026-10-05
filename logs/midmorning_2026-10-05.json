@@ -1,0 +1,125 @@
+{
+  "date": "Monday, 05 October 2026",
+  "checks": [
+    {
+      "ticker": "ADANIPORTS.NS",
+      "symbol": "ADANIPORTS",
+      "premarket_price": 1737.800048828125,
+      "predicted_day_high": 1853.85,
+      "current_price": NaN,
+      "vs_8am_pct": NaN,
+      "status": "REVERSED",
+      "note": "Moved against prediction. Will be excluded from 10:05 AM signals.",
+      "vol_ratio": 0.228142207549455,
+      "avg_volume": 1947992.25
+    },
+    {
+      "ticker": "ASIANPAINT.NS",
+      "symbol": "ASIANPAINT",
+      "premarket_price": 2407.0,
+      "predicted_day_high": 2453.7,
+      "current_price": NaN,
+      "vs_8am_pct": NaN,
+      "status": "REVERSED",
+      "note": "Moved against prediction. Will be excluded from 10:05 AM signals.",
+      "vol_ratio": 0.18549687112775354,
+      "avg_volume": 530074.95
+    },
+    {
+      "ticker": "COALINDIA.NS",
+      "symbol": "COALINDIA",
+      "premarket_price": 420.3999938964844,
+      "predicted_day_high": 434.32,
+      "current_price": NaN,
+      "vs_8am_pct": NaN,
+      "status": "REVERSED",
+      "note": "Moved against prediction. Will be excluded from 10:05 AM signals.",
+      "vol_ratio": 0.16819977891738358,
+      "avg_volume": 7450657.7
+    },
+    {
+      "ticker": "DIVISLAB.NS",
+      "symbol": "DIVISLAB",
+      "premarket_price": 9249.0,
+      "predicted_day_high": 9524.29,
+      "current_price": NaN,
+      "vs_8am_pct": NaN,
+      "status": "REVERSED",
+      "note": "Moved against prediction. Will be excluded from 10:05 AM signals.",
+      "vol_ratio": 0.13563942220442105,
+      "avg_volume": 481808.35
+    },
+    {
+      "ticker": "DRREDDY.NS",
+      "symbol": "DRREDDY",
+      "premarket_price": 1206.199951171875,
+      "predicted_day_high": 1264.95,
+      "current_price": NaN,
+      "vs_8am_pct": NaN,
+      "status": "REVERSED",
+      "note": "Moved against prediction. Will be excluded from 10:05 AM signals.",
+      "vol_ratio": 0.2522130876747504,
+      "avg_volume": 1927627.8
+    },
+    {
+      "ticker": "HDFCBANK.NS",
+      "symbol": "HDFCBANK",
+      "premarket_price": 721.2000122070312,
+      "predicted_day_high": 725.97,
+      "current_price": NaN,
+      "vs_8am_pct": NaN,
+      "status": "REVERSED",
+      "note": "Moved against prediction. Will be excluded from 10:05 AM signals.",
+      "vol_ratio": 0.8961958317720549,
+      "avg_volume": 28391656.9
+    },
+    {
+      "ticker": "HEROMOTOCO.NS",
+      "symbol": "HEROMOTOCO",
+      "premarket_price": 5168.0,
+      "predicted_day_high": 5384.87,
+      "current_price": NaN,
+      "vs_8am_pct": NaN,
+      "status": "REVERSED",
+      "note": "Moved against prediction. Will be excluded from 10:05 AM signals.",
+      "vol_ratio": 1.0440398548530274,
+      "avg_volume": 468554.85
+    },
+    {
+      "ticker": "INFY.NS",
+      "symbol": "INFY",
+      "premarket_price": 1035.0,
+      "predicted_day_high": 1025.27,
+      "current_price": NaN,
+      "vs_8am_pct": NaN,
+      "status": "REVERSED",
+      "note": "Moved against prediction. Will be excluded from 10:05 AM signals.",
+      "vol_ratio": 0.531181402523461,
+      "avg_volume": 9252498.85
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "premarket_price": 418.3500061035156,
+      "predicted_day_high": 427.88,
+      "current_price": NaN,
+      "vs_8am_pct": NaN,
+      "status": "REVERSED",
+      "note": "Moved against prediction. Will be excluded from 10:05 AM signals.",
+      "vol_ratio": 0.35050967020616636,
+      "avg_volume": 16186266.85
+    },
+    {
+      "ticker": "SBILIFE.NS",
+      "symbol": "SBILIFE",
+      "premarket_price": 1721.5999755859375,
+      "predicted_day_high": 1748.28,
+      "current_price": NaN,
+      "vs_8am_pct": NaN,
+      "status": "REVERSED",
+      "note": "Moved against prediction. Will be excluded from 10:05 AM signals.",
+      "vol_ratio": 0.13963141298271914,
+      "avg_volume": 1217531.5
+    }
+  ]
+}
