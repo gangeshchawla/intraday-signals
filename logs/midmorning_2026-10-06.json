@@ -1,0 +1,77 @@
+{
+  "date": "Tuesday, 06 October 2026",
+  "checks": [
+    {
+      "ticker": "ADANIPORTS.NS",
+      "symbol": "ADANIPORTS",
+      "premarket_price": 1774.0,
+      "predicted_day_high": 1790.31,
+      "current_price": 1774.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 0.92% left to predicted high.",
+      "vol_ratio": 1.4214481076651164,
+      "avg_volume": 1964773.8
+    },
+    {
+      "ticker": "ASIANPAINT.NS",
+      "symbol": "ASIANPAINT",
+      "premarket_price": 2366.0,
+      "predicted_day_high": 2458.28,
+      "current_price": 2366.0,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 1.6845925220597924,
+      "avg_volume": 543902.45
+    },
+    {
+      "ticker": "COALINDIA.NS",
+      "symbol": "COALINDIA",
+      "premarket_price": 425.1000061035156,
+      "predicted_day_high": 429.82,
+      "current_price": 425.1000061035156,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.11% left to predicted high.",
+      "vol_ratio": 1.1329679232473926,
+      "avg_volume": 6852885.1
+    },
+    {
+      "ticker": "DIVISLAB.NS",
+      "symbol": "DIVISLAB",
+      "premarket_price": 9196.0,
+      "predicted_day_high": 9473.25,
+      "current_price": 9196.0,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 1.0259093706512963,
+      "avg_volume": 468207.05
+    },
+    {
+      "ticker": "ITC.NS",
+      "symbol": "ITC",
+      "premarket_price": 268.8999938964844,
+      "predicted_day_high": 262.34,
+      "current_price": 268.8999938964844,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. -2.44% left to predicted high.",
+      "vol_ratio": 3.990640935847802,
+      "avg_volume": 12283920.5
+    },
+    {
+      "ticker": "TCS.NS",
+      "symbol": "TCS",
+      "premarket_price": 2114.39990234375,
+      "predicted_day_high": 2144.41,
+      "current_price": 2114.39990234375,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 1.7129928508081678,
+      "avg_volume": 3076935.2
+    }
+  ]
+}
