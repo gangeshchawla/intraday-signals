@@ -1,0 +1,26 @@
+{
+  "date": "Tuesday, 06 October 2026",
+  "total_capital": 10000,
+  "orders": [],
+  "skipped": [
+    {
+      "symbol": "ADANIPORTS",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "COALINDIA",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "ITC",
+      "reasons": [
+        "\u274c MACD bearish",
+        "\u274c Only -2.44% headroom to \u20b9262.34"
+      ]
+    }
+  ]
+}
