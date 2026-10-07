@@ -1,0 +1,40 @@
+{
+  "date": "Wednesday, 07 October 2026",
+  "summary": {
+    "total_pnl_inr": -94.0,
+    "targets_hit": 0,
+    "stops_hit": 1,
+    "squared_off": 0,
+    "win_rate": 0.0,
+    "total_trades": 1
+  },
+  "outcomes": [
+    {
+      "ticker": "ICICIBANK.NS",
+      "symbol": "ICICIBANK",
+      "entry_price": 1342.800048828125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91342.80 vs \u20b91342.80)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.4x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.10% headroom to \u20b91357.51"
+      ],
+      "capital_allocated": 10000.0,
+      "qty": 7,
+      "target_price": 1349.51,
+      "stoploss_price": 1329.37,
+      "actual_capital": 9399.6,
+      "max_profit": 47.0,
+      "max_loss": 94.0,
+      "day_high": 1343.5,
+      "day_low": 1327.9000244140625,
+      "day_close": 1342.800048828125,
+      "result": "STOPLOSS_HIT",
+      "exit_price": 1329.37,
+      "pnl_pct": -1.0,
+      "date": "2026-10-07"
+    }
+  ]
+}
