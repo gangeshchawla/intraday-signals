@@ -1,0 +1,65 @@
+{
+  "date": "Wednesday, 07 October 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "ICICIBANK.NS",
+      "symbol": "ICICIBANK",
+      "entry_price": 1342.800048828125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91342.80 vs \u20b91342.80)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.4x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.10% headroom to \u20b91357.51"
+      ],
+      "capital_allocated": 10000.0,
+      "qty": 7,
+      "target_price": 1349.51,
+      "stoploss_price": 1329.37,
+      "actual_capital": 9399.6,
+      "max_profit": 47.0,
+      "max_loss": 94.0
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "BHARTIARTL",
+      "reasons": [
+        "\u274c MACD bearish",
+        "\u274c Only 0.49% headroom to \u20b91819.41"
+      ]
+    },
+    {
+      "symbol": "DRREDDY",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "HDFCLIFE",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "ITC",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "KOTAKBANK",
+      "reasons": [
+        "\u274c Only -0.95% headroom to \u20b9427.79"
+      ]
+    },
+    {
+      "symbol": "SBILIFE",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    }
+  ]
+}
