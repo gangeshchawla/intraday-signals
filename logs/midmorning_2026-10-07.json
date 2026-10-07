@@ -1,0 +1,137 @@
+{
+  "date": "Wednesday, 07 October 2026",
+  "checks": [
+    {
+      "ticker": "ASIANPAINT.NS",
+      "symbol": "ASIANPAINT",
+      "premarket_price": 2424.199951171875,
+      "predicted_day_high": 2419.36,
+      "current_price": 2424.199951171875,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 0.8031103753433074,
+      "avg_volume": 547213.7
+    },
+    {
+      "ticker": "BHARTIARTL.NS",
+      "symbol": "BHARTIARTL",
+      "premarket_price": 1810.5,
+      "predicted_day_high": 1819.41,
+      "current_price": 1810.5,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 0.49% left to predicted high.",
+      "vol_ratio": 0.9597597836773701,
+      "avg_volume": 5371291.95
+    },
+    {
+      "ticker": "DRREDDY.NS",
+      "symbol": "DRREDDY",
+      "premarket_price": 1208.0,
+      "predicted_day_high": 1234.22,
+      "current_price": 1208.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.17% left to predicted high.",
+      "vol_ratio": 0.7858489242022783,
+      "avg_volume": 2084497.35
+    },
+    {
+      "ticker": "HDFCLIFE.NS",
+      "symbol": "HDFCLIFE",
+      "premarket_price": 543.9500122070312,
+      "predicted_day_high": 551.02,
+      "current_price": 543.9500122070312,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.30% left to predicted high.",
+      "vol_ratio": 1.6555875805977327,
+      "avg_volume": 5034237.45
+    },
+    {
+      "ticker": "ICICIBANK.NS",
+      "symbol": "ICICIBANK",
+      "premarket_price": 1342.800048828125,
+      "predicted_day_high": 1357.51,
+      "current_price": 1342.800048828125,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.10% left to predicted high.",
+      "vol_ratio": 1.3769390420042011,
+      "avg_volume": 8861286.25
+    },
+    {
+      "ticker": "INFY.NS",
+      "symbol": "INFY",
+      "premarket_price": 1013.8499755859375,
+      "predicted_day_high": 1049.24,
+      "current_price": 1013.8499755859375,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 0.8891980935942716,
+      "avg_volume": 9280511.35
+    },
+    {
+      "ticker": "ITC.NS",
+      "symbol": "ITC",
+      "premarket_price": 266.70001220703125,
+      "predicted_day_high": 275.27,
+      "current_price": 266.70001220703125,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 3.21% left to predicted high.",
+      "vol_ratio": 1.6998734941367053,
+      "avg_volume": 13020226.55
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "premarket_price": 431.8999938964844,
+      "predicted_day_high": 427.79,
+      "current_price": 431.8999938964844,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. -0.95% left to predicted high.",
+      "vol_ratio": 2.243688433188114,
+      "avg_volume": 17837557.75
+    },
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "premarket_price": 224.1999969482422,
+      "predicted_day_high": 230.03,
+      "current_price": 224.1999969482422,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 1.7360007103354247,
+      "avg_volume": 11044922.9
+    },
+    {
+      "ticker": "SBILIFE.NS",
+      "symbol": "SBILIFE",
+      "premarket_price": 1750.0,
+      "predicted_day_high": 1760.99,
+      "current_price": 1750.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 0.63% left to predicted high.",
+      "vol_ratio": 0.8116207775835887,
+      "avg_volume": 1160524.75
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "symbol": "WIPRO",
+      "premarket_price": 161.83999633789062,
+      "predicted_day_high": 166.13,
+      "current_price": 161.83999633789062,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 0.8325861616834486,
+      "avg_volume": 19681889.7
+    }
+  ]
+}
