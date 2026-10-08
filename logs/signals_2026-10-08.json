@@ -1,0 +1,115 @@
+{
+  "date": "Thursday, 08 October 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "AXISBANK.NS",
+      "symbol": "AXISBANK",
+      "entry_price": 1242.5,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91242.50 vs \u20b91242.50)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.94% headroom to \u20b91279.09"
+      ],
+      "capital_allocated": 2000.0,
+      "qty": 1,
+      "target_price": 1248.71,
+      "stoploss_price": 1230.08,
+      "actual_capital": 1242.5,
+      "max_profit": 6.21,
+      "max_loss": 12.43
+    },
+    {
+      "ticker": "BHARTIARTL.NS",
+      "symbol": "BHARTIARTL",
+      "entry_price": 1833.9000244140625,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91833.90 vs \u20b91833.90)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (2.4x)",
+        "\u2705 MACD bullish",
+        "\u2705 0.99% headroom to \u20b91852.14",
+        "\ud83d\udca1 Gap up +0.69% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 2000.0,
+      "qty": 1,
+      "target_price": 1843.07,
+      "stoploss_price": 1815.56,
+      "actual_capital": 1833.9,
+      "max_profit": 9.17,
+      "max_loss": 18.34
+    },
+    {
+      "ticker": "ICICIBANK.NS",
+      "symbol": "ICICIBANK",
+      "entry_price": 1357.5,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91357.50 vs \u20b91357.50)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 0.88% headroom to \u20b91369.50"
+      ],
+      "capital_allocated": 2000.0,
+      "qty": 1,
+      "target_price": 1364.29,
+      "stoploss_price": 1343.92,
+      "actual_capital": 1357.5,
+      "max_profit": 6.79,
+      "max_loss": 13.58
+    },
+    {
+      "ticker": "ITC.NS",
+      "symbol": "ITC",
+      "entry_price": 265.70001220703125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9265.70 vs \u20b9265.70)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (3.3x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.78% headroom to \u20b9273.08"
+      ],
+      "capital_allocated": 2000.0,
+      "qty": 7,
+      "target_price": 267.03,
+      "stoploss_price": 263.04,
+      "actual_capital": 1859.9,
+      "max_profit": 9.3,
+      "max_loss": 18.6
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "entry_price": 440.0,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9440.00 vs \u20b9440.00)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (2.0x)",
+        "\u2705 MACD bullish",
+        "\u2705 0.98% headroom to \u20b9444.32"
+      ],
+      "capital_allocated": 2000.0,
+      "qty": 4,
+      "target_price": 442.2,
+      "stoploss_price": 435.6,
+      "actual_capital": 1760.0,
+      "max_profit": 8.8,
+      "max_loss": 17.6
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "SBILIFE",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    }
+  ]
+}
