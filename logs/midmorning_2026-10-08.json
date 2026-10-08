@@ -1,0 +1,101 @@
+{
+  "date": "Thursday, 08 October 2026",
+  "checks": [
+    {
+      "ticker": "ADANIPORTS.NS",
+      "symbol": "ADANIPORTS",
+      "premarket_price": 1750.0999755859375,
+      "predicted_day_high": 1838.3,
+      "current_price": 1750.0999755859375,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 0.6706612311471012,
+      "avg_volume": 1771140.1
+    },
+    {
+      "ticker": "AXISBANK.NS",
+      "symbol": "AXISBANK",
+      "premarket_price": 1242.5,
+      "predicted_day_high": 1279.09,
+      "current_price": 1242.5,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.94% left to predicted high.",
+      "vol_ratio": 1.8145905482731148,
+      "avg_volume": 5333666.6
+    },
+    {
+      "ticker": "BHARTIARTL.NS",
+      "symbol": "BHARTIARTL",
+      "premarket_price": 1833.9000244140625,
+      "predicted_day_high": 1852.14,
+      "current_price": 1833.9000244140625,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 0.99% left to predicted high.",
+      "vol_ratio": 2.4048570368241995,
+      "avg_volume": 5788632.25
+    },
+    {
+      "ticker": "COALINDIA.NS",
+      "symbol": "COALINDIA",
+      "premarket_price": 414.5,
+      "predicted_day_high": 421.78,
+      "current_price": 414.5,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 1.0584069145112454,
+      "avg_volume": 6047085.4
+    },
+    {
+      "ticker": "ICICIBANK.NS",
+      "symbol": "ICICIBANK",
+      "premarket_price": 1357.5,
+      "predicted_day_high": 1369.5,
+      "current_price": 1357.5,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 0.88% left to predicted high.",
+      "vol_ratio": 1.662154169938155,
+      "avg_volume": 8888538.3
+    },
+    {
+      "ticker": "ITC.NS",
+      "symbol": "ITC",
+      "premarket_price": 265.70001220703125,
+      "predicted_day_high": 273.08,
+      "current_price": 265.70001220703125,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.78% left to predicted high.",
+      "vol_ratio": 3.3309710046493555,
+      "avg_volume": 15018231.9
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "premarket_price": 440.0,
+      "predicted_day_high": 444.32,
+      "current_price": 440.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 0.98% left to predicted high.",
+      "vol_ratio": 1.9785537400503674,
+      "avg_volume": 19191845.15
+    },
+    {
+      "ticker": "SBILIFE.NS",
+      "symbol": "SBILIFE",
+      "premarket_price": 1726.0999755859375,
+      "predicted_day_high": 1798.99,
+      "current_price": 1726.0999755859375,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 4.22% left to predicted high.",
+      "vol_ratio": 0.8872403516104354,
+      "avg_volume": 1161029.25
+    }
+  ]
+}
