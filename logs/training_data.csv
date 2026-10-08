@@ -168,3 +168,4 @@ date,ticker,rsi,macd_diff,sma20_ratio,sma50_ratio,atr_ratio,vol_ratio,volatility
 2026-10-08,AXISBANK.NS,,,,,,,,,,,,13.89,,TARGET_HIT,0.5,1
 2026-10-08,BHARTIARTL.NS,,,,,,,,,,,,13.89,,TARGET_HIT,0.5,1
 2026-10-08,ICICIBANK.NS,,,,,,,,,,,,13.89,,STOPLOSS_HIT,-1.0,0
+2026-10-08,ITC.NS,,,,,,,,,,,,13.89,,TARGET_HIT,0.501,1
