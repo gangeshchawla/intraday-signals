@@ -1,0 +1,65 @@
+{
+  "date": "Friday, 09 October 2026",
+  "checks": [
+    {
+      "ticker": "AXISBANK.NS",
+      "symbol": "AXISBANK",
+      "premarket_price": 1245.0,
+      "predicted_day_high": 1275.5,
+      "current_price": 1245.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.45% left to predicted high.",
+      "vol_ratio": 1.2195706784687819,
+      "avg_volume": 6035697.75
+    },
+    {
+      "ticker": "BHARTIARTL.NS",
+      "symbol": "BHARTIARTL",
+      "premarket_price": 1804.5999755859375,
+      "predicted_day_high": 1880.17,
+      "current_price": 1804.5999755859375,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 1.0290730511014106,
+      "avg_volume": 6396454.55
+    },
+    {
+      "ticker": "HDFCLIFE.NS",
+      "symbol": "HDFCLIFE",
+      "premarket_price": 544.5,
+      "predicted_day_high": 565.04,
+      "current_price": 544.5,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 3.77% left to predicted high.",
+      "vol_ratio": 0.469245943614578,
+      "avg_volume": 5285552.35
+    },
+    {
+      "ticker": "ICICIBANK.NS",
+      "symbol": "ICICIBANK",
+      "premarket_price": 1349.0,
+      "predicted_day_high": 1385.87,
+      "current_price": 1349.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.73% left to predicted high.",
+      "vol_ratio": 1.109591508805734,
+      "avg_volume": 10163880.05
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "premarket_price": 435.0,
+      "predicted_day_high": 453.0,
+      "current_price": 435.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 4.14% left to predicted high.",
+      "vol_ratio": 1.0589845435399,
+      "avg_volume": 20839603.5
+    }
+  ]
+}
