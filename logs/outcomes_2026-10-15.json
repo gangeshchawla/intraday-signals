@@ -1,0 +1,122 @@
+{
+  "date": "Thursday, 15 October 2026",
+  "summary": {
+    "total_pnl_inr": 44.56,
+    "targets_hit": 4,
+    "stops_hit": 0,
+    "squared_off": 0,
+    "win_rate": 100.0,
+    "total_trades": 4
+  },
+  "outcomes": [
+    {
+      "ticker": "HDFCLIFE.NS",
+      "symbol": "HDFCLIFE",
+      "entry_price": 544.0499877929688,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9544.05 vs \u20b9544.05)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.5x)",
+        "\u2705 MACD bullish",
+        "\u2705 6.62% headroom to \u20b9580.07"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 4,
+      "target_price": 546.77,
+      "stoploss_price": 538.61,
+      "actual_capital": 2176.2,
+      "max_profit": 10.88,
+      "max_loss": 21.76,
+      "day_high": 559.0999755859375,
+      "day_low": 540.2999877929688,
+      "day_close": 544.0499877929688,
+      "result": "TARGET_HIT",
+      "exit_price": 546.77,
+      "pnl_pct": 0.5,
+      "date": "2026-10-15"
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "entry_price": 438.04998779296875,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9438.05 vs \u20b9438.05)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.1x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.23% headroom to \u20b9452.20"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 5,
+      "target_price": 440.24,
+      "stoploss_price": 433.67,
+      "actual_capital": 2190.25,
+      "max_profit": 10.95,
+      "max_loss": 21.9,
+      "day_high": 444.8999938964844,
+      "day_low": 437.20001220703125,
+      "day_close": 438.04998779296875,
+      "result": "TARGET_HIT",
+      "exit_price": 440.24,
+      "pnl_pct": 0.5,
+      "date": "2026-10-15"
+    },
+    {
+      "ticker": "UPL.NS",
+      "symbol": "UPL",
+      "entry_price": 541.6500244140625,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9541.65 vs \u20b9541.65)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.2x)",
+        "\u2705 MACD bullish",
+        "\u2705 0.60% headroom to \u20b9544.90"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 4,
+      "target_price": 544.36,
+      "stoploss_price": 536.23,
+      "actual_capital": 2166.6,
+      "max_profit": 10.83,
+      "max_loss": 21.67,
+      "day_high": 544.5,
+      "day_low": 519.0499877929688,
+      "day_close": 541.6500244140625,
+      "result": "TARGET_HIT",
+      "exit_price": 544.36,
+      "pnl_pct": 0.5,
+      "date": "2026-10-15"
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "symbol": "WIPRO",
+      "entry_price": 170.9199981689453,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9170.92 vs \u20b9170.92)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.80% headroom to \u20b9173.99",
+        "\ud83d\udca1 Gap up +0.48% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 14,
+      "target_price": 171.77,
+      "stoploss_price": 169.21,
+      "actual_capital": 2392.88,
+      "max_profit": 11.96,
+      "max_loss": 23.93,
+      "day_high": 172.4499969482422,
+      "day_low": 169.10000610351562,
+      "day_close": 170.9199981689453,
+      "result": "TARGET_HIT",
+      "exit_price": 171.77,
+      "pnl_pct": 0.497,
+      "date": "2026-10-15"
+    }
+  ]
+}
