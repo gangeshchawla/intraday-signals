@@ -1,0 +1,101 @@
+{
+  "date": "Thursday, 15 October 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "HDFCLIFE.NS",
+      "symbol": "HDFCLIFE",
+      "entry_price": 544.0499877929688,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9544.05 vs \u20b9544.05)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.5x)",
+        "\u2705 MACD bullish",
+        "\u2705 6.62% headroom to \u20b9580.07"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 4,
+      "target_price": 546.77,
+      "stoploss_price": 538.61,
+      "actual_capital": 2176.2,
+      "max_profit": 10.88,
+      "max_loss": 21.76
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "entry_price": 438.04998779296875,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9438.05 vs \u20b9438.05)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.1x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.23% headroom to \u20b9452.20"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 5,
+      "target_price": 440.24,
+      "stoploss_price": 433.67,
+      "actual_capital": 2190.25,
+      "max_profit": 10.95,
+      "max_loss": 21.9
+    },
+    {
+      "ticker": "UPL.NS",
+      "symbol": "UPL",
+      "entry_price": 541.6500244140625,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9541.65 vs \u20b9541.65)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.2x)",
+        "\u2705 MACD bullish",
+        "\u2705 0.60% headroom to \u20b9544.90"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 4,
+      "target_price": 544.36,
+      "stoploss_price": 536.23,
+      "actual_capital": 2166.6,
+      "max_profit": 10.83,
+      "max_loss": 21.67
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "symbol": "WIPRO",
+      "entry_price": 170.9199981689453,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9170.92 vs \u20b9170.92)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.80% headroom to \u20b9173.99",
+        "\ud83d\udca1 Gap up +0.48% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 14,
+      "target_price": 171.77,
+      "stoploss_price": 169.21,
+      "actual_capital": 2392.88,
+      "max_profit": 11.96,
+      "max_loss": 23.93
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "BRITANNIA",
+      "reasons": [
+        "\u274c Only -0.17% headroom to \u20b94919.69"
+      ]
+    },
+    {
+      "symbol": "NESTLEIND",
+      "reasons": [
+        "\u274c Only -0.82% headroom to \u20b91371.89"
+      ]
+    }
+  ]
+}
