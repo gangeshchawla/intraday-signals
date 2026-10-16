@@ -1,0 +1,133 @@
+{
+  "date": "Friday, 16 October 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "INFY.NS",
+      "symbol": "INFY",
+      "entry_price": 1110.0,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91110.00 vs \u20b91110.00)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.3x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.37% headroom to \u20b91125.25",
+        "\ud83d\udca1 Gap up +1.01% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 2,
+      "target_price": 1115.55,
+      "stoploss_price": 1098.9,
+      "actual_capital": 2220.0,
+      "max_profit": 11.1,
+      "max_loss": 22.2
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "entry_price": 447.95001220703125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9447.95 vs \u20b9447.95)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.3x)",
+        "\u2705 MACD bullish",
+        "\u2705 0.76% headroom to \u20b9451.36",
+        "\ud83d\udca1 Gap up +0.36% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 5,
+      "target_price": 450.19,
+      "stoploss_price": 443.47,
+      "actual_capital": 2239.75,
+      "max_profit": 11.2,
+      "max_loss": 22.4
+    },
+    {
+      "ticker": "UPL.NS",
+      "symbol": "UPL",
+      "entry_price": 541.0499877929688,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9541.05 vs \u20b9541.05)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.91% headroom to \u20b9562.18"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 4,
+      "target_price": 543.76,
+      "stoploss_price": 535.64,
+      "actual_capital": 2164.2,
+      "max_profit": 10.82,
+      "max_loss": 21.64
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "symbol": "WIPRO",
+      "entry_price": 174.0500030517578,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9174.05 vs \u20b9174.05)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.5x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.14% headroom to \u20b9176.03",
+        "\ud83d\udca1 Gap up +1.22% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 14,
+      "target_price": 174.92,
+      "stoploss_price": 172.31,
+      "actual_capital": 2436.7,
+      "max_profit": 12.18,
+      "max_loss": 24.37
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "BHARTIARTL",
+      "reasons": [
+        "\u274c Only -0.65% headroom to \u20b91842.04"
+      ]
+    },
+    {
+      "symbol": "COALINDIA",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "HDFCBANK",
+      "reasons": [
+        "\u274c Only 0.44% headroom to \u20b9730.07"
+      ]
+    },
+    {
+      "symbol": "HDFCLIFE",
+      "reasons": [
+        "\u274c Weak volume (0.4x avg)"
+      ]
+    },
+    {
+      "symbol": "ICICIBANK",
+      "reasons": [
+        "\u274c Only -1.21% headroom to \u20b91372.65"
+      ]
+    },
+    {
+      "symbol": "RELIANCE",
+      "reasons": [
+        "\u274c Only -0.77% headroom to \u20b91205.66"
+      ]
+    },
+    {
+      "symbol": "TECHM",
+      "reasons": [
+        "\u274c Only -1.11% headroom to \u20b91631.69"
+      ]
+    }
+  ]
+}
