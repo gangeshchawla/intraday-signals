@@ -1,0 +1,173 @@
+{
+  "date": "Thursday, 22 October 2026",
+  "checks": [
+    {
+      "ticker": "BAJFINANCE.NS",
+      "symbol": "BAJFINANCE",
+      "premarket_price": 926.0,
+      "predicted_day_high": 991.37,
+      "current_price": 926.0,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 2.1647017564738142,
+      "avg_volume": 8572575.85
+    },
+    {
+      "ticker": "EICHERMOT.NS",
+      "symbol": "EICHERMOT",
+      "premarket_price": 7170.5,
+      "predicted_day_high": 7568.77,
+      "current_price": 7170.5,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 5.55% left to predicted high.",
+      "vol_ratio": 1.4096226710726096,
+      "avg_volume": 404953.05
+    },
+    {
+      "ticker": "HCLTECH.NS",
+      "symbol": "HCLTECH",
+      "premarket_price": 1424.199951171875,
+      "predicted_day_high": 1429.64,
+      "current_price": 1424.199951171875,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 0.38% left to predicted high.",
+      "vol_ratio": 0.9220284247668983,
+      "avg_volume": 4638898.2
+    },
+    {
+      "ticker": "HEROMOTOCO.NS",
+      "symbol": "HEROMOTOCO",
+      "premarket_price": 5153.5,
+      "predicted_day_high": 5404.6,
+      "current_price": 5153.5,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 0.7965214222844759,
+      "avg_volume": 507172.8
+    },
+    {
+      "ticker": "ICICIBANK.NS",
+      "symbol": "ICICIBANK",
+      "premarket_price": 1385.0,
+      "predicted_day_high": 1416.12,
+      "current_price": 1385.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.25% left to predicted high.",
+      "vol_ratio": 1.4998621812883497,
+      "avg_volume": 11692897.0
+    },
+    {
+      "ticker": "INFY.NS",
+      "symbol": "INFY",
+      "premarket_price": 1168.0,
+      "predicted_day_high": 1172.27,
+      "current_price": 1168.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 0.37% left to predicted high.",
+      "vol_ratio": 1.406846269681989,
+      "avg_volume": 13219637.0
+    },
+    {
+      "ticker": "ITC.NS",
+      "symbol": "ITC",
+      "premarket_price": 262.0,
+      "predicted_day_high": 269.26,
+      "current_price": 262.0,
+      "vs_8am_pct": 0.0,
+      "status": "LAGGING",
+      "note": "Slightly below 8AM price. Momentum is weak but not reversed.",
+      "vol_ratio": 1.0279228060956356,
+      "avg_volume": 20429784.1
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "premarket_price": 437.79998779296875,
+      "predicted_day_high": 455.56,
+      "current_price": 437.79998779296875,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 4.06% left to predicted high.",
+      "vol_ratio": 0.47230512829441496,
+      "avg_volume": 25114984.55
+    },
+    {
+      "ticker": "RELIANCE.NS",
+      "symbol": "RELIANCE",
+      "premarket_price": 1209.0,
+      "predicted_day_high": 1234.88,
+      "current_price": 1209.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.14% left to predicted high.",
+      "vol_ratio": 1.1963519297266358,
+      "avg_volume": 14717929.2
+    },
+    {
+      "ticker": "TATACONSUM.NS",
+      "symbol": "TATACONSUM",
+      "premarket_price": 970.6500244140625,
+      "predicted_day_high": 990.55,
+      "current_price": 970.6500244140625,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.05% left to predicted high.",
+      "vol_ratio": 0.5564445663388657,
+      "avg_volume": 1314069.8
+    },
+    {
+      "ticker": "TCS.NS",
+      "symbol": "TCS",
+      "premarket_price": 2529.0,
+      "predicted_day_high": 2555.71,
+      "current_price": 2529.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.06% left to predicted high.",
+      "vol_ratio": 1.015800811418345,
+      "avg_volume": 5618569.05
+    },
+    {
+      "ticker": "TECHM.NS",
+      "symbol": "TECHM",
+      "premarket_price": 1834.699951171875,
+      "predicted_day_high": 1847.25,
+      "current_price": 1834.699951171875,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 0.68% left to predicted high.",
+      "vol_ratio": 1.4492346967395175,
+      "avg_volume": 3757049.85
+    },
+    {
+      "ticker": "ULTRACEMCO.NS",
+      "symbol": "ULTRACEMCO",
+      "premarket_price": 10849.0,
+      "predicted_day_high": 10986.26,
+      "current_price": 10849.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.27% left to predicted high.",
+      "vol_ratio": 1.273383031260557,
+      "avg_volume": 310965.35
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "symbol": "WIPRO",
+      "premarket_price": 189.1699981689453,
+      "predicted_day_high": 188.52,
+      "current_price": 189.1699981689453,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. -0.34% left to predicted high.",
+      "vol_ratio": 1.4181692251909803,
+      "avg_volume": 26666204.8
+    }
+  ]
+}
