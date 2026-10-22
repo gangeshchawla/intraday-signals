@@ -1,0 +1,94 @@
+{
+  "date": "Thursday, 22 October 2026",
+  "summary": {
+    "total_pnl_inr": -1.71,
+    "targets_hit": 2,
+    "stops_hit": 1,
+    "squared_off": 0,
+    "win_rate": 66.7,
+    "total_trades": 3
+  },
+  "outcomes": [
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "entry_price": 437.79998779296875,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9437.80 vs \u20b9437.80)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.5x)",
+        "\u2705 MACD bullish",
+        "\u2705 4.06% headroom to \u20b9455.56"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 7,
+      "target_price": 439.99,
+      "stoploss_price": 433.42,
+      "actual_capital": 3064.6,
+      "max_profit": 15.32,
+      "max_loss": 30.65,
+      "day_high": 446.8500061035156,
+      "day_low": 434.5,
+      "day_close": 437.79998779296875,
+      "result": "TARGET_HIT",
+      "exit_price": 439.99,
+      "pnl_pct": 0.5,
+      "date": "2026-10-22"
+    },
+    {
+      "ticker": "RELIANCE.NS",
+      "symbol": "RELIANCE",
+      "entry_price": 1209.0,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91209.00 vs \u20b91209.00)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.2x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.14% headroom to \u20b91234.88"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 2,
+      "target_price": 1215.04,
+      "stoploss_price": 1196.91,
+      "actual_capital": 2418.0,
+      "max_profit": 12.09,
+      "max_loss": 24.18,
+      "day_high": 1234.300048828125,
+      "day_low": 1199.300048828125,
+      "day_close": 1209.0,
+      "result": "TARGET_HIT",
+      "exit_price": 1215.04,
+      "pnl_pct": 0.5,
+      "date": "2026-10-22"
+    },
+    {
+      "ticker": "TATACONSUM.NS",
+      "symbol": "TATACONSUM",
+      "entry_price": 970.6500244140625,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9970.65 vs \u20b9970.65)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.05% headroom to \u20b9990.55"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 3,
+      "target_price": 975.5,
+      "stoploss_price": 960.94,
+      "actual_capital": 2911.95,
+      "max_profit": 14.56,
+      "max_loss": 29.12,
+      "day_high": 972.7999877929688,
+      "day_low": 960.9000244140625,
+      "day_close": 970.6500244140625,
+      "result": "STOPLOSS_HIT",
+      "exit_price": 960.94,
+      "pnl_pct": -1.0,
+      "date": "2026-10-22"
+    }
+  ]
+}
