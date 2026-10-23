@@ -1,0 +1,67 @@
+{
+  "date": "Friday, 23 October 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "entry_price": 437.0,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9437.00 vs \u20b9437.00)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.13% headroom to \u20b9450.69"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 7,
+      "target_price": 439.18,
+      "stoploss_price": 432.63,
+      "actual_capital": 3059.0,
+      "max_profit": 15.29,
+      "max_loss": 30.59
+    },
+    {
+      "ticker": "SBIN.NS",
+      "symbol": "SBIN",
+      "entry_price": 970.0,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9970.00 vs \u20b9970.00)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.66% headroom to \u20b9986.07"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 3,
+      "target_price": 974.85,
+      "stoploss_price": 960.3,
+      "actual_capital": 2910.0,
+      "max_profit": 14.55,
+      "max_loss": 29.1
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "symbol": "WIPRO",
+      "entry_price": 190.41000366210938,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9190.41 vs \u20b9190.41)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.67% headroom to \u20b9195.49"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 17,
+      "target_price": 191.36,
+      "stoploss_price": 188.51,
+      "actual_capital": 3236.97,
+      "max_profit": 16.18,
+      "max_loss": 32.37
+    }
+  ],
+  "skipped": []
+}
