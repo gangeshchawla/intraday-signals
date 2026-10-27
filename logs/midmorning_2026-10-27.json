@@ -1,0 +1,173 @@
+{
+  "date": "Tuesday, 27 October 2026",
+  "checks": [
+    {
+      "ticker": "BHARTIARTL.NS",
+      "symbol": "BHARTIARTL",
+      "premarket_price": 1917.5,
+      "predicted_day_high": 1951.2,
+      "current_price": 1917.5,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.76% left to predicted high.",
+      "vol_ratio": 0.36267308808082593,
+      "avg_volume": 8255128.65
+    },
+    {
+      "ticker": "CIPLA.NS",
+      "symbol": "CIPLA",
+      "premarket_price": 1355.0,
+      "predicted_day_high": 1371.0,
+      "current_price": 1355.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.18% left to predicted high.",
+      "vol_ratio": 1.5837697426180342,
+      "avg_volume": 977685.05
+    },
+    {
+      "ticker": "DRREDDY.NS",
+      "symbol": "DRREDDY",
+      "premarket_price": 1310.9000244140625,
+      "predicted_day_high": 1269.46,
+      "current_price": 1310.9000244140625,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. -3.16% left to predicted high.",
+      "vol_ratio": 3.870336733808729,
+      "avg_volume": 2584599.4
+    },
+    {
+      "ticker": "ICICIBANK.NS",
+      "symbol": "ICICIBANK",
+      "premarket_price": 1403.0,
+      "predicted_day_high": 1427.74,
+      "current_price": 1403.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.76% left to predicted high.",
+      "vol_ratio": 0.6358269207245192,
+      "avg_volume": 12481503.6
+    },
+    {
+      "ticker": "INFY.NS",
+      "symbol": "INFY",
+      "premarket_price": 1166.0,
+      "predicted_day_high": 1205.99,
+      "current_price": 1166.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 3.43% left to predicted high.",
+      "vol_ratio": 1.6275296078657275,
+      "avg_volume": 15953362.0
+    },
+    {
+      "ticker": "JSWSTEEL.NS",
+      "symbol": "JSWSTEEL",
+      "premarket_price": 1260.0,
+      "predicted_day_high": 1229.54,
+      "current_price": 1260.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. -2.42% left to predicted high.",
+      "vol_ratio": 1.6092937447226319,
+      "avg_volume": 1924076.95
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "premarket_price": 440.75,
+      "predicted_day_high": 443.16,
+      "current_price": 440.75,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 0.55% left to predicted high.",
+      "vol_ratio": 1.2013348515667799,
+      "avg_volume": 27124199.35
+    },
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "premarket_price": 228.44000244140625,
+      "predicted_day_high": 232.26,
+      "current_price": 228.44000244140625,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.67% left to predicted high.",
+      "vol_ratio": 0.6132193736523026,
+      "avg_volume": 10397595.5
+    },
+    {
+      "ticker": "RELIANCE.NS",
+      "symbol": "RELIANCE",
+      "premarket_price": 1201.800048828125,
+      "predicted_day_high": 1224.97,
+      "current_price": 1201.800048828125,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.93% left to predicted high.",
+      "vol_ratio": 0.5014544476207476,
+      "avg_volume": 14937578.15
+    },
+    {
+      "ticker": "SBIN.NS",
+      "symbol": "SBIN",
+      "premarket_price": 960.7999877929688,
+      "predicted_day_high": 982.02,
+      "current_price": 960.7999877929688,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 2.21% left to predicted high.",
+      "vol_ratio": 0.7027042845969274,
+      "avg_volume": 9506222.1
+    },
+    {
+      "ticker": "TCS.NS",
+      "symbol": "TCS",
+      "premarket_price": 2535.0,
+      "predicted_day_high": 2627.89,
+      "current_price": 2535.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 3.66% left to predicted high.",
+      "vol_ratio": 0.7204084791942563,
+      "avg_volume": 6004966.8
+    },
+    {
+      "ticker": "TECHM.NS",
+      "symbol": "TECHM",
+      "premarket_price": 1795.0,
+      "predicted_day_high": 1860.34,
+      "current_price": 1795.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 3.64% left to predicted high.",
+      "vol_ratio": 0.9560193045420058,
+      "avg_volume": 4153437.05
+    },
+    {
+      "ticker": "ULTRACEMCO.NS",
+      "symbol": "ULTRACEMCO",
+      "premarket_price": 11180.0,
+      "predicted_day_high": 11393.74,
+      "current_price": 11180.0,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 1.91% left to predicted high.",
+      "vol_ratio": 0.8982230520271708,
+      "avg_volume": 306337.05
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "symbol": "WIPRO",
+      "premarket_price": 189.1999969482422,
+      "predicted_day_high": 196.52,
+      "current_price": 189.1999969482422,
+      "vs_8am_pct": 0.0,
+      "status": "ON TRACK",
+      "note": "Moving as expected. 3.87% left to predicted high.",
+      "vol_ratio": 0.3894622796715547,
+      "avg_volume": 29286861.9
+    }
+  ]
+}
