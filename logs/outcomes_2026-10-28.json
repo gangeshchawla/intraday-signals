@@ -1,0 +1,94 @@
+{
+  "date": "Wednesday, 28 October 2026",
+  "summary": {
+    "total_pnl_inr": -48.96,
+    "targets_hit": 1,
+    "stops_hit": 2,
+    "squared_off": 0,
+    "win_rate": 33.3,
+    "total_trades": 3
+  },
+  "outcomes": [
+    {
+      "ticker": "BPCL.NS",
+      "symbol": "BPCL",
+      "entry_price": 295.6000061035156,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9295.60 vs \u20b9295.60)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.1x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.61% headroom to \u20b9300.35"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 11,
+      "target_price": 297.08,
+      "stoploss_price": 292.64,
+      "actual_capital": 3251.6,
+      "max_profit": 16.26,
+      "max_loss": 32.52,
+      "day_high": 295.6000061035156,
+      "day_low": 286.6000061035156,
+      "day_close": 295.6000061035156,
+      "result": "STOPLOSS_HIT",
+      "exit_price": 292.64,
+      "pnl_pct": -1.001,
+      "date": "2026-10-28"
+    },
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "entry_price": 229.85000610351562,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9229.85 vs \u20b9229.85)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.9x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.46% headroom to \u20b9233.21"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 14,
+      "target_price": 231.0,
+      "stoploss_price": 227.55,
+      "actual_capital": 3217.9,
+      "max_profit": 16.09,
+      "max_loss": 32.18,
+      "day_high": 229.85000610351562,
+      "day_low": 225.74000549316406,
+      "day_close": 229.85000610351562,
+      "result": "STOPLOSS_HIT",
+      "exit_price": 227.55,
+      "pnl_pct": -1.001,
+      "date": "2026-10-28"
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "symbol": "WIPRO",
+      "entry_price": 187.0,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9187.00 vs \u20b9187.00)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 4.83% headroom to \u20b9196.04"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 17,
+      "target_price": 187.93,
+      "stoploss_price": 185.13,
+      "actual_capital": 3179.0,
+      "max_profit": 15.89,
+      "max_loss": 31.79,
+      "day_high": 188.88999938964844,
+      "day_low": 184.82000732421875,
+      "day_close": 187.0,
+      "result": "TARGET_HIT",
+      "exit_price": 187.93,
+      "pnl_pct": 0.497,
+      "date": "2026-10-28"
+    }
+  ]
+}
