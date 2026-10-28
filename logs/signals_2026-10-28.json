@@ -1,0 +1,98 @@
+{
+  "date": "Wednesday, 28 October 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "BPCL.NS",
+      "symbol": "BPCL",
+      "entry_price": 295.6000061035156,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9295.60 vs \u20b9295.60)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.1x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.61% headroom to \u20b9300.35"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 11,
+      "target_price": 297.08,
+      "stoploss_price": 292.64,
+      "actual_capital": 3251.6,
+      "max_profit": 16.26,
+      "max_loss": 32.52
+    },
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "entry_price": 229.85000610351562,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9229.85 vs \u20b9229.85)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.9x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.46% headroom to \u20b9233.21"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 14,
+      "target_price": 231.0,
+      "stoploss_price": 227.55,
+      "actual_capital": 3217.9,
+      "max_profit": 16.09,
+      "max_loss": 32.18
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "symbol": "WIPRO",
+      "entry_price": 187.0,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9187.00 vs \u20b9187.00)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 4.83% headroom to \u20b9196.04"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 17,
+      "target_price": 187.93,
+      "stoploss_price": 185.13,
+      "actual_capital": 3179.0,
+      "max_profit": 15.89,
+      "max_loss": 31.79
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "BAJAJ-AUTO",
+      "reasons": [
+        "\u274c Only 0.24% headroom to \u20b910414.48"
+      ]
+    },
+    {
+      "symbol": "BHARTIARTL",
+      "reasons": [
+        "\u274c Only 0.01% headroom to \u20b91978.96"
+      ]
+    },
+    {
+      "symbol": "DIVISLAB",
+      "reasons": [
+        "\u274c Only -1.54% headroom to \u20b99358.83"
+      ]
+    },
+    {
+      "symbol": "KOTAKBANK",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "TATACONSUM",
+      "reasons": [
+        "\u274c Only -3.43% headroom to \u20b9965.75"
+      ]
+    }
+  ]
+}
