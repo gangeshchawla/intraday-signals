@@ -1,0 +1,72 @@
+{
+  "date": "Thursday, 29 October 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "entry_price": 224.88999938964844,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9224.89 vs \u20b9224.89)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 4.41% headroom to \u20b9234.81"
+      ],
+      "capital_allocated": 5000.0,
+      "qty": 22,
+      "target_price": 226.01,
+      "stoploss_price": 222.64,
+      "actual_capital": 4947.58,
+      "max_profit": 24.74,
+      "max_loss": 49.48
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "symbol": "WIPRO",
+      "entry_price": 184.5,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9184.50 vs \u20b9184.50)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 5.11% headroom to \u20b9193.93"
+      ],
+      "capital_allocated": 5000.0,
+      "qty": 27,
+      "target_price": 185.42,
+      "stoploss_price": 182.66,
+      "actual_capital": 4981.5,
+      "max_profit": 24.91,
+      "max_loss": 49.81
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "APOLLOHOSP",
+      "reasons": [
+        "\u274c Only -0.66% headroom to \u20b98083.27"
+      ]
+    },
+    {
+      "symbol": "HCLTECH",
+      "reasons": [
+        "\u274c Weak volume (0.4x avg)"
+      ]
+    },
+    {
+      "symbol": "LT",
+      "reasons": [
+        "\u274c Only -0.67% headroom to \u20b93775.88"
+      ]
+    },
+    {
+      "symbol": "SHREECEM",
+      "reasons": [
+        "\u274c Weak volume (0.2x avg)"
+      ]
+    }
+  ]
+}
