@@ -1,0 +1,29 @@
+{
+  "date": "Friday, 30 October 2026",
+  "checks": [
+    {
+      "ticker": "ASIANPAINT.NS",
+      "symbol": "ASIANPAINT",
+      "premarket_price": NaN,
+      "predicted_day_high": NaN,
+      "current_price": 2302.0,
+      "vs_8am_pct": NaN,
+      "status": "REVERSED",
+      "note": "Moved against prediction. Will be excluded from 10:05 AM signals.",
+      "vol_ratio": 3.3131427263285698,
+      "avg_volume": 760931.35
+    },
+    {
+      "ticker": "HEROMOTOCO.NS",
+      "symbol": "HEROMOTOCO",
+      "premarket_price": NaN,
+      "predicted_day_high": NaN,
+      "current_price": 5105.0,
+      "vs_8am_pct": NaN,
+      "status": "REVERSED",
+      "note": "Moved against prediction. Will be excluded from 10:05 AM signals.",
+      "vol_ratio": 1.9549035646924413,
+      "avg_volume": 554694.55
+    }
+  ]
+}
