@@ -1,0 +1,100 @@
+{
+  "date": "Monday, 02 November 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "ITC.NS",
+      "symbol": "ITC",
+      "entry_price": 265.6000061035156,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9265.60 vs \u20b9265.60)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.39% headroom to \u20b9271.96"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 9,
+      "target_price": 266.93,
+      "stoploss_price": 262.94,
+      "actual_capital": 2390.4,
+      "max_profit": 11.95,
+      "max_loss": 23.9
+    },
+    {
+      "ticker": "NTPC.NS",
+      "symbol": "NTPC",
+      "entry_price": 316.25,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9316.25 vs \u20b9316.25)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.14% headroom to \u20b9319.86"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 7,
+      "target_price": 317.83,
+      "stoploss_price": 313.09,
+      "actual_capital": 2213.75,
+      "max_profit": 11.07,
+      "max_loss": 22.14
+    },
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "entry_price": 225.38999938964844,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9225.39 vs \u20b9225.39)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.33% headroom to \u20b9230.65"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 11,
+      "target_price": 226.52,
+      "stoploss_price": 223.14,
+      "actual_capital": 2479.29,
+      "max_profit": 12.4,
+      "max_loss": 24.79
+    },
+    {
+      "ticker": "POWERGRID.NS",
+      "symbol": "POWERGRID",
+      "entry_price": 265.0,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9265.00 vs \u20b9265.00)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.4x)",
+        "\u2705 MACD bullish",
+        "\u2705 0.96% headroom to \u20b9267.55"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 9,
+      "target_price": 266.32,
+      "stoploss_price": 262.35,
+      "actual_capital": 2385.0,
+      "max_profit": 11.93,
+      "max_loss": 23.85
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "APOLLOHOSP",
+      "reasons": [
+        "\u274c Only 0.29% headroom to \u20b98472.69"
+      ]
+    },
+    {
+      "symbol": "WIPRO",
+      "reasons": [
+        "\u274c Only -0.47% headroom to \u20b9197.38"
+      ]
+    }
+  ]
+}
