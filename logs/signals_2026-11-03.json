@@ -1,0 +1,151 @@
+{
+  "date": "Tuesday, 03 November 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "ITC.NS",
+      "symbol": "ITC",
+      "entry_price": 266.3999938964844,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9266.40 vs \u20b9266.40)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.16% headroom to \u20b9272.16"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 9,
+      "target_price": 267.73,
+      "stoploss_price": 263.74,
+      "actual_capital": 2397.6,
+      "max_profit": 11.99,
+      "max_loss": 23.98
+    },
+    {
+      "ticker": "NTPC.NS",
+      "symbol": "NTPC",
+      "entry_price": 323.0,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9323.00 vs \u20b9323.00)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.5x)",
+        "\u2705 MACD bullish",
+        "\u2705 0.89% headroom to \u20b9325.88",
+        "\ud83d\udca1 Gap up +1.17% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 7,
+      "target_price": 324.61,
+      "stoploss_price": 319.77,
+      "actual_capital": 2261.0,
+      "max_profit": 11.3,
+      "max_loss": 22.61
+    },
+    {
+      "ticker": "POWERGRID.NS",
+      "symbol": "POWERGRID",
+      "entry_price": 267.70001220703125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9267.70 vs \u20b9267.70)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.0x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.86% headroom to \u20b9272.68",
+        "\ud83d\udca1 Gap up +0.57% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 9,
+      "target_price": 269.04,
+      "stoploss_price": 265.02,
+      "actual_capital": 2409.3,
+      "max_profit": 12.05,
+      "max_loss": 24.09
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "symbol": "WIPRO",
+      "entry_price": 196.39999389648438,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9196.40 vs \u20b9196.40)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 4.78% headroom to \u20b9205.78"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 12,
+      "target_price": 197.38,
+      "stoploss_price": 194.44,
+      "actual_capital": 2356.8,
+      "max_profit": 11.78,
+      "max_loss": 23.57
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "BPCL",
+      "reasons": [
+        "\u274c Only 0.48% headroom to \u20b9294.45"
+      ]
+    },
+    {
+      "symbol": "COALINDIA",
+      "reasons": [
+        "\u274c MACD bearish",
+        "\u274c Only -1.59% headroom to \u20b9401.52"
+      ]
+    },
+    {
+      "symbol": "GRASIM",
+      "reasons": [
+        "\u274c Only 0.17% headroom to \u20b93062.23"
+      ]
+    },
+    {
+      "symbol": "HINDALCO",
+      "reasons": [
+        "\u274c Only 0.13% headroom to \u20b9912.63"
+      ]
+    },
+    {
+      "symbol": "JSWSTEEL",
+      "reasons": [
+        "\u274c Only -1.52% headroom to \u20b91289.96"
+      ]
+    },
+    {
+      "symbol": "MARUTI",
+      "reasons": [
+        "\u274c Only 0.43% headroom to \u20b911722.38"
+      ]
+    },
+    {
+      "symbol": "ONGC",
+      "reasons": [
+        "\u274c Only -1.76% headroom to \u20b9230.69"
+      ]
+    },
+    {
+      "symbol": "RELIANCE",
+      "reasons": [
+        "\u274c Only -7.02% headroom to \u20b91208.76"
+      ]
+    },
+    {
+      "symbol": "SBIN",
+      "reasons": [
+        "\u274c Only -0.21% headroom to \u20b9984.97"
+      ]
+    },
+    {
+      "symbol": "TATASTEEL",
+      "reasons": [
+        "\u274c Only -2.55% headroom to \u20b9172.85"
+      ]
+    }
+  ]
+}
