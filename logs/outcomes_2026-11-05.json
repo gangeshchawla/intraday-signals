@@ -1,0 +1,94 @@
+{
+  "date": "Thursday, 05 November 2026",
+  "summary": {
+    "total_pnl_inr": -48.78,
+    "targets_hit": 1,
+    "stops_hit": 2,
+    "squared_off": 0,
+    "win_rate": 33.3,
+    "total_trades": 3
+  },
+  "outcomes": [
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "entry_price": 235.0,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9235.00 vs \u20b9235.00)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.17% headroom to \u20b9237.75"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 14,
+      "target_price": 236.17,
+      "stoploss_price": 232.65,
+      "actual_capital": 3290.0,
+      "max_profit": 16.45,
+      "max_loss": 32.9,
+      "day_high": 235.0,
+      "day_low": 230.0,
+      "day_close": 235.0,
+      "result": "STOPLOSS_HIT",
+      "exit_price": 232.65,
+      "pnl_pct": -1.0,
+      "date": "2026-11-05"
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "symbol": "TATASTEEL",
+      "entry_price": 179.92999267578125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9179.93 vs \u20b9179.93)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.0x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.19% headroom to \u20b9182.08"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 18,
+      "target_price": 180.83,
+      "stoploss_price": 178.13,
+      "actual_capital": 3238.74,
+      "max_profit": 16.19,
+      "max_loss": 32.39,
+      "day_high": 179.92999267578125,
+      "day_low": 174.24000549316406,
+      "day_close": 179.92999267578125,
+      "result": "STOPLOSS_HIT",
+      "exit_price": 178.13,
+      "pnl_pct": -1.0,
+      "date": "2026-11-05"
+    },
+    {
+      "ticker": "WIPRO.NS",
+      "symbol": "WIPRO",
+      "entry_price": 194.5500030517578,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9194.55 vs \u20b9194.55)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.4x)",
+        "\u2705 MACD bullish",
+        "\u2705 5.51% headroom to \u20b9205.27"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 17,
+      "target_price": 195.52,
+      "stoploss_price": 192.6,
+      "actual_capital": 3307.35,
+      "max_profit": 16.54,
+      "max_loss": 33.07,
+      "day_high": 197.27000427246094,
+      "day_low": 192.39999389648438,
+      "day_close": 194.5500030517578,
+      "result": "TARGET_HIT",
+      "exit_price": 195.52,
+      "pnl_pct": 0.499,
+      "date": "2026-11-05"
+    }
+  ]
+}
