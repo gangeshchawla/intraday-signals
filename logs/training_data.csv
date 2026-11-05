@@ -223,3 +223,4 @@ date,ticker,rsi,macd_diff,sma20_ratio,sma50_ratio,atr_ratio,vol_ratio,volatility
 2026-11-03,WIPRO.NS,,,,,,,,,,,,15.5,,TARGET_HIT,0.499,1
 2026-11-04,BPCL.NS,,,,,,,,,,,,15.72,,TARGET_HIT,0.498,1
 2026-11-04,NTPC.NS,,,,,,,,,,,,15.72,,TARGET_HIT,0.501,1
+2026-11-05,ONGC.NS,,,,,,,,,,,,15.19,,STOPLOSS_HIT,-1.0,0
