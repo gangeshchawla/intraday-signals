@@ -1,0 +1,102 @@
+{
+  "date": "Friday, 06 November 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "INFY.NS",
+      "symbol": "INFY",
+      "entry_price": 1167.4000244140625,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91167.40 vs \u20b91167.40)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.6x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.51% headroom to \u20b91184.99",
+        "\ud83d\udca1 Gap up +1.93% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 2,
+      "target_price": 1173.24,
+      "stoploss_price": 1155.73,
+      "actual_capital": 2334.8,
+      "max_profit": 11.67,
+      "max_loss": 23.35
+    },
+    {
+      "ticker": "JSWSTEEL.NS",
+      "symbol": "JSWSTEEL",
+      "entry_price": 1355.5999755859375,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b91355.60 vs \u20b91355.60)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.9x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.31% headroom to \u20b91386.94",
+        "\ud83d\udca1 Gap up +0.89% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 1,
+      "target_price": 1362.38,
+      "stoploss_price": 1342.04,
+      "actual_capital": 1355.6,
+      "max_profit": 6.78,
+      "max_loss": 13.56
+    },
+    {
+      "ticker": "NTPC.NS",
+      "symbol": "NTPC",
+      "entry_price": 313.70001220703125,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9313.70 vs \u20b9313.70)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.0x)",
+        "\u2705 MACD bullish",
+        "\u2705 4.78% headroom to \u20b9328.69"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 7,
+      "target_price": 315.27,
+      "stoploss_price": 310.56,
+      "actual_capital": 2195.9,
+      "max_profit": 10.98,
+      "max_loss": 21.96
+    },
+    {
+      "ticker": "TATASTEEL.NS",
+      "symbol": "TATASTEEL",
+      "entry_price": 182.0,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9182.00 vs \u20b9182.00)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.3x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.92% headroom to \u20b9185.50"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 13,
+      "target_price": 182.91,
+      "stoploss_price": 180.18,
+      "actual_capital": 2366.0,
+      "max_profit": 11.83,
+      "max_loss": 23.66
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "BAJFINANCE",
+      "reasons": [
+        "\u274c Only -3.59% headroom to \u20b91031.57"
+      ]
+    },
+    {
+      "symbol": "INDUSINDBK",
+      "reasons": [
+        "\u274c Only -1.74% headroom to \u20b9895.60"
+      ]
+    }
+  ]
+}
