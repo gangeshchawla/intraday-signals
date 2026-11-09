@@ -1,0 +1,27 @@
+{
+  "date": "Monday, 09 November 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "WIPRO.NS",
+      "symbol": "WIPRO",
+      "entry_price": 198.0,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9198.00 vs \u20b9197.55)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.14% headroom to \u20b9204.22"
+      ],
+      "capital_allocated": 10000.0,
+      "qty": 50,
+      "target_price": 198.99,
+      "stoploss_price": 196.02,
+      "actual_capital": 9900.0,
+      "max_profit": 49.5,
+      "max_loss": 99.0
+    }
+  ],
+  "skipped": []
+}
