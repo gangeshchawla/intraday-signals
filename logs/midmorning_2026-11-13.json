@@ -1,0 +1,77 @@
+{
+  "date": "Friday, 13 November 2026",
+  "checks": [
+    {
+      "ticker": "EICHERMOT.NS",
+      "symbol": "EICHERMOT",
+      "premarket_price": NaN,
+      "predicted_day_high": NaN,
+      "current_price": NaN,
+      "vs_8am_pct": NaN,
+      "status": "REVERSED",
+      "note": "Moved against prediction. Will be excluded from 10:05 AM signals.",
+      "vol_ratio": 0.34587798598505615,
+      "avg_volume": 465405.45
+    },
+    {
+      "ticker": "GRASIM.NS",
+      "symbol": "GRASIM",
+      "premarket_price": NaN,
+      "predicted_day_high": NaN,
+      "current_price": NaN,
+      "vs_8am_pct": NaN,
+      "status": "REVERSED",
+      "note": "Moved against prediction. Will be excluded from 10:05 AM signals.",
+      "vol_ratio": 0.12578792763943394,
+      "avg_volume": 583577.45
+    },
+    {
+      "ticker": "HDFCLIFE.NS",
+      "symbol": "HDFCLIFE",
+      "premarket_price": NaN,
+      "predicted_day_high": NaN,
+      "current_price": 597.7999877929688,
+      "vs_8am_pct": NaN,
+      "status": "REVERSED",
+      "note": "Moved against prediction. Will be excluded from 10:05 AM signals.",
+      "vol_ratio": 2.5472691407948522,
+      "avg_volume": 2588423.75
+    },
+    {
+      "ticker": "HINDALCO.NS",
+      "symbol": "HINDALCO",
+      "premarket_price": NaN,
+      "predicted_day_high": NaN,
+      "current_price": 964.0,
+      "vs_8am_pct": NaN,
+      "status": "REVERSED",
+      "note": "Moved against prediction. Will be excluded from 10:05 AM signals.",
+      "vol_ratio": 2.300325265332883,
+      "avg_volume": 5557906.6
+    },
+    {
+      "ticker": "ONGC.NS",
+      "symbol": "ONGC",
+      "premarket_price": NaN,
+      "predicted_day_high": NaN,
+      "current_price": 224.5,
+      "vs_8am_pct": NaN,
+      "status": "REVERSED",
+      "note": "Moved against prediction. Will be excluded from 10:05 AM signals.",
+      "vol_ratio": 1.9064762178286936,
+      "avg_volume": 12860132.05
+    },
+    {
+      "ticker": "SBIN.NS",
+      "symbol": "SBIN",
+      "premarket_price": NaN,
+      "predicted_day_high": NaN,
+      "current_price": 1086.5,
+      "vs_8am_pct": NaN,
+      "status": "REVERSED",
+      "note": "Moved against prediction. Will be excluded from 10:05 AM signals.",
+      "vol_ratio": 1.9103396192334499,
+      "avg_volume": 14119377.6
+    }
+  ]
+}
