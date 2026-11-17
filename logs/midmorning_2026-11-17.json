@@ -1,0 +1,41 @@
+{
+  "date": "Tuesday, 17 November 2026",
+  "checks": [
+    {
+      "ticker": "COALINDIA.NS",
+      "symbol": "COALINDIA",
+      "premarket_price": NaN,
+      "predicted_day_high": NaN,
+      "current_price": 397.5,
+      "vs_8am_pct": NaN,
+      "status": "REVERSED",
+      "note": "Moved against prediction. Will be excluded from 10:05 AM signals.",
+      "vol_ratio": 2.1903657445297995,
+      "avg_volume": 8296215.8
+    },
+    {
+      "ticker": "EICHERMOT.NS",
+      "symbol": "EICHERMOT",
+      "premarket_price": NaN,
+      "predicted_day_high": NaN,
+      "current_price": NaN,
+      "vs_8am_pct": NaN,
+      "status": "REVERSED",
+      "note": "Moved against prediction. Will be excluded from 10:05 AM signals.",
+      "vol_ratio": 0.274704033912642,
+      "avg_volume": 533605.8
+    },
+    {
+      "ticker": "ITC.NS",
+      "symbol": "ITC",
+      "premarket_price": NaN,
+      "predicted_day_high": NaN,
+      "current_price": 295.1000061035156,
+      "vs_8am_pct": NaN,
+      "status": "REVERSED",
+      "note": "Moved against prediction. Will be excluded from 10:05 AM signals.",
+      "vol_ratio": 2.3289298195349373,
+      "avg_volume": 21054325.3
+    }
+  ]
+}
