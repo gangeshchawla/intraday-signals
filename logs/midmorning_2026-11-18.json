@@ -1,0 +1,29 @@
+{
+  "date": "Wednesday, 18 November 2026",
+  "checks": [
+    {
+      "ticker": "COALINDIA.NS",
+      "symbol": "COALINDIA",
+      "premarket_price": NaN,
+      "predicted_day_high": NaN,
+      "current_price": 391.54998779296875,
+      "vs_8am_pct": NaN,
+      "status": "REVERSED",
+      "note": "Moved against prediction. Will be excluded from 10:05 AM signals.",
+      "vol_ratio": 2.7268170168724644,
+      "avg_volume": 9349316.05
+    },
+    {
+      "ticker": "UPL.NS",
+      "symbol": "UPL",
+      "premarket_price": NaN,
+      "predicted_day_high": NaN,
+      "current_price": 551.7000122070312,
+      "vs_8am_pct": NaN,
+      "status": "REVERSED",
+      "note": "Moved against prediction. Will be excluded from 10:05 AM signals.",
+      "vol_ratio": 1.8165075427748256,
+      "avg_volume": 2606037.65
+    }
+  ]
+}
