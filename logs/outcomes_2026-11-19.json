@@ -1,0 +1,67 @@
+{
+  "date": "Thursday, 19 November 2026",
+  "summary": {
+    "total_pnl_inr": -95.52,
+    "targets_hit": 0,
+    "stops_hit": 2,
+    "squared_off": 0,
+    "win_rate": 0.0,
+    "total_trades": 2
+  },
+  "outcomes": [
+    {
+      "ticker": "ITC.NS",
+      "symbol": "ITC",
+      "entry_price": 296.6000061035156,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9296.60 vs \u20b9296.60)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.8x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.91% headroom to \u20b9302.27"
+      ],
+      "capital_allocated": 5000.0,
+      "qty": 16,
+      "target_price": 298.08,
+      "stoploss_price": 293.63,
+      "actual_capital": 4745.6,
+      "max_profit": 23.73,
+      "max_loss": 47.46,
+      "day_high": 298.0,
+      "day_low": 288.79998779296875,
+      "day_close": 296.6000061035156,
+      "result": "STOPLOSS_HIT",
+      "exit_price": 293.63,
+      "pnl_pct": -1.001,
+      "date": "2026-11-19"
+    },
+    {
+      "ticker": "NTPC.NS",
+      "symbol": "NTPC",
+      "entry_price": 320.3999938964844,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9320.40 vs \u20b9320.40)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.0x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.35% headroom to \u20b9331.14"
+      ],
+      "capital_allocated": 5000.0,
+      "qty": 15,
+      "target_price": 322.0,
+      "stoploss_price": 317.2,
+      "actual_capital": 4806.0,
+      "max_profit": 24.03,
+      "max_loss": 48.06,
+      "day_high": 320.75,
+      "day_low": 317.1000061035156,
+      "day_close": 320.3999938964844,
+      "result": "STOPLOSS_HIT",
+      "exit_price": 317.2,
+      "pnl_pct": -0.999,
+      "date": "2026-11-19"
+    }
+  ]
+}
