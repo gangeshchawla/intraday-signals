@@ -240,3 +240,4 @@ date,ticker,rsi,macd_diff,sma20_ratio,sma50_ratio,atr_ratio,vol_ratio,volatility
 2026-11-19,ITC.NS,,,,,,,,,,,,15.57,,STOPLOSS_HIT,-1.001,0
 2026-11-19,NTPC.NS,,,,,,,,,,,,15.57,,STOPLOSS_HIT,-0.999,0
 2026-11-20,ITC.NS,,,,,,,,,,,,15.57,,STOPLOSS_HIT,-1.0,0
+2026-11-20,NTPC.NS,,,,,,,,,,,,15.57,,STOPLOSS_HIT,-1.0,0
