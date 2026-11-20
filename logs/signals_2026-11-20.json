@@ -1,0 +1,136 @@
+{
+  "date": "Friday, 20 November 2026",
+  "total_capital": 10000,
+  "orders": [
+    {
+      "ticker": "ITC.NS",
+      "symbol": "ITC",
+      "entry_price": 301.0,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9301.00 vs \u20b9301.00)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.2x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.42% headroom to \u20b9305.27"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 11,
+      "target_price": 302.5,
+      "stoploss_price": 297.99,
+      "actual_capital": 3311.0,
+      "max_profit": 16.55,
+      "max_loss": 33.11
+    },
+    {
+      "ticker": "NTPC.NS",
+      "symbol": "NTPC",
+      "entry_price": 325.0,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9325.00 vs \u20b9325.00)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.9x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.38% headroom to \u20b9329.48"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 10,
+      "target_price": 326.62,
+      "stoploss_price": 321.75,
+      "actual_capital": 3250.0,
+      "max_profit": 16.25,
+      "max_loss": 32.5
+    },
+    {
+      "ticker": "POWERGRID.NS",
+      "symbol": "POWERGRID",
+      "entry_price": 264.5,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9264.50 vs \u20b9264.50)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 0.95% headroom to \u20b9267.00"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 12,
+      "target_price": 265.82,
+      "stoploss_price": 261.86,
+      "actual_capital": 3174.0,
+      "max_profit": 15.87,
+      "max_loss": 31.74
+    }
+  ],
+  "skipped": [
+    {
+      "symbol": "ADANIPORTS",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "BAJAJ-AUTO",
+      "reasons": [
+        "\u274c MACD bearish",
+        "\u274c Only 0.34% headroom to \u20b910853.37"
+      ]
+    },
+    {
+      "symbol": "BPCL",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "BRITANNIA",
+      "reasons": [
+        "\u274c MACD bearish",
+        "\u274c Only -0.69% headroom to \u20b94834.31"
+      ]
+    },
+    {
+      "symbol": "EICHERMOT",
+      "reasons": [
+        "\u274c Only -0.96% headroom to \u20b97981.09"
+      ]
+    },
+    {
+      "symbol": "HEROMOTOCO",
+      "reasons": [
+        "\u274c Only -2.45% headroom to \u20b95419.93"
+      ]
+    },
+    {
+      "symbol": "M&M",
+      "reasons": [
+        "\u274c Only -0.82% headroom to \u20b93480.38"
+      ]
+    },
+    {
+      "symbol": "MARUTI",
+      "reasons": [
+        "\u274c Only -3.83% headroom to \u20b913068.49"
+      ]
+    },
+    {
+      "symbol": "ONGC",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "TATASTEEL",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    },
+    {
+      "symbol": "TITAN",
+      "reasons": [
+        "\u274c MACD bearish"
+      ]
+    }
+  ]
+}
