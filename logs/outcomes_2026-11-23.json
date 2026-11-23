@@ -1,0 +1,121 @@
+{
+  "date": "Monday, 23 November 2026",
+  "summary": {
+    "total_pnl_inr": -22.91,
+    "targets_hit": 2,
+    "stops_hit": 2,
+    "squared_off": 0,
+    "win_rate": 50.0,
+    "total_trades": 4
+  },
+  "outcomes": [
+    {
+      "ticker": "BPCL.NS",
+      "symbol": "BPCL",
+      "entry_price": 314.1000061035156,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9314.10 vs \u20b9314.10)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.27% headroom to \u20b9318.08"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 7,
+      "target_price": 315.67,
+      "stoploss_price": 310.96,
+      "actual_capital": 2198.7,
+      "max_profit": 10.99,
+      "max_loss": 21.99,
+      "day_high": 314.1000061035156,
+      "day_low": 303.6000061035156,
+      "day_close": 314.1000061035156,
+      "result": "STOPLOSS_HIT",
+      "exit_price": 310.96,
+      "pnl_pct": -1.0,
+      "date": "2026-11-23"
+    },
+    {
+      "ticker": "ITC.NS",
+      "symbol": "ITC",
+      "entry_price": 299.1000061035156,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9299.10 vs \u20b9299.10)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.3x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.58% headroom to \u20b9309.80"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 8,
+      "target_price": 300.6,
+      "stoploss_price": 296.11,
+      "actual_capital": 2392.8,
+      "max_profit": 11.96,
+      "max_loss": 23.93,
+      "day_high": 301.0,
+      "day_low": 294.29998779296875,
+      "day_close": 299.1000061035156,
+      "result": "TARGET_HIT",
+      "exit_price": 300.6,
+      "pnl_pct": 0.502,
+      "date": "2026-11-23"
+    },
+    {
+      "ticker": "NTPC.NS",
+      "symbol": "NTPC",
+      "entry_price": 321.5,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9321.50 vs \u20b9321.50)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.0x)",
+        "\u2705 MACD bullish",
+        "\u2705 3.83% headroom to \u20b9333.82"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 7,
+      "target_price": 323.11,
+      "stoploss_price": 318.29,
+      "actual_capital": 2250.5,
+      "max_profit": 11.25,
+      "max_loss": 22.5,
+      "day_high": 324.0,
+      "day_low": 318.79998779296875,
+      "day_close": 321.5,
+      "result": "TARGET_HIT",
+      "exit_price": 323.11,
+      "pnl_pct": 0.501,
+      "date": "2026-11-23"
+    },
+    {
+      "ticker": "POWERGRID.NS",
+      "symbol": "POWERGRID",
+      "entry_price": 269.0,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9269.00 vs \u20b9269.00)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.2x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.29% headroom to \u20b9272.48"
+      ],
+      "capital_allocated": 2500.0,
+      "qty": 9,
+      "target_price": 270.34,
+      "stoploss_price": 266.31,
+      "actual_capital": 2421.0,
+      "max_profit": 12.11,
+      "max_loss": 24.21,
+      "day_high": 269.0,
+      "day_low": 260.1499938964844,
+      "day_close": 269.0,
+      "result": "STOPLOSS_HIT",
+      "exit_price": 266.31,
+      "pnl_pct": -1.0,
+      "date": "2026-11-23"
+    }
+  ]
+}
