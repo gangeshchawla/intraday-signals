@@ -1,0 +1,95 @@
+{
+  "date": "Tuesday, 24 November 2026",
+  "summary": {
+    "total_pnl_inr": 47.37,
+    "targets_hit": 3,
+    "stops_hit": 0,
+    "squared_off": 0,
+    "win_rate": 100.0,
+    "total_trades": 3
+  },
+  "outcomes": [
+    {
+      "ticker": "ITC.NS",
+      "symbol": "ITC",
+      "entry_price": 301.0,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9301.00 vs \u20b9301.00)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.2x)",
+        "\u2705 MACD bullish",
+        "\u2705 2.28% headroom to \u20b9307.87",
+        "\ud83d\udca1 Gap up +0.30% holding \u2014 adds confidence"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 11,
+      "target_price": 302.5,
+      "stoploss_price": 297.99,
+      "actual_capital": 3311.0,
+      "max_profit": 16.55,
+      "max_loss": 33.11,
+      "day_high": 303.5,
+      "day_low": 298.5,
+      "day_close": 301.0,
+      "result": "TARGET_HIT",
+      "exit_price": 302.5,
+      "pnl_pct": 0.498,
+      "date": "2026-11-24"
+    },
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "entry_price": 502.8500061035156,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9502.85 vs \u20b9502.85)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.9x)",
+        "\u2705 MACD bullish",
+        "\u2705 5.44% headroom to \u20b9530.22"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 6,
+      "target_price": 505.36,
+      "stoploss_price": 497.82,
+      "actual_capital": 3017.1,
+      "max_profit": 15.09,
+      "max_loss": 30.17,
+      "day_high": 521.5,
+      "day_low": 501.1000061035156,
+      "day_close": 502.8500061035156,
+      "result": "TARGET_HIT",
+      "exit_price": 505.36,
+      "pnl_pct": 0.499,
+      "date": "2026-11-24"
+    },
+    {
+      "ticker": "POWERGRID.NS",
+      "symbol": "POWERGRID",
+      "entry_price": 264.8500061035156,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9264.85 vs \u20b9264.85)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (1.2x)",
+        "\u2705 MACD bullish",
+        "\u2705 4.69% headroom to \u20b9277.26"
+      ],
+      "capital_allocated": 3333.3333333333335,
+      "qty": 12,
+      "target_price": 266.17,
+      "stoploss_price": 262.2,
+      "actual_capital": 3178.2,
+      "max_profit": 15.89,
+      "max_loss": 31.78,
+      "day_high": 272.95001220703125,
+      "day_low": 264.0,
+      "day_close": 264.8500061035156,
+      "result": "TARGET_HIT",
+      "exit_price": 266.17,
+      "pnl_pct": 0.498,
+      "date": "2026-11-24"
+    }
+  ]
+}
