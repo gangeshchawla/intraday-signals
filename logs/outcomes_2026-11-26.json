@@ -1,0 +1,67 @@
+{
+  "date": "Thursday, 26 November 2026",
+  "summary": {
+    "total_pnl_inr": 47.81,
+    "targets_hit": 2,
+    "stops_hit": 0,
+    "squared_off": 0,
+    "win_rate": 100.0,
+    "total_trades": 2
+  },
+  "outcomes": [
+    {
+      "ticker": "KOTAKBANK.NS",
+      "symbol": "KOTAKBANK",
+      "entry_price": 509.0,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9509.00 vs \u20b9509.00)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 1.64% headroom to \u20b9517.37"
+      ],
+      "capital_allocated": 5000.0,
+      "qty": 9,
+      "target_price": 511.54,
+      "stoploss_price": 503.91,
+      "actual_capital": 4581.0,
+      "max_profit": 22.91,
+      "max_loss": 45.81,
+      "day_high": 513.9000244140625,
+      "day_low": 504.5,
+      "day_close": 509.0,
+      "result": "TARGET_HIT",
+      "exit_price": 511.54,
+      "pnl_pct": 0.499,
+      "date": "2026-11-26"
+    },
+    {
+      "ticker": "UPL.NS",
+      "symbol": "UPL",
+      "entry_price": 554.4500122070312,
+      "confidence": 100.0,
+      "reasons": [
+        "\u2705 Above 8AM price (\u20b9554.45 vs \u20b9554.45)",
+        "\u2705 Above 20-day MA",
+        "\u2705 Volume on track (0.7x)",
+        "\u2705 MACD bullish",
+        "\u2705 4.65% headroom to \u20b9580.21"
+      ],
+      "capital_allocated": 5000.0,
+      "qty": 9,
+      "target_price": 557.22,
+      "stoploss_price": 548.91,
+      "actual_capital": 4990.05,
+      "max_profit": 24.95,
+      "max_loss": 49.9,
+      "day_high": 574.0,
+      "day_low": 547.3499755859375,
+      "day_close": 554.4500122070312,
+      "result": "TARGET_HIT",
+      "exit_price": 557.22,
+      "pnl_pct": 0.5,
+      "date": "2026-11-26"
+    }
+  ]
+}
