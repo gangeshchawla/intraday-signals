@@ -1,0 +1,53 @@
+{
+  "date": "Friday, 27 November 2026",
+  "checks": [
+    {
+      "ticker": "BRITANNIA.NS",
+      "symbol": "BRITANNIA",
+      "premarket_price": NaN,
+      "predicted_day_high": NaN,
+      "current_price": NaN,
+      "vs_8am_pct": NaN,
+      "status": "REVERSED",
+      "note": "Moved against prediction. Will be excluded from 10:05 AM signals.",
+      "vol_ratio": 0.13321842027788067,
+      "avg_volume": 334687.9
+    },
+    {
+      "ticker": "HDFCBANK.NS",
+      "symbol": "HDFCBANK",
+      "premarket_price": NaN,
+      "predicted_day_high": NaN,
+      "current_price": 862.0,
+      "vs_8am_pct": NaN,
+      "status": "REVERSED",
+      "note": "Moved against prediction. Will be excluded from 10:05 AM signals.",
+      "vol_ratio": 1.6207487498344006,
+      "avg_volume": 43505213.25
+    },
+    {
+      "ticker": "HDFCLIFE.NS",
+      "symbol": "HDFCLIFE",
+      "premarket_price": NaN,
+      "predicted_day_high": NaN,
+      "current_price": 594.4000244140625,
+      "vs_8am_pct": NaN,
+      "status": "REVERSED",
+      "note": "Moved against prediction. Will be excluded from 10:05 AM signals.",
+      "vol_ratio": 1.5153052907463211,
+      "avg_volume": 3398758.9
+    },
+    {
+      "ticker": "HINDUNILVR.NS",
+      "symbol": "HINDUNILVR",
+      "premarket_price": NaN,
+      "predicted_day_high": NaN,
+      "current_price": NaN,
+      "vs_8am_pct": NaN,
+      "status": "REVERSED",
+      "note": "Moved against prediction. Will be excluded from 10:05 AM signals.",
+      "vol_ratio": 0.10726937833444057,
+      "avg_volume": 1856361.05
+    }
+  ]
+}
